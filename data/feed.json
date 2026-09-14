@@ -1,7 +1,2840 @@
 {
-  "updated_at": null,
-  "sources_total": 0,
-  "sources_ok": 0,
-  "sources_failed": 0,
-  "items": []
+  "updated_at": "2026-09-14T07:20:12.701644+00:00",
+  "sources_total": 35,
+  "sources_ok": 25,
+  "sources_failed": 10,
+  "items": [
+    {
+      "title": "Coupling Grain Architecture Control With Oxygen‐Vacancy Suppression in Ultra‐Large Single‐ and Quasi‐Single‐Crystal Ni‐Rich Cathodes",
+      "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adfm.78468?af=R",
+      "summary": "Advanced Functional Materials, EarlyView.",
+      "source": "Advanced Functional Materials",
+      "category": "general",
+      "published": "2026-09-12T12:59:31+00:00"
+    },
+    {
+      "title": "Oligoethylene Glycol Side‐Chain Engineering of Y6‐Derived Nonfullerene Acceptors for Thermally Induced Spontaneous Pseudo‐Planar Heterojunction Organic Photodetectors",
+      "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adfm.78303?af=R",
+      "summary": "Advanced Functional Materials, EarlyView.",
+      "source": "Advanced Functional Materials",
+      "category": "general",
+      "published": "2026-09-12T12:56:27+00:00"
+    },
+    {
+      "title": "Halogen‐Regulated Luminescent Silver(I) Halide Complexes and the Gel Scintillation Screen for X‐Ray Imaging",
+      "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adfm.78388?af=R",
+      "summary": "Advanced Functional Materials, EarlyView.",
+      "source": "Advanced Functional Materials",
+      "category": "general",
+      "published": "2026-09-12T12:54:25+00:00"
+    },
+    {
+      "title": "Electrical‐Programming‐Free Neural Crossbars Enabled by Photochemical Weight Patterning",
+      "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adfm.78420?af=R",
+      "summary": "Advanced Functional Materials, EarlyView.",
+      "source": "Advanced Functional Materials",
+      "category": "general",
+      "published": "2026-09-12T12:53:06+00:00"
+    },
+    {
+      "title": "Decoupled Temperature‐Pressure Sensing via Hierarchical Porous Sponge for Thermo‐Tactile Perception",
+      "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adfm.78367?af=R",
+      "summary": "Advanced Functional Materials, EarlyView.",
+      "source": "Advanced Functional Materials",
+      "category": "general",
+      "published": "2026-09-12T12:50:33+00:00"
+    },
+    {
+      "title": "Wearable Electrochemical Sweat Sensors Beyond Snapshots With Long‐Term Stability",
+      "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adfm.78410?af=R",
+      "summary": "Advanced Functional Materials, EarlyView.",
+      "source": "Advanced Functional Materials",
+      "category": "general",
+      "published": "2026-09-12T12:49:15+00:00"
+    },
+    {
+      "title": "Antisolvent Engineering Enabled Stretchable and Transparent Thermogalvanic Hydrogels with High Thermoelectric Properties",
+      "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adfm.78319?af=R",
+      "summary": "Advanced Functional Materials, EarlyView.",
+      "source": "Advanced Functional Materials",
+      "category": "general",
+      "published": "2026-09-12T12:49:13+00:00"
+    },
+    {
+      "title": "Micro‐Area Interface Regulation for Electromagnetic Responses: Mechanisms, Architectures, and Functional Integration",
+      "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adfm.78206?af=R",
+      "summary": "Advanced Functional Materials, EarlyView.",
+      "source": "Advanced Functional Materials",
+      "category": "general",
+      "published": "2026-09-12T12:49:10+00:00"
+    },
+    {
+      "title": "Lantern‐Inspired Electroosmotic Actuator Enabling High Force and Large Quasi‐Static Displacement for Haptic Displays and Pulse Sensing",
+      "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adfm.78285?af=R",
+      "summary": "Advanced Functional Materials, EarlyView.",
+      "source": "Advanced Functional Materials",
+      "category": "general",
+      "published": "2026-09-12T12:47:55+00:00"
+    },
+    {
+      "title": "Molecular Engineering of Redox‐Induced Conformational Entropy in Polyviologens for Organic Thermogalvanic Cells",
+      "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adfm.78324?af=R",
+      "summary": "Advanced Functional Materials, EarlyView.",
+      "source": "Advanced Functional Materials",
+      "category": "general",
+      "published": "2026-09-12T12:47:13+00:00"
+    },
+    {
+      "title": "Anti‐Solvent‐Free Perovskite Solar Cells Reaching 25.8% Efficiency via a D–A–π–A–D Cathode Interlayer With Strong Interfacial Dipole",
+      "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adfm.78437?af=R",
+      "summary": "Advanced Functional Materials, EarlyView.",
+      "source": "Advanced Functional Materials",
+      "category": "general",
+      "published": "2026-09-12T12:45:52+00:00"
+    },
+    {
+      "title": "Rigid–Flexible Coupled Si3N4 Nanoribbon Aerogels With Carbon–Ceramic Hot‐Face Armor for Oxidation‐Resistant Thermal Protection Stable to 1600°C in Air",
+      "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adfm.78440?af=R",
+      "summary": "Advanced Functional Materials, EarlyView.",
+      "source": "Advanced Functional Materials",
+      "category": "general",
+      "published": "2026-09-12T12:44:41+00:00"
+    },
+    {
+      "title": "A Magneto‐Mechanically Activated Nerve Guidance Conduit Promotes Peripheral Nerve Regeneration via TIMP1‐Mediated Membrane Tension Transfer",
+      "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adfm.78442?af=R",
+      "summary": "Advanced Functional Materials, EarlyView.",
+      "source": "Advanced Functional Materials",
+      "category": "general",
+      "published": "2026-09-12T12:43:27+00:00"
+    },
+    {
+      "title": "Stress Mitigation and Impact Energy Dissipation in Bioinspired Vertically Layered Architected Composites",
+      "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adfm.78371?af=R",
+      "summary": "Advanced Functional Materials, EarlyView.",
+      "source": "Advanced Functional Materials",
+      "category": "general",
+      "published": "2026-09-12T12:39:11+00:00"
+    },
+    {
+      "title": "Hierarchical Assembly of Sub‐2 nm Amorphous Nanobelt Membranes for Oil–Water Separation via Pore Engineering",
+      "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adfm.78436?af=R",
+      "summary": "Advanced Functional Materials, EarlyView.",
+      "source": "Advanced Functional Materials",
+      "category": "general",
+      "published": "2026-09-12T12:37:01+00:00"
+    },
+    {
+      "title": "Ni/Mg‐Doped Ceria Interface Enhances Concentrated Solar‐Driven CO2 Reduction With CH4",
+      "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71573?af=R",
+      "summary": "Advanced Energy Materials, EarlyView.",
+      "source": "Advanced Energy Materials",
+      "category": "general",
+      "published": "2026-09-12T11:30:18+00:00"
+    },
+    {
+      "title": "Fused Triphenylamine‐Terminated Self‐Assembled Hole‐Transporting Monolayers for Perovskite Solar Cells",
+      "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71589?af=R",
+      "summary": "Advanced Energy Materials, EarlyView.",
+      "source": "Advanced Energy Materials",
+      "category": "general",
+      "published": "2026-09-12T11:27:31+00:00"
+    },
+    {
+      "title": "Rigid Symmetric Aromatic Dithiourea Passivation with Strong Intrinsic Dipole for 21.72%‐Efficient SnO2‐Based Inorganic Perovskite Solar Cells",
+      "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71574?af=R",
+      "summary": "Advanced Energy Materials, EarlyView.",
+      "source": "Advanced Energy Materials",
+      "category": "general",
+      "published": "2026-09-12T11:26:14+00:00"
+    },
+    {
+      "title": "Biodegradable and Closed‐Loop Recyclable Hyaluronic Acid/Alginate Gel Electrolyte for Ultra‐Durable Zinc‐Iodine Batteries",
+      "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71558?af=R",
+      "summary": "Advanced Energy Materials, EarlyView.",
+      "source": "Advanced Energy Materials",
+      "category": "general",
+      "published": "2026-09-12T11:25:37+00:00"
+    },
+    {
+      "title": "Ultrasound‐Driven Piezocatalytic Hydrogen Peroxide Generation and Applications",
+      "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71488?af=R",
+      "summary": "Advanced Energy Materials, EarlyView.",
+      "source": "Advanced Energy Materials",
+      "category": "general",
+      "published": "2026-09-12T11:24:21+00:00"
+    },
+    {
+      "title": "Self‐Sustaining Water–Electricity Co‐Supply Via a Wirtz‐Pump‐Driven Triboelectric Nanogenerator",
+      "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71578?af=R",
+      "summary": "Advanced Energy Materials, EarlyView.",
+      "source": "Advanced Energy Materials",
+      "category": "general",
+      "published": "2026-09-12T11:22:09+00:00"
+    },
+    {
+      "title": "A Goldilocks‐Inspired Amphiphilic Additive Orchestrates Interfacial Microenvironment Homeostasis for Stable 1.2 Ah Zinc Pouch Cells",
+      "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71566?af=R",
+      "summary": "Advanced Energy Materials, EarlyView.",
+      "source": "Advanced Energy Materials",
+      "category": "general",
+      "published": "2026-09-12T11:20:48+00:00"
+    },
+    {
+      "title": "Competing Charge Separation Pathways Govern Charge Generation in Organic Photovoltaic Blends: Insights From Transient Electron Spin Resonance",
+      "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71555?af=R",
+      "summary": "Advanced Energy Materials, EarlyView.",
+      "source": "Advanced Energy Materials",
+      "category": "general",
+      "published": "2026-09-12T11:19:32+00:00"
+    },
+    {
+      "title": "Lewis Acid‐Enabled Functional SEI/CEI Design for Durable Lithium Metal Batteries",
+      "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71548?af=R",
+      "summary": "Advanced Energy Materials, EarlyView.",
+      "source": "Advanced Energy Materials",
+      "category": "general",
+      "published": "2026-09-12T11:18:05+00:00"
+    },
+    {
+      "title": "Mechanically Robust Sulfide Electrolyte Membrane Featuring In Situ Dendrite Depletion for High‐Stability All‐Solid‐State Lithium Metal Batteries",
+      "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71576?af=R",
+      "summary": "Advanced Energy Materials, EarlyView.",
+      "source": "Advanced Energy Materials",
+      "category": "general",
+      "published": "2026-09-12T11:17:28+00:00"
+    },
+    {
+      "title": "Advanced Energy Materials at 15: Advancing the Energy Transition From Fundamental Insights to Practical Technologies",
+      "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71564?af=R",
+      "summary": "Advanced Energy Materials, EarlyView.",
+      "source": "Advanced Energy Materials",
+      "category": "general",
+      "published": "2026-09-12T11:16:52+00:00"
+    },
+    {
+      "title": "A Dynamic Surface Metal‐Organic Framework Electrocatalyst: Potential‐Driven Activation of Atomically Defined Au Sites for the Hydrogen Evolution Reaction",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1002/smll.75601?af=R",
+      "summary": "Small, EarlyView.",
+      "source": "Small",
+      "category": "general",
+      "published": "2026-09-12T09:05:25+00:00"
+    },
+    {
+      "title": "Sulfur‐Mediated Hollow Engineering FeSe2/CuCoSe2 Heterojunction Nanozyme for Synergistic NIR‐II Photothermal/Enzymatic Therapy",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1002/smll.75732?af=R",
+      "summary": "Small, EarlyView.",
+      "source": "Small",
+      "category": "general",
+      "published": "2026-09-12T08:54:32+00:00"
+    },
+    {
+      "title": "Phytochemical Molecular Engineering Reconfiguring Solvation Chemistry and Interfacial Energy for Highly Reversible and Long‐Lifespan Zn‐Ion Batteries",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1002/smll.75704?af=R",
+      "summary": "Small, EarlyView.",
+      "source": "Small",
+      "category": "general",
+      "published": "2026-09-12T08:05:01+00:00"
+    },
+    {
+      "title": "Defect‐Induced Local Piezoresponse of Anodic Nanotube Arrays on Ti‐Rich Medium‐Entropy Alloy for Stimulus‐Responsive Bioactive and Antibacterial Surfaces",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1002/smll.75749?af=R",
+      "summary": "Small, EarlyView.",
+      "source": "Small",
+      "category": "general",
+      "published": "2026-09-12T08:03:11+00:00"
+    },
+    {
+      "title": "One‐Pot Construction of Core–Shell MnO/SiOx@NC Composites for High‐Performance SiOx Anodes via Synergistic Interfacial Engineering",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1002/smll.75671?af=R",
+      "summary": "Small, EarlyView.",
+      "source": "Small",
+      "category": "general",
+      "published": "2026-09-12T08:02:30+00:00"
+    },
+    {
+      "title": "Straintronics and Twistronics in 2D Materials: Structural Control and Predictive Design",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1002/smll.75451?af=R",
+      "summary": "Small, EarlyView.",
+      "source": "Small",
+      "category": "general",
+      "published": "2026-09-12T08:01:43+00:00"
+    },
+    {
+      "title": "Enhancing Interfacial Stability Between NASICON‐Type Solid‐State Electrolyte and Lithium Metal Anode via Multifunctional Synergistic Interface Engineering",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1002/smll.75686?af=R",
+      "summary": "Small, EarlyView.",
+      "source": "Small",
+      "category": "general",
+      "published": "2026-09-12T07:10:08+00:00"
+    },
+    {
+      "title": "Cationic Natural Scallion Membranes for Efficient Osmotic Power Generation",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1002/smll.75776?af=R",
+      "summary": "Small, EarlyView.",
+      "source": "Small",
+      "category": "general",
+      "published": "2026-09-12T07:05:49+00:00"
+    },
+    {
+      "title": "Compatibilizer‐Mediated Aggregation Suppression Enables High‐Performance Organic Photovoltaic Modules Processed From Green Solvents",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1002/smll.75705?af=R",
+      "summary": "Small, EarlyView.",
+      "source": "Small",
+      "category": "general",
+      "published": "2026-09-12T07:02:00+00:00"
+    },
+    {
+      "title": "Decoupling the Retention–Energy Trade‐Off Through Structural Reorganization of Synaptic Polyelectrolytes for Nonvolatile Neuromorphic Devices",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1002/smll.75766?af=R",
+      "summary": "Small, EarlyView.",
+      "source": "Small",
+      "category": "general",
+      "published": "2026-09-12T07:00:04+00:00"
+    },
+    {
+      "title": "Interfacial Engineering With a Multifunctional LaPO4/LaF3 Coating Enables Durable 4.65 V LiCoO2 Cathodes With High‐Rate Capability",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1002/smll.75702?af=R",
+      "summary": "Small, EarlyView.",
+      "source": "Small",
+      "category": "general",
+      "published": "2026-09-12T07:00:01+00:00"
+    },
+    {
+      "title": "Macrophage‐Targeted Nanozyme Interrupts Inflammation‐Oxidative Stress Storm in Diabetic Wound Healing",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1002/smll.75570?af=R",
+      "summary": "Small, EarlyView.",
+      "source": "Small",
+      "category": "general",
+      "published": "2026-09-12T06:58:04+00:00"
+    },
+    {
+      "title": "Interfacial Electronic Structure Modulation and Surface Reconstruction in (Ni, Co)Se2/MoSe2 Mott‐Schottky Heterojunction for pH‐Universal Hydrogen Evolution",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1002/smll.75680?af=R",
+      "summary": "Small, EarlyView.",
+      "source": "Small",
+      "category": "general",
+      "published": "2026-09-12T06:57:20+00:00"
+    },
+    {
+      "title": "Degradation Mechanisms and Stabilization Strategies of Ag Nanoparticles and Atomically Precise Ag Nanoclusters for Electrochemical CO2 Reduction",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1002/smll.75753?af=R",
+      "summary": "Small, EarlyView.",
+      "source": "Small",
+      "category": "general",
+      "published": "2026-09-12T06:55:06+00:00"
+    },
+    {
+      "title": "Kirigami‐Inspired Deployable Microneedle Robot With Enhanced Conformability for Targeted Oral Drug Delivery",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1002/smll.75632?af=R",
+      "summary": "Small, EarlyView.",
+      "source": "Small",
+      "category": "general",
+      "published": "2026-09-12T06:55:02+00:00"
+    },
+    {
+      "title": "Spatiotemporal Optogenetic Engineered MSCs for the Treatment of ConA‐Induced Liver Injury",
+      "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.74954?af=R",
+      "summary": "Advanced Materials, EarlyView.",
+      "source": "Advanced Materials",
+      "category": "general",
+      "published": "2026-09-12T05:32:23+00:00"
+    },
+    {
+      "title": "Suppressing Halide Defect Formation Through Fluorinated Piperidine Surface Termination Toward Efficient and Stable Perovskite/Silicon Tandem Photovoltaics",
+      "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.74998?af=R",
+      "summary": "Advanced Materials, EarlyView.",
+      "source": "Advanced Materials",
+      "category": "general",
+      "published": "2026-09-12T05:30:32+00:00"
+    },
+    {
+      "title": "Advanced Mechano‐Electrical Coupling Biomaterials for Orthopedics: From Fundamental Mechanisms to Clinical Translation",
+      "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.74982?af=R",
+      "summary": "Advanced Materials, EarlyView.",
+      "source": "Advanced Materials",
+      "category": "general",
+      "published": "2026-09-12T04:30:34+00:00"
+    },
+    {
+      "title": "Innovative Additive Manufacturing of Ultrahigh‐Strength and Heat‐Resistant Aluminum Alloy",
+      "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.74966?af=R",
+      "summary": "Advanced Materials, EarlyView.",
+      "source": "Advanced Materials",
+      "category": "general",
+      "published": "2026-09-12T04:28:26+00:00"
+    },
+    {
+      "title": "Molten Salt Planarizing of Graphene Wrinkles for Efficient Thermal Dissipation",
+      "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.74977?af=R",
+      "summary": "Advanced Materials, EarlyView.",
+      "source": "Advanced Materials",
+      "category": "general",
+      "published": "2026-09-12T04:27:07+00:00"
+    },
+    {
+      "title": "Materials Research at the Institute of Chemistry, Chinese Academy of Sciences",
+      "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.75005?af=R",
+      "summary": "Advanced Materials, EarlyView.",
+      "source": "Advanced Materials",
+      "category": "general",
+      "published": "2026-09-12T04:26:30+00:00"
+    },
+    {
+      "title": "Deterministic Patterning and Alignment of Tellurium Quantum Wires Using Nanoscale Templates",
+      "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.75006?af=R",
+      "summary": "Advanced Materials, EarlyView.",
+      "source": "Advanced Materials",
+      "category": "general",
+      "published": "2026-09-12T04:25:20+00:00"
+    },
+    {
+      "title": "High‐Performance Photodetection of Quasi‐Two‐Dimensional Metal Halides for High‐Pressure Environments Enabled by Anti‐Wilson Effect",
+      "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.74950?af=R",
+      "summary": "Advanced Materials, EarlyView.",
+      "source": "Advanced Materials",
+      "category": "general",
+      "published": "2026-09-12T04:25:18+00:00"
+    },
+    {
+      "title": "Crystalline Poly(triazine) Imide for Photoredox Catalysis",
+      "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.74992?af=R",
+      "summary": "Advanced Materials, EarlyView.",
+      "source": "Advanced Materials",
+      "category": "general",
+      "published": "2026-09-12T04:23:17+00:00"
+    },
+    {
+      "title": "Waste Biopolymer‐Derived Self‐Adjustable Interface for Practical Ah‐Level Aqueous Zinc‐Ion Batteries",
+      "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.75012?af=R",
+      "summary": "Advanced Materials, EarlyView.",
+      "source": "Advanced Materials",
+      "category": "general",
+      "published": "2026-09-12T04:21:44+00:00"
+    },
+    {
+      "title": "Thickness‐Programmable Nanoporous Metafabric for On‐Demand Thermoregulation",
+      "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.75001?af=R",
+      "summary": "Advanced Materials, EarlyView.",
+      "source": "Advanced Materials",
+      "category": "general",
+      "published": "2026-09-12T04:19:42+00:00"
+    },
+    {
+      "title": "Unencapsulated Self‐Hydroadaptive Organic Heterojunctions for Underwater Physiological Monitoring",
+      "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.74922?af=R",
+      "summary": "Advanced Materials, EarlyView.",
+      "source": "Advanced Materials",
+      "category": "general",
+      "published": "2026-09-12T03:20:43+00:00"
+    },
+    {
+      "title": "Computation‐Less, Bias‐Free, and Ultra‐Broadband Photodetector for On‐Chip Edge Extraction",
+      "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.74925?af=R",
+      "summary": "Advanced Materials, EarlyView.",
+      "source": "Advanced Materials",
+      "category": "general",
+      "published": "2026-09-12T03:15:30+00:00"
+    },
+    {
+      "title": "Advanced Materials in Spain",
+      "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.74753?af=R",
+      "summary": "Advanced Materials, Volume 38, Issue 51, 11 September 2026.",
+      "source": "Advanced Materials",
+      "category": "general",
+      "published": "2026-09-11T22:30:41+00:00"
+    },
+    {
+      "title": "Issue Information",
+      "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.74862?af=R",
+      "summary": "Advanced Materials, Volume 38, Issue 51, 11 September 2026.",
+      "source": "Advanced Materials",
+      "category": "general",
+      "published": "2026-09-11T22:30:41+00:00"
+    },
+    {
+      "title": "Generalizable Mechanism‐Anchored Health Management for Lithium‐Ion Batteries Across Complex Degradation Trajectories",
+      "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71572?af=R",
+      "summary": "Advanced Energy Materials, EarlyView.",
+      "source": "Advanced Energy Materials",
+      "category": "general",
+      "published": "2026-09-11T11:03:07+00:00"
+    },
+    {
+      "title": "Monolithic Host‐Separator Continuum Decouples Polyiodide Confinement and Reversibility in Lithium‐Iodine Batteries",
+      "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71575?af=R",
+      "summary": "Advanced Energy Materials, EarlyView.",
+      "source": "Advanced Energy Materials",
+      "category": "general",
+      "published": "2026-09-11T11:02:07+00:00"
+    },
+    {
+      "title": "Doping by degradation",
+      "link": "https://www.nature.com/articles/s41563-026-02736-x",
+      "summary": "Nature Materials, Published online: 11 September 2026; doi:10.1038/s41563-026-02736-xA p-type dopant whose radical anion decomposes after electron transfer can continuously maintain the doping reaction and boost hole…",
+      "source": "Nature Materials",
+      "category": "general",
+      "published": "2026-09-11T00:00:00+00:00"
+    },
+    {
+      "title": "Multifunctional Matrix‐Activated Electrodes Enabling Efficient Proton Transport and Durable Low‐Pt Operation for High‐Temperature Proton Exchange Membrane Fuel Cells",
+      "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71438?af=R",
+      "summary": "Advanced Energy Materials, EarlyView.",
+      "source": "Advanced Energy Materials",
+      "category": "general",
+      "published": "2026-09-10T11:57:57+00:00"
+    },
+    {
+      "title": "Regulating Hybrid Na+/Zn2+‐Ion Acetonitrile‐Water Electrolyte Enables High Rate and Long‐Life Na3V2(PO4)3 Cathode for Zn‐Ion Batteries",
+      "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71539?af=R",
+      "summary": "Advanced Energy Materials, EarlyView.",
+      "source": "Advanced Energy Materials",
+      "category": "general",
+      "published": "2026-09-10T11:57:06+00:00"
+    },
+    {
+      "title": "Weaving braids of defect lines",
+      "link": "https://www.nature.com/articles/s41563-026-02741-0",
+      "summary": "Nature Materials, Published online: 10 September 2026; doi:10.1038/s41563-026-02741-0Colloidal particles steered by light weave the defect lines of a nematic liquid crystal into programmable crossings, realizing…",
+      "source": "Nature Materials",
+      "category": "general",
+      "published": "2026-09-10T00:00:00+00:00"
+    },
+    {
+      "title": "Author Correction: Half-wave nanolasers and intracellular plasmonic lasing particles",
+      "link": "https://www.nature.com/articles/s41565-026-02295-x",
+      "summary": "Nature Nanotechnology, Published online: 10 September 2026; doi:10.1038/s41565-026-02295-xAuthor Correction: Half-wave nanolasers and intracellular plasmonic lasing particles",
+      "source": "Nature Nanotechnology",
+      "category": "general",
+      "published": "2026-09-10T00:00:00+00:00"
+    },
+    {
+      "title": "Molecular modifier aids melting of MOFs",
+      "link": "https://www.nature.com/articles/s41563-026-02738-9",
+      "summary": "Nature Materials, Published online: 09 September 2026; doi:10.1038/s41563-026-02738-9The glass transition temperatures of melting mixtures of metal–organic frameworks (MOFs) and phenanthroline are lowered through…",
+      "source": "Nature Materials",
+      "category": "general",
+      "published": "2026-09-09T00:00:00+00:00"
+    },
+    {
+      "title": "Author Correction: Nanopore-enabled time-resolved monitoring of catecholamine-related phenylalanine metabolism",
+      "link": "https://www.nature.com/articles/s41565-026-02294-y",
+      "summary": "Nature Nanotechnology, Published online: 09 September 2026; doi:10.1038/s41565-026-02294-yAuthor Correction: Nanopore-enabled time-resolved monitoring of catecholamine-related phenylalanine metabolism",
+      "source": "Nature Nanotechnology",
+      "category": "general",
+      "published": "2026-09-09T00:00:00+00:00"
+    },
+    {
+      "title": "How nanophotonics can drive optical computing toward practical applications",
+      "link": "https://www.nature.com/articles/s41565-026-02264-4",
+      "summary": "Nature Nanotechnology, Published online: 09 September 2026; doi:10.1038/s41565-026-02264-4This Review discusses photonic platforms that have already shown programmability, high integration density, and stability, and…",
+      "source": "Nature Nanotechnology",
+      "category": "general",
+      "published": "2026-09-09T00:00:00+00:00"
+    },
+    {
+      "title": "Publisher Correction: An inherent T cell-activating mRNA delivery carrier for in vivo CAR T generation",
+      "link": "https://www.nature.com/articles/s41563-026-02753-w",
+      "summary": "Nature Materials, Published online: 08 September 2026; doi:10.1038/s41563-026-02753-wPublisher Correction: An inherent T cell-activating mRNA delivery carrier for in vivo CAR T generation",
+      "source": "Nature Materials",
+      "category": "general",
+      "published": "2026-09-08T00:00:00+00:00"
+    },
+    {
+      "title": "Processing graphene fibres by viscous flow",
+      "link": "https://www.nature.com/articles/s41563-026-02735-y",
+      "summary": "Nature Materials, Published online: 08 September 2026; doi:10.1038/s41563-026-02735-yPolymer-like viscoelasticity of graphene oxide sheets in glycerol enables ultrahigh-ratio drawing during wet spinning, producing…",
+      "source": "Nature Materials",
+      "category": "general",
+      "published": "2026-09-08T00:00:00+00:00"
+    },
+    {
+      "title": "A boost for CAR T cell therapy",
+      "link": "https://www.nature.com/articles/s41563-026-02725-0",
+      "summary": "Nature Materials, Published online: 08 September 2026; doi:10.1038/s41563-026-02725-0A polymer lipid nanoparticle carrier passively targets, activates and transfects T cells in vivo with chimeric antigen receptor (CAR)…",
+      "source": "Nature Materials",
+      "category": "general",
+      "published": "2026-09-08T00:00:00+00:00"
+    },
+    {
+      "title": "Single-crystalline CoSi semimetals with high conductivity and reliability",
+      "link": "https://www.nature.com/articles/s41563-026-02740-1",
+      "summary": "Nature Materials, Published online: 08 September 2026; doi:10.1038/s41563-026-02740-1The electrical resistivity of conventional copper interconnects increases as their dimensions decrease. In contrast, the resistivity…",
+      "source": "Nature Materials",
+      "category": "general",
+      "published": "2026-09-08T00:00:00+00:00"
+    },
+    {
+      "title": "Publisher Correction: Edge-sharing RuO<sub>2</sub> single layer for stable and low overpotential acidic water electrolysis",
+      "link": "https://www.nature.com/articles/s41565-026-02288-w",
+      "summary": "Nature Nanotechnology, Published online: 08 September 2026; doi:10.1038/s41565-026-02288-wPublisher Correction: Edge-sharing RuO2 single layer for stable and low overpotential acidic water electrolysis",
+      "source": "Nature Nanotechnology",
+      "category": "general",
+      "published": "2026-09-08T00:00:00+00:00"
+    },
+    {
+      "title": "Structured light–matter interaction in semiconductor cavity quantum electrodynamics",
+      "link": "https://www.nature.com/articles/s41565-026-02275-1",
+      "summary": "Nature Nanotechnology, Published online: 08 September 2026; doi:10.1038/s41565-026-02275-1Structured light–matter interaction at the single-photon level is demonstrated in a coupled quantum-dot–micropillar system,…",
+      "source": "Nature Nanotechnology",
+      "category": "general",
+      "published": "2026-09-08T00:00:00+00:00"
+    },
+    {
+      "title": "Charge-switching ionizable lipids lower the toxicity of lipid nanoparticles",
+      "link": "https://www.nature.com/articles/s41565-026-02262-6",
+      "summary": "Nature Nanotechnology, Published online: 08 September 2026; doi:10.1038/s41565-026-02262-6Charge-switching S-lipids generate S-lipid nanoparticles that are neutral or negative at physiological pH but become cationic in…",
+      "source": "Nature Nanotechnology",
+      "category": "general",
+      "published": "2026-09-08T00:00:00+00:00"
+    },
+    {
+      "title": "Electrically programmable polariton symmetry breaking via non-Hermitian dissipation engineering",
+      "link": "https://www.nature.com/articles/s41563-026-02734-z",
+      "summary": "Nature Materials, Published online: 07 September 2026; doi:10.1038/s41563-026-02734-zReversible tuning of polariton topology in α-MoO3/aligned carbon nanotube heterostructures is achieved through gate-tunable…",
+      "source": "Nature Materials",
+      "category": "general",
+      "published": "2026-09-07T00:00:00+00:00"
+    },
+    {
+      "title": "Switchable single-atom catalysts for highly selective C–C coupling in direct methane oxidation",
+      "link": "https://www.nature.com/articles/s41565-026-02271-5",
+      "summary": "Nature Nanotechnology, Published online: 07 September 2026; doi:10.1038/s41565-026-02271-5Single copper atoms on boron nanosheets dynamically and reversibly switch to clusters, enabling the direct conversion of methane…",
+      "source": "Nature Nanotechnology",
+      "category": "general",
+      "published": "2026-09-07T00:00:00+00:00"
+    },
+    {
+      "title": "Defect-bound states of exciton condensate as an analogue of the Yu–Shiba–Rusinov state",
+      "link": "https://www.nature.com/articles/s41565-026-02267-1",
+      "summary": "Nature Nanotechnology, Published online: 03 September 2026; doi:10.1038/s41565-026-02267-1Impurities in a quantum exciton condensate create bound electronic states, as visualized in Ta2Pd3Te5, that are analogous to spin…",
+      "source": "Nature Nanotechnology",
+      "category": "general",
+      "published": "2026-09-03T00:00:00+00:00"
+    },
+    {
+      "title": "Clinical translation of permeation enhancers",
+      "link": "https://www.nature.com/articles/s41578-026-00954-y",
+      "summary": "Nature Reviews Materials, Published online: 01 September 2026; doi:10.1038/s41578-026-00954-yPermeation enhancers are transforming strategies for overcoming biological barriers in therapeutic delivery. This Perspective…",
+      "source": "Nature Reviews Materials",
+      "category": "general",
+      "published": "2026-09-01T00:00:00+00:00"
+    },
+    {
+      "title": "Issue Information",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1002/inf2.70173?af=R",
+      "summary": "InfoMat, Volume 8, Issue 9, September 2026.",
+      "source": "InfoMat",
+      "category": "general",
+      "published": "2026-08-28T05:09:53+00:00"
+    },
+    {
+      "title": "Cover Image",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1002/inf2.70180?af=R",
+      "summary": "InfoMat, Volume 8, Issue 9, September 2026.",
+      "source": "InfoMat",
+      "category": "general",
+      "published": "2026-08-28T05:09:53+00:00"
+    },
+    {
+      "title": "Correction to “Autonomous self‐healing 3D micro‐suction adhesives for multi‐layered amphibious soft skin electronics”",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1002/inf2.70108?af=R",
+      "summary": "InfoMat, Volume 8, Issue 9, September 2026.",
+      "source": "InfoMat",
+      "category": "general",
+      "published": "2026-08-28T05:09:53+00:00"
+    },
+    {
+      "title": "Organic electrochemical transistor‐based tactile perception: From sensing to neuromorphic processing",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1002/inf2.70165?af=R",
+      "summary": "InfoMat, Volume 8, Issue 9, September 2026.",
+      "source": "InfoMat",
+      "category": "general",
+      "published": "2026-08-28T05:09:53+00:00"
+    },
+    {
+      "title": "Harnessing cracks in metal films: Design strategies for stretchable conductors",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1002/inf2.70169?af=R",
+      "summary": "InfoMat, Volume 8, Issue 9, September 2026.",
+      "source": "InfoMat",
+      "category": "general",
+      "published": "2026-08-28T05:09:53+00:00"
+    },
+    {
+      "title": "Bayesian optimization enables balanced ambipolar transport in self‐doped random conjugated polymers",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1002/inf2.70154?af=R",
+      "summary": "InfoMat, Volume 8, Issue 9, September 2026.",
+      "source": "InfoMat",
+      "category": "general",
+      "published": "2026-08-28T05:09:53+00:00"
+    },
+    {
+      "title": "Facet‐engineered BiSI nanorods for intelligent distinguishing detection of NO2/H2S mixed gas",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1002/inf2.70162?af=R",
+      "summary": "InfoMat, Volume 8, Issue 9, September 2026.",
+      "source": "InfoMat",
+      "category": "general",
+      "published": "2026-08-28T05:09:53+00:00"
+    },
+    {
+      "title": "Rhodopsin‐mimetic adaptive photodetectors for intelligent and secure vision systems",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1002/inf2.70163?af=R",
+      "summary": "InfoMat, Volume 8, Issue 9, September 2026.",
+      "source": "InfoMat",
+      "category": "general",
+      "published": "2026-08-28T05:09:53+00:00"
+    },
+    {
+      "title": "Enhanced spontaneous polarization in directional interlayer sliding γ‐InSe for self‐powered, all‐day visual adaptation and motion perception",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1002/inf2.70166?af=R",
+      "summary": "InfoMat, Volume 8, Issue 9, September 2026.",
+      "source": "InfoMat",
+      "category": "general",
+      "published": "2026-08-28T05:09:53+00:00"
+    },
+    {
+      "title": "How single-atom catalysts reframe stability as adaptability",
+      "link": "https://www.nature.com/articles/s41578-026-00960-0",
+      "summary": "Nature Reviews Materials, Published online: 25 August 2026; doi:10.1038/s41578-026-00960-0Single-atom catalysts were initially developed to maximize metal utilization, but they have evolved into a powerful platform for…",
+      "source": "Nature Reviews Materials",
+      "category": "general",
+      "published": "2026-08-25T00:00:00+00:00"
+    },
+    {
+      "title": "Thermo-responsive materials for rechargeable batteries",
+      "link": "https://www.nature.com/articles/s41578-026-00952-0",
+      "summary": "Nature Reviews Materials, Published online: 24 August 2026; doi:10.1038/s41578-026-00952-0Safety presents a central challenge in developing high-energy rechargeable batteries. Thermally responsive polymers provide an…",
+      "source": "Nature Reviews Materials",
+      "category": "general",
+      "published": "2026-08-24T00:00:00+00:00"
+    },
+    {
+      "title": "A hierarchical fibre to trap and sense microplastics",
+      "link": "https://www.nature.com/articles/s41578-026-00956-w",
+      "summary": "Nature Reviews Materials, Published online: 20 August 2026; doi:10.1038/s41578-026-00956-wAn article in Advanced Materials presents a tunicate nanocellulose and MXene fibre that can capture and detect trace levels of…",
+      "source": "Nature Reviews Materials",
+      "category": "general",
+      "published": "2026-08-20T00:00:00+00:00"
+    },
+    {
+      "title": "Engineered coacervates as emerging liquid biomaterials",
+      "link": "https://www.nature.com/articles/s41578-026-00950-2",
+      "summary": "Nature Reviews Materials, Published online: 20 August 2026; doi:10.1038/s41578-026-00950-2Although liquid–liquid phase separation (LLPS) is a fundamental biological principle, the potential of LLPS-driven engineered…",
+      "source": "Nature Reviews Materials",
+      "category": "general",
+      "published": "2026-08-20T00:00:00+00:00"
+    },
+    {
+      "title": "Efficient near‐infrared light‐emitting diodes via enlarging grains of tin‐based perovskites",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1002/inf2.70177?af=R",
+      "summary": "InfoMat, EarlyView.",
+      "source": "InfoMat",
+      "category": "general",
+      "published": "2026-08-17T00:10:02+00:00"
+    },
+    {
+      "title": "Ferroelectric modulated visual devices with spatial and temporal polarization‐sensitivity for information recognition and processing in visibility‐degraded environments",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1002/inf2.70171?af=R",
+      "summary": "InfoMat, EarlyView.",
+      "source": "InfoMat",
+      "category": "general",
+      "published": "2026-08-13T03:28:01+00:00"
+    },
+    {
+      "title": "Engineering disorder for luminous glasses",
+      "link": "https://www.nature.com/articles/s41578-026-00955-x",
+      "summary": "Nature Reviews Materials, Published online: 13 August 2026; doi:10.1038/s41578-026-00955-xAn article in Angewandte Chemie reports a deep eutectic solvent strategy that suppresses crystallization in hybrid metal halide…",
+      "source": "Nature Reviews Materials",
+      "category": "general",
+      "published": "2026-08-13T00:00:00+00:00"
+    },
+    {
+      "title": "The importance of fit-for-purpose structure characterization in autonomous laboratories",
+      "link": "https://www.nature.com/articles/s41578-026-00953-z",
+      "summary": "Nature Reviews Materials, Published online: 13 August 2026; doi:10.1038/s41578-026-00953-zAdvances in robotic experimentation and data-driven decision-making have enabled efficient, autonomous synthesis of bespoke…",
+      "source": "Nature Reviews Materials",
+      "category": "general",
+      "published": "2026-08-13T00:00:00+00:00"
+    },
+    {
+      "title": "Engineered interfaces in electronic materials for energy-efficient computing",
+      "link": "https://www.nature.com/articles/s41578-026-00949-9",
+      "summary": "Nature Reviews Materials, Published online: 03 August 2026; doi:10.1038/s41578-026-00949-9As electronic devices downscale, the energy efficiency of computing is increasingly limited by interfacial transport processes.…",
+      "source": "Nature Reviews Materials",
+      "category": "general",
+      "published": "2026-08-03T00:00:00+00:00"
+    },
+    {
+      "title": "Room‐temperature macroscopic observation of single‐electron quantum states",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1002/inf2.70172?af=R",
+      "summary": "InfoMat, EarlyView.",
+      "source": "InfoMat",
+      "category": "general",
+      "published": "2026-07-28T02:18:18+00:00"
+    },
+    {
+      "title": "Building a library of electrocatalysts based on single‐centered metallophthalocyanines",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1002/inf2.70170?af=R",
+      "summary": "InfoMat, EarlyView.",
+      "source": "InfoMat",
+      "category": "general",
+      "published": "2026-07-21T13:27:41+00:00"
+    },
+    {
+      "title": "Architecting nano‐Al/HMX/CuO energetic micro‐units unlocks superior interface and highly efficient combustion",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1002/inf2.70167?af=R",
+      "summary": "InfoMat, EarlyView.",
+      "source": "InfoMat",
+      "category": "general",
+      "published": "2026-07-13T06:32:30+00:00"
+    },
+    {
+      "title": "Plastic luminescence in mechanoluminescent composites",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1002/inf2.70164?af=R",
+      "summary": "InfoMat, EarlyView.",
+      "source": "InfoMat",
+      "category": "general",
+      "published": "2026-07-12T07:00:00+00:00"
+    },
+    {
+      "title": "Conventional Sintering for Unconventional Performance: Robust Amorphous Carbon/Diamond Composites",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1369702126003603?dgcid=rss_sd_all",
+      "summary": "Publication date: November 2026Source: Materials Today, Volume 100, Part AAuthor(s): Zitai Liang, Song Zhao, Penghui Li, Weiyao Zhang, Yefei Zhou, Bing Liu, Ke Tong, Baozhong Li, Mengdong Ma, Shuai Chen, Yingju Wu,…",
+      "source": "Materials Today",
+      "category": "general",
+      "published": null
+    },
+    {
+      "title": "Scalable interphase engineering through nature-abundant isovaleraldehyde for stable high-nickel cathode at ultra-high rates",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1369702126003615?dgcid=rss_sd_all",
+      "summary": "Publication date: November 2026Source: Materials Today, Volume 100, Part AAuthor(s): Yuhui He, Yunfa Dong, Botao Yuan, Yize Jiang, Shijie Zhong, Shengyu Zhou, Zhihao Zhu, Haodong Xie, Chade Lv, Chunshuang Yan, Jiaqi…",
+      "source": "Materials Today",
+      "category": "general",
+      "published": null
+    },
+    {
+      "title": "Controlling iodine reaction topology under Constraints: Mechanistic design principles for Extreme-Environment Zinc–Iodine batteries",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1369702126003561?dgcid=rss_sd_all",
+      "summary": "Publication date: November 2026Source: Materials Today, Volume 100, Part AAuthor(s): Zongyou Jiang, Xing Yang, Jing Zhang, Jiansheng Yang, Jinhai He, Xuntao Wang, Jiali Wang, Jiayao Wu, Zixu Sun, Hua Kun Liu",
+      "source": "Materials Today",
+      "category": "general",
+      "published": null
+    },
+    {
+      "title": "Extraordinary piezoelectricity in an organic nonlinear optical material",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1369702126003585?dgcid=rss_sd_all",
+      "summary": "Publication date: November 2026Source: Materials Today, Volume 100, Part AAuthor(s): Yu Gu, Xiangdong Xu, Wenzhe Zhou, Pengfei Hou, Zelin Dai, Xinrong Li, Xiaomeng Cheng, Fangping Ouyang, Zhixiong Yang, Jinbin Wang,…",
+      "source": "Materials Today",
+      "category": "general",
+      "published": null
+    },
+    {
+      "title": "Full-spectrum hydrochromic upconversion switching via dimensional reconstruction for temporal optical multiplexing",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1369702126003597?dgcid=rss_sd_all",
+      "summary": "Publication date: November 2026Source: Materials Today, Volume 100, Part AAuthor(s): Shuohan Li, Siyuan Wang, Xinyang Zhao, Xin Zhang, Jiangkun Chen, Zhifeng Xing, Lingou Yang, Yu Wang, Fengjun Chun, Songbin Liu,…",
+      "source": "Materials Today",
+      "category": "general",
+      "published": null
+    },
+    {
+      "title": "The origin of plasticity in the van der Waals semiconductor GaGeTe",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1369702126003445?dgcid=rss_sd_all",
+      "summary": "Publication date: November 2026Source: Materials Today, Volume 100, Part AAuthor(s): Qiao Wang, Liangbo Sun, You Wu, Yuqing Wang, Huan Liu, Pengyue Zhao, Jialu Li, Haiying Xiao, Ping-An Hu",
+      "source": "Materials Today",
+      "category": "general",
+      "published": null
+    },
+    {
+      "title": "Sputter-resistant aluminium oxide layer enables robust perovskite tandem solar cells",
+      "link": "https://www.sciencedirect.com/science/article/pii/S136970212600297X?dgcid=rss_sd_all",
+      "summary": "Publication date: November 2026Source: Materials Today, Volume 100, Part AAuthor(s): Seyma Topcu, Nepomuk Zieske, Mayank Kedia, Chittaranjan Das, Martina Pesci, Oleksandr Bondarchuk, José J. Jerónimo-Rendon, Tobias…",
+      "source": "Materials Today",
+      "category": "general",
+      "published": null
+    },
+    {
+      "title": "<em>In situ</em> studies on heavy ion irradiation and partial oxidation induced stacking faults and nanograins in tungsten nanolaminates",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1369702126003408?dgcid=rss_sd_all",
+      "summary": "Publication date: November 2026Source: Materials Today, Volume 100, Part AAuthor(s): Adil Wazeer, Debargha Paul, Xuanyu Sheng, Lihao Shi, Yinghang Liu, Zhongxia Shang, Chang Xia, Vaibhav Singh, Wei-Ying Chen, Fei Gao,…",
+      "source": "Materials Today",
+      "category": "general",
+      "published": null
+    },
+    {
+      "title": "Super ductile steel via sequentially activating multiple strengthening mechanisms",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1369702126003433?dgcid=rss_sd_all",
+      "summary": "Publication date: November 2026Source: Materials Today, Volume 100, Part AAuthor(s): Yuanhong Liu, Si Gao, Myeong-heom Park, Shuhei Yoshida, Reza Gholizadeh, Zhenghao Chen, Keisuke Ikeda, Jin-Yu Zhang, Saeid Alipour,…",
+      "source": "Materials Today",
+      "category": "general",
+      "published": null
+    },
+    {
+      "title": "Corrigendum to “Interchalcogen effect promoted positive-valence-conversion sulfur chemistry for high-energy aqueous sulfur battery” [Mater. Today 99 (2026) 103474]",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1369702126003421?dgcid=rss_sd_all",
+      "summary": "Publication date: October 2026Source: Materials Today, Volume 99Author(s): Mengke Wang, Jiaxiong Zhu, Zhuoxi Wu, Wenpin Wu, Gege Wu, Weichun Huang, Yumin Yang, Guangming Chen, Zhuoxin Liu, Chunyi Zhi, Ze Chen",
+      "source": "Materials Today",
+      "category": "general",
+      "published": null
+    },
+    {
+      "title": "Corrigendum to “Polymeric-molecular dual ionic liquids synergy for record-performance perovskite solar cells” [Mater. Today 98 (2026) 103446]",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1369702126003020?dgcid=rss_sd_all",
+      "summary": "Publication date: October 2026Source: Materials Today, Volume 99Author(s): Yalin Gao, Anqi Niu, Weilu Ding, Minyong Du, Tinglu Song, Xiao Wu, Leying Zha, Yajing Zhang, Chenghao Duan, Xinhui Lu, Shengzhong (Frank) Liu,…",
+      "source": "Materials Today",
+      "category": "general",
+      "published": null
+    },
+    {
+      "title": "Bioactive lipid-derived nanoparticles for RNA delivery",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1369702126003263?dgcid=rss_sd_all",
+      "summary": "Publication date: October 2026Source: Materials Today, Volume 99Author(s): Kaiqi Long, Jeffrey Yuan, Yang Zhang, Yongjiang Li, Minling Zhong, Weiping Wang, Jinjun Shi",
+      "source": "Materials Today",
+      "category": "general",
+      "published": null
+    },
+    {
+      "title": "Wearable ultrasound devices for health monitoring: a closed-loop co-design framework from materials to algorithms and applications",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1369702126003391?dgcid=rss_sd_all",
+      "summary": "Publication date: October 2026Source: Materials Today, Volume 99Author(s): Jiansong Gao, Yuehui Wang, Fengchang Huang, Zhengxin Guan, Yongchang Jiang, Wen Cheng, Yi Shi, Lijia Pan",
+      "source": "Materials Today",
+      "category": "general",
+      "published": null
+    },
+    {
+      "title": "Polymer dielectric materials for high-temperature capacitive energy storage",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1369702126003354?dgcid=rss_sd_all",
+      "summary": "Publication date: October 2026Source: Materials Today, Volume 99Author(s): Wenjie Huang, Baoquan Wan, Jun-Wei Zha",
+      "source": "Materials Today",
+      "category": "general",
+      "published": null
+    },
+    {
+      "title": "Shear by design: nature’s multiscale strategy for mechanical resilience",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1369702126003329?dgcid=rss_sd_all",
+      "summary": "Publication date: October 2026Source: Materials Today, Volume 99Author(s): M.F. Horstemeyer, Nayeon Lee, T. Zhang, P.E. Savas, H. Gao",
+      "source": "Materials Today",
+      "category": "general",
+      "published": null
+    },
+    {
+      "title": "Micromechanics of the sintering force in sintering by bulk diffusion",
+      "link": "https://www.sciencedirect.com/science/article/pii/S135964542600858X?dgcid=rss_sd_all",
+      "summary": "Publication date: 1 November 2026Source: Acta Materialia, Volume 320Author(s): Fumihiro Wakai, Gaku Okuma, Kazuya Shimoda, Hideki Kakisawa",
+      "source": "Acta Materialia",
+      "category": "general",
+      "published": null
+    },
+    {
+      "title": "Multiscale insights into the important roles of grain orientation and boundary in hydrogen embrittlement of a Ni-based bicrystal superalloy",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1359645426008529?dgcid=rss_sd_all",
+      "summary": "Publication date: 1 November 2026Source: Acta Materialia, Volume 320Author(s): Zhiwei Yu, Shenguang Liu, Chao Wang, Naicheng Sheng, Yizhou Zhou, Lu Zhang, Rong Jiang, Liguo Zhao",
+      "source": "Acta Materialia",
+      "category": "general",
+      "published": null
+    },
+    {
+      "title": "Pressure-induced local structural heterogeneity in a metallic glass",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1359645426008438?dgcid=rss_sd_all",
+      "summary": "Publication date: 1 November 2026Source: Acta Materialia, Volume 320Author(s): Xiehang Chen, Xin Zhang, Songyi Chen, Hongbo Lou, Lianghua Xiong, Fujun Lan, Aiguo Li, Jianrong Zeng, Zhidan Zeng, Qiaoshi Zeng",
+      "source": "Acta Materialia",
+      "category": "general",
+      "published": null
+    },
+    {
+      "title": "Revealing the effects of dealloying on hydrogen evolution reaction catalysis by distribution of relaxation times analysis",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1359645426008487?dgcid=rss_sd_all",
+      "summary": "Publication date: 1 November 2026Source: Acta Materialia, Volume 320Author(s): Zixi Chen, Kai Peng, Zhiwei Guo, Peirong Wu, Xuhai Zhang, Yuqiao Zeng, Jianqing Jiang",
+      "source": "Acta Materialia",
+      "category": "general",
+      "published": null
+    },
+    {
+      "title": "High-temperature EBSD reveals the link between ferroelastic switching, martensitic transformation, and lattice correspondences in zirconia ceramics",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1359645426008372?dgcid=rss_sd_all",
+      "summary": "Publication date: 1 November 2026Source: Acta Materialia, Volume 320Author(s): A. Slagter, C.A. Schuh",
+      "source": "Acta Materialia",
+      "category": "general",
+      "published": null
+    },
+    {
+      "title": "Tailoring tensile properties of Al<sub>88</sub>Ni<sub>10</sub>MM<sub>2</sub> metallic glass by <em>in-situ</em> precipitation of FCC-Al nanocrystals under controlled cooling rates",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1359645426008244?dgcid=rss_sd_all",
+      "summary": "Publication date: 1 November 2026Source: Acta Materialia, Volume 320Author(s): Wan Kim, Eun Soo Park, John H. Perepezko",
+      "source": "Acta Materialia",
+      "category": "general",
+      "published": null
+    },
+    {
+      "title": "Effect of Al on microstructural evolution and hot corrosion behavior of Al<em><sub>x</sub></em>CoCrFeNi<sub>2.1</sub> high-entropy alloy coatings fabricated using laser directed energy deposition",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1359645426008396?dgcid=rss_sd_all",
+      "summary": "Publication date: 1 November 2026Source: Acta Materialia, Volume 320Author(s): Ziyi Yang, Yongxin Jian, Qiang Li, Boxin Wei, Hongjun Qi, Zhifu Huang, Upadrasta Ramamurty",
+      "source": "Acta Materialia",
+      "category": "general",
+      "published": null
+    },
+    {
+      "title": "Dual-orientation growth enabling multiple stable interfaces in directionally solidified Gd<sub>2</sub>Zr<sub>2</sub>O<sub>7</sub>/GdAlO<sub>3</sub> eutectic ceramics",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1359645426008189?dgcid=rss_sd_all",
+      "summary": "Publication date: 1 November 2026Source: Acta Materialia, Volume 320Author(s): Yujie Zhong, Huadong Li, Tianshui Zhou, Shanna Xu, Xu Wang, Yuntao Xi, Dexue Liu",
+      "source": "Acta Materialia",
+      "category": "general",
+      "published": null
+    },
+    {
+      "title": "High-throughput screening of oxidation kinetics in a combinatorial library of Ni-Co-Fe-Cr(-Al)-based superalloys",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1359645426008505?dgcid=rss_sd_all",
+      "summary": "Publication date: 1 November 2026Source: Acta Materialia, Volume 320Author(s): Ryan Zhou, Rowan Rolark, Jian Cao, David Dunand",
+      "source": "Acta Materialia",
+      "category": "general",
+      "published": null
+    },
+    {
+      "title": "Development of a Zr-based bulk metallic glass with excellent industrial producibility and high fracture toughness",
+      "link": "https://www.sciencedirect.com/science/article/pii/S135964542600844X?dgcid=rss_sd_all",
+      "summary": "Publication date: 1 November 2026Source: Acta Materialia, Volume 320Author(s): Xiaoqiang Fu, Chaoqun Pei, Chao Wang, Chunyan Li, Kuan Gao, Xi Xu, Shengzhong Kou, Yanhui Liu, Weihua Wang, Baoan Sun",
+      "source": "Acta Materialia",
+      "category": "general",
+      "published": null
+    },
+    {
+      "title": "Atomic-scale solute redistribution during high fluence neutron irradiation of a zirconium cladding alloy",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1359645426007998?dgcid=rss_sd_all",
+      "summary": "Publication date: 1 November 2026Source: Acta Materialia, Volume 320Author(s): Wenyu Zhang, Callum Andrew, Xingzhong Liang, Zaheen Shah, Philipp Frankel, Sergio Lozano-Perez, Michael P. Moody, Paul A.J. Bagot, Chris…",
+      "source": "Acta Materialia",
+      "category": "general",
+      "published": null
+    },
+    {
+      "title": "Atomic size mismatch effects on irradiation-induced defect evolution in Nb-Zr-Ti-V multi-principal element alloys",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1359645426007238?dgcid=rss_sd_all",
+      "summary": "Publication date: 1 November 2026Source: Acta Materialia, Volume 320Author(s): Ping Zhang, Chen Zhang, Jinxue Yang, Zhengxiong Su, Tan Shi, Rui Gao, Xi Qiu, Yong Xin, Yuanming Li, Chenyang Lu",
+      "source": "Acta Materialia",
+      "category": "general",
+      "published": null
+    },
+    {
+      "title": "Concentration-dependent suppression of thermal anisotropy in 4<em>H</em>-SiC by nitrogen doping",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1359645426008311?dgcid=rss_sd_all",
+      "summary": "Publication date: 1 November 2026Source: Acta Materialia, Volume 320Author(s): E Zhou, Tongtong Wang, Lijuan Wang, Taiqiao Liu, Zeyuan Li, Wei Yu, Xuhao Wan, Guangzhao Qin, Yuzheng Guo, Sheng Liu, Zhaofu Zhang",
+      "source": "Acta Materialia",
+      "category": "general",
+      "published": null
+    },
+    {
+      "title": "Stress partitioning, variant selection, and anisotropic elastic response during martensitic transformation in Fe–Ni–C alloy under constant tensile stress",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1359645426008360?dgcid=rss_sd_all",
+      "summary": "Publication date: 1 November 2026Source: Acta Materialia, Volume 320Author(s): Wenqi Mao, Wu Gong, Tatsuya Ito, Takuro Kawasaki, Stefanus Harjo, Yuanhong Liu, Jingping Liu, Lijia Zhao, Qiang Wang, Nobuhiro Tsuji",
+      "source": "Acta Materialia",
+      "category": "general",
+      "published": null
+    },
+    {
+      "title": "Anisotropic deformation behavior of LPBF fabricated Co<sub>35</sub>Cr<sub>25</sub>Mn<sub>15</sub>Ni<sub>15</sub>Fe<sub>10</sub> with low stacking fault energy studied by in situ neutron diffraction",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1359645426008220?dgcid=rss_sd_all",
+      "summary": "Publication date: 1 November 2026Source: Acta Materialia, Volume 320Author(s): Jingru Xu, Weidong Zhang, Yixiong Hu, Yongkang Li, Daixiu Wei, Fei Peng, Wu Gong, Takuro Kawasaki, Stefanus Harjo, Ruiling Zeng, Zhenggang Wu",
+      "source": "Acta Materialia",
+      "category": "general",
+      "published": null
+    },
+    {
+      "title": "Rise of asymmetric structures for absorption-dominant electromagnetic interference shielding",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0079642526001635?dgcid=rss_sd_all",
+      "summary": "Publication date: March 2027Source: Progress in Materials Science, Volume 165, Part AAuthor(s): Ali Dehghani, Mohammad Arjmand",
+      "source": "Progress in Materials Science",
+      "category": "general",
+      "published": null
+    },
+    {
+      "title": "Recent progress in metal-based lithium-ion sieves for adsorption-driven direct lithium extraction",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0079642526001696?dgcid=rss_sd_all",
+      "summary": "Publication date: March 2027Source: Progress in Materials Science, Volume 165, Part AAuthor(s): Muruganantham Rethinasabapathy, Seyed Majid Ghoreishian, Cheol Hwan Kwak, Taegong Ryu, Yun Suk Huh",
+      "source": "Progress in Materials Science",
+      "category": "general",
+      "published": null
+    },
+    {
+      "title": "Tailoring electrolytes for potassium-ion batteries",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0079642526001714?dgcid=rss_sd_all",
+      "summary": "Publication date: March 2027Source: Progress in Materials Science, Volume 165, Part AAuthor(s): Charlin Soosaimanickam, Abishek Kumar Lakshmi, Natarajan Angulakshmi, Guy Olivier Ngongang Ndjawa, Federico Bella, Arul…",
+      "source": "Progress in Materials Science",
+      "category": "general",
+      "published": null
+    },
+    {
+      "title": "Surfactants as molecular architects of materials: from interfacial organization to function",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0079642526001787?dgcid=rss_sd_all",
+      "summary": "Publication date: March 2027Source: Progress in Materials Science, Volume 165, Part AAuthor(s): Marco Davide Giustra, Brian Novati, Alessandro Colombo, Giulia Sinesi, Lucia Morelli, Stefania Garbujo, Miriam Colombo,…",
+      "source": "Progress in Materials Science",
+      "category": "general",
+      "published": null
+    },
+    {
+      "title": "Multiscale engineering of lignocellulosic materials: from hierarchical deconstruction to genetic reprogramming",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0079642526001593?dgcid=rss_sd_all",
+      "summary": "Publication date: March 2027Source: Progress in Materials Science, Volume 165, Part AAuthor(s): Hongli Zhu, Richard A. Dixon, Breeanna R. Urbanowicz, Qiang Li, Chaoji Chen, Luhe Qi, Mengting Ye, Daxian Cao",
+      "source": "Progress in Materials Science",
+      "category": "general",
+      "published": null
+    },
+    {
+      "title": "Direct current thermo-mechanical testing: principles, uncertainty hierarchy, and its role in advanced materials characterisation",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0079642526001702?dgcid=rss_sd_all",
+      "summary": "Publication date: March 2027Source: Progress in Materials Science, Volume 165, Part AAuthor(s): Abdalrhaman Koko, Sodiq Abiodun Kareem, Olajesu Favor Olanrewaju, Rachael Williams, Justus Uchenna Anaele, Yuanbo T. Tang,…",
+      "source": "Progress in Materials Science",
+      "category": "general",
+      "published": null
+    },
+    {
+      "title": "Graphene and MXenes: performance–scalability trade-offs and application-driven materials selection in two-dimensional technologies",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0079642526001660?dgcid=rss_sd_all",
+      "summary": "Publication date: March 2027Source: Progress in Materials Science, Volume 165, Part AAuthor(s): Aiza Kanwal, Imran Haider Sajid, Muhammad Zafar Iqbal, Zafar Said, Syed Rizwan",
+      "source": "Progress in Materials Science",
+      "category": "general",
+      "published": null
+    },
+    {
+      "title": "Proton-coupled charge storage in aqueous batteries: mechanisms, interfaces, and design strategies",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0079642526001684?dgcid=rss_sd_all",
+      "summary": "Publication date: March 2027Source: Progress in Materials Science, Volume 165, Part AAuthor(s): Amjad Ali, Jamile Mohammadi Moradian, Tahir Rasheed, Xiaohong Zou, Shu Zhang, Khurram Shehzad, Maciej Krzywiecki, Li Guo",
+      "source": "Progress in Materials Science",
+      "category": "general",
+      "published": null
+    },
+    {
+      "title": "From natural-extract variability to reproducible nanomaterials: AI-QbD strategies for green synthesis from agro-food waste",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0079642526001672?dgcid=rss_sd_all",
+      "summary": "Publication date: March 2027Source: Progress in Materials Science, Volume 165, Part AAuthor(s): Jennifer Gubitosa, Vito Rizzi, Paola Fini, Pinalysa Cosma",
+      "source": "Progress in Materials Science",
+      "category": "general",
+      "published": null
+    },
+    {
+      "title": "Advanced phosphor converters for laser-driven light sources: a review",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0079642526001647?dgcid=rss_sd_all",
+      "summary": "Publication date: March 2027Source: Progress in Materials Science, Volume 165, Part AAuthor(s): Zikang Yu, Mingxiang Chen, Yun Mou, Lingwei Zeng, Yang Peng, Daqin Chen",
+      "source": "Progress in Materials Science",
+      "category": "general",
+      "published": null
+    },
+    {
+      "title": "Atomic-level interface engineering for optoelectronic devices: structure–property relationships and multi-mechanism synergy",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0079642526001659?dgcid=rss_sd_all",
+      "summary": "Publication date: March 2027Source: Progress in Materials Science, Volume 165, Part AAuthor(s): Kai Chen, Junmin Wang, Guangda Han, Jinquan Li, Sunny Yadav, Periyayya Uthirakumar, Lee-Woon Jang, Vandung Dao, In-Hwan Lee",
+      "source": "Progress in Materials Science",
+      "category": "general",
+      "published": null
+    },
+    {
+      "title": "Progress and prospects of antibacterial carbon dots",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0079642526001623?dgcid=rss_sd_all",
+      "summary": "Publication date: March 2027Source: Progress in Materials Science, Volume 165, Part AAuthor(s): Yingge Shi, Jinpu Liang, Xiaoli Qu, Bai Yang, Junbiao Chang, Siyu Lu",
+      "source": "Progress in Materials Science",
+      "category": "general",
+      "published": null
+    },
+    {
+      "title": "Liquid cooling – from molecular design, materials to technologies and applications",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0079642526001611?dgcid=rss_sd_all",
+      "summary": "Publication date: March 2027Source: Progress in Materials Science, Volume 165, Part AAuthor(s): Kaimin Deng, Yanxia Liu, Yagang Zhang, Ruoxin Li, Lin Zhao, Yuke Shen, Yen Wei",
+      "source": "Progress in Materials Science",
+      "category": "general",
+      "published": null
+    },
+    {
+      "title": "Metal matrix composites: Bioinspired architectures, reinforcements and interfaces, multifunctionality, and data‑driven intelligent manufacturing",
+      "link": "https://www.sciencedirect.com/science/article/pii/S007964252600160X?dgcid=rss_sd_all",
+      "summary": "Publication date: March 2027Source: Progress in Materials Science, Volume 165, Part AAuthor(s): Wenqing Dai, Hanqing Dai, Yongfeng Geng, Shiyu He, Ding-Bang Xiong, Di Zhang",
+      "source": "Progress in Materials Science",
+      "category": "general",
+      "published": null
+    },
+    {
+      "title": "Hydrogel-Based Materials for Plant Bioelectronics on Earth and Potentiality in Space",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0079642526001581?dgcid=rss_sd_all",
+      "summary": "Publication date: March 2027Source: Progress in Materials Science, Volume 165, Part AAuthor(s): Jahangir Alom, Md.Saif Hasan, Md. Asaduzzaman, Anik Chandro Paul, Md. Al-Amin, Islam Md Rizwanul Fattah, Md. Saifur Rahman,…",
+      "source": "Progress in Materials Science",
+      "category": "general",
+      "published": null
+    },
+    {
+      "title": "Sustainable hydrogen production and sulfur recovery from H<sub>2</sub>S via non-fluorinated contact-electro-catalysis over a MoS<sub>2</sub>/Al<sub>2</sub>O<sub>3</sub> heterostructure",
+      "link": "https://www.sciencedirect.com/science/article/pii/S2211285526006907?dgcid=rss_sd_all",
+      "summary": "Publication date: 1 December 2026Source: Nano Energy, Volume 159, Part AAuthor(s): Kailong Xu, Hao Chen, XinLei Wang, Jieyu Li, Ziming Wang, Jun Wu, Hui Liu",
+      "source": "Nano Energy",
+      "category": "general",
+      "published": null
+    },
+    {
+      "title": "Graphene chainmail catalyst enables stable sulfuric acid electrosynthesis under harsh conditions",
+      "link": "https://www.sciencedirect.com/science/article/pii/S2211285526006774?dgcid=rss_sd_all",
+      "summary": "Publication date: 1 December 2026Source: Nano Energy, Volume 159, Part AAuthor(s): Liumo Jiang, Huan Liu, Mo Zhang, Yunlong Zhang, Liang Yu, Qiangqiang Ren, Xiaoju Cui, Jing Guan, Dehui Deng",
+      "source": "Nano Energy",
+      "category": "general",
+      "published": null
+    },
+    {
+      "title": "A bio-inspired flexible proximity sensor based on triboelectric transistor for robotic high-precision precognition",
+      "link": "https://www.sciencedirect.com/science/article/pii/S2211285526006828?dgcid=rss_sd_all",
+      "summary": "Publication date: 1 December 2026Source: Nano Energy, Volume 159, Part AAuthor(s): Jie Cao, Meng Ouyang, Ziyue Wang, Feiling Luo, Jianhua Zeng, Chang Shan, Youchao Qi, Zhelin Jin, Junqing Zhao, Guanggui Cheng, Chi…",
+      "source": "Nano Energy",
+      "category": "general",
+      "published": null
+    },
+    {
+      "title": "Asymmetric interface engineering boosts acidic oxygen evolution activity and stability of cobalt oxide",
+      "link": "https://www.sciencedirect.com/science/article/pii/S2211285526006889?dgcid=rss_sd_all",
+      "summary": "Publication date: 1 December 2026Source: Nano Energy, Volume 159, Part AAuthor(s): Zhiyi Sun, Chen Li, Yuqing Wang, Xi Liu, Shengjie Xia, Zilong Wu, Wenxing Chen, Zhuo Chen",
+      "source": "Nano Energy",
+      "category": "general",
+      "published": null
+    },
+    {
+      "title": "Cost-effective methodology for electrical characterization and interconnection analysis of triboelectric nanogenerators",
+      "link": "https://www.sciencedirect.com/science/article/pii/S2211285526006610?dgcid=rss_sd_all",
+      "summary": "Publication date: 1 December 2026Source: Nano Energy, Volume 159, Part AAuthor(s): Abel Mwepu Tshimbu, Ting Zou, Lihong Zhang",
+      "source": "Nano Energy",
+      "category": "general",
+      "published": null
+    },
+    {
+      "title": "Mechanistic insights into field-effect passivation via non-volatile ferroelectric Hf<sub>0.5</sub>Zr<sub>0.5</sub>O<sub>2</sub> for interface modulation in crystalline silicon solar cells",
+      "link": "https://www.sciencedirect.com/science/article/pii/S2211285526006890?dgcid=rss_sd_all",
+      "summary": "Publication date: 1 December 2026Source: Nano Energy, Volume 159, Part AAuthor(s): Siyi Liu, Jianqiao Wang, Yanhao Wang, Xiaofei Xu, Wangfeng Miao, Yuner Luo, Mengwei Si, Wei Tang, Peng Wang, Yongxin Zhu, Dongdong Li",
+      "source": "Nano Energy",
+      "category": "general",
+      "published": null
+    },
+    {
+      "title": "Halide-engineered grain boundaries enable uniform Li-ion transport for high-performances all-solid-state lithium metal batteries",
+      "link": "https://www.sciencedirect.com/science/article/pii/S2211285526006804?dgcid=rss_sd_all",
+      "summary": "Publication date: 1 December 2026Source: Nano Energy, Volume 159, Part AAuthor(s): Zijian Li, Zihan Sun, Wentao Lu, Zhongkai Wu, Weiping Zhou, Zhenzhi Cheng, Guiwen Jiang, Fei Gao, Xinsheng Zhao, Chuang Yu, Guangsheng…",
+      "source": "Nano Energy",
+      "category": "general",
+      "published": null
+    },
+    {
+      "title": "Vapor-compatible molecular passivation of thermally evaporated lead-free perovskites for indoor photovoltaics",
+      "link": "https://www.sciencedirect.com/science/article/pii/S2211285526006713?dgcid=rss_sd_all",
+      "summary": "Publication date: 1 December 2026Source: Nano Energy, Volume 159, Part AAuthor(s): Zitong Wang, Hongzhe Xu, Dongxu He, Julian A. Steele, Bowei Zhang, Chengxi Zhang, Shanshan Ding, Huiyuan Cheng, Mu Xiao, Miaoqiang Lyu,…",
+      "source": "Nano Energy",
+      "category": "general",
+      "published": null
+    },
+    {
+      "title": "Framework robustness enabled by gradient strontium doping for lithium-rich manganese-based cathodes",
+      "link": "https://www.sciencedirect.com/science/article/pii/S221128552600683X?dgcid=rss_sd_all",
+      "summary": "Publication date: 1 December 2026Source: Nano Energy, Volume 159, Part AAuthor(s): Shaowei Kang, Shunchao Wang, Hao Wang, Anjie Lai, Guoli Xu, Youqi Chu, Qimeng Zhang, Chenghao Yang",
+      "source": "Nano Energy",
+      "category": "general",
+      "published": null
+    },
+    {
+      "title": "Unassisted tandem photoelectrochemical system for simultaneous hydrogen evolution and polyethylene terephthalate plastic reforming",
+      "link": "https://www.sciencedirect.com/science/article/pii/S2211285526006853?dgcid=rss_sd_all",
+      "summary": "Publication date: 1 December 2026Source: Nano Energy, Volume 159, Part AAuthor(s): Shuo Zhang, Yanglin Chen, Yuqing Wang, Stener Lie, Teddy Salim, Phei Lim Chan, Ahmad Ibrahim, Lydia Helena Wong",
+      "source": "Nano Energy",
+      "category": "general",
+      "published": null
+    },
+    {
+      "title": "Trap-state network dynamics enable material-native temporal information processing",
+      "link": "https://www.sciencedirect.com/science/article/pii/S2211285526006919?dgcid=rss_sd_all",
+      "summary": "Publication date: 1 December 2026Source: Nano Energy, Volume 159, Part AAuthor(s): Xiaomin Wu, Yunjian Liang, Bingkun Wu, Di Liu, Chenhui Xu, Shuiyuan Chen, Huipeng Chen",
+      "source": "Nano Energy",
+      "category": "general",
+      "published": null
+    },
+    {
+      "title": "Ultrasound-responsive piezoelectric core-shell nanofiber patch for theranostic management of blood clot-related complications",
+      "link": "https://www.sciencedirect.com/science/article/pii/S2211285526006671?dgcid=rss_sd_all",
+      "summary": "Publication date: November 2026Source: Nano Energy, Volume 158Author(s): Fu-Cheng Kao, Tupan Das, Yen-Jui Lin, Bishal Kumar Nahak, Jaba Roy Chowdhury, Arshad Khan, Parag Parashar, Ravindra Joshi, Ming-Kai Hsieh, Dongwhi…",
+      "source": "Nano Energy",
+      "category": "general",
+      "published": null
+    },
+    {
+      "title": "Direct regeneration and upcycling: Closing the loop for spent lithium iron phosphate batteries",
+      "link": "https://www.sciencedirect.com/science/article/pii/S2211285526006750?dgcid=rss_sd_all",
+      "summary": "Publication date: November 2026Source: Nano Energy, Volume 158Author(s): Meiting Huang, Hao Mu, Ruyue Guo, Liping Luo, Peng Chen, Yuanyang Li, Zhe Gao, Jianfei Zhou, Hongguang Guo, Longhua Xu",
+      "source": "Nano Energy",
+      "category": "general",
+      "published": null
+    },
+    {
+      "title": "A self-powered ultrawide-band triboelectric hydrophone towards acoustic feature recognition of underwater targets",
+      "link": "https://www.sciencedirect.com/science/article/pii/S2211285526006592?dgcid=rss_sd_all",
+      "summary": "Publication date: November 2026Source: Nano Energy, Volume 158Author(s): Kecheng Zhang, Siyuan Wang, Jianhua Liu, Tianyou Wang, Fanqing Hu, Weichao He, Zhaochen Meng, Xingfu Wan, Gengchen Xu, Yuxin Cui, Yuchen Li, Peng…",
+      "source": "Nano Energy",
+      "category": "general",
+      "published": null
+    },
+    {
+      "title": "On the discoveries of nanogenerators and piezotronics – A reflection at the 20th anniversary",
+      "link": "https://www.sciencedirect.com/science/article/pii/S2211285526006312?dgcid=rss_sd_all",
+      "summary": "Publication date: November 2026Source: Nano Energy, Volume 158Author(s): Zhong Lin Wang",
+      "source": "Nano Energy",
+      "category": "general",
+      "published": null
+    },
+    {
+      "title": "Influence of fiber orientation on self-heating during fatigue of polymer matrix composites under low and ultrasonic cyclic frequencies",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0266353826003246?dgcid=rss_sd_all",
+      "summary": "Publication date: 10 November 2026Source: Composites Science and Technology, Volume 286Author(s): Aravind Premanand, Frank Balle",
+      "source": "Composites Science and Technology",
+      "category": "general",
+      "published": null
+    },
+    {
+      "title": "High-temperature interface ageing of quartz fiber reinforced polyimide composites",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0266353826003210?dgcid=rss_sd_all",
+      "summary": "Publication date: 10 November 2026Source: Composites Science and Technology, Volume 286Author(s): Jiajia Cheng, Xiaoran Wei, Qifeng Jin, Yonglyu He, Su Ju, Changping Yin, Suli Xing, Jinshui Yang, Jianwei Zhang, Ke Duan",
+      "source": "Composites Science and Technology",
+      "category": "general",
+      "published": null
+    },
+    {
+      "title": "Photothermal synergistic network and interphase regulation for thermoreversible carbon fiber-reinforced vitrimer composites",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0266353826003234?dgcid=rss_sd_all",
+      "summary": "Publication date: 10 November 2026Source: Composites Science and Technology, Volume 286Author(s): Haonan Xie, Zhi Wang, Xiangyu Wang, Ying Sha, Weiyu Cao",
+      "source": "Composites Science and Technology",
+      "category": "general",
+      "published": null
+    },
+    {
+      "title": "Thickness-constrained PMIA nanofiber interlayers enabling integrated interlaminar toughening and in situ resistance-based delamination monitoring of CFRP laminates",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0266353826003209?dgcid=rss_sd_all",
+      "summary": "Publication date: 10 November 2026Source: Composites Science and Technology, Volume 286Author(s): Hongbo Dai, Yubo Zhao, Baoyu Du, Shouhao Wang, Yihan Fu, Jianpeng Mou, Jieyang Qiu, Kun Peng, Imran Ali",
+      "source": "Composites Science and Technology",
+      "category": "general",
+      "published": null
+    },
+    {
+      "title": "Development and experimental validation of strain rate-dependent failure criteria for unidirectional non-crimp fabric composites",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0266353826002988?dgcid=rss_sd_all",
+      "summary": "Publication date: 20 October 2026Source: Composites Science and Technology, Volume 285Author(s): Nils Koltzenburg, Khizar Rouf, Thomas Böhlke, John Montesano",
+      "source": "Composites Science and Technology",
+      "category": "general",
+      "published": null
+    },
+    {
+      "title": "MOF-on-MOF-derived GC/Co@CNTs with multiscale heterostructures for enhanced microwave absorption",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0266353826003222?dgcid=rss_sd_all",
+      "summary": "Publication date: 20 October 2026Source: Composites Science and Technology, Volume 285Author(s): Haiyang Peng, Ying Zhang, Tao Ma, Yixing Huang, Xiao Kang, Ying Li",
+      "source": "Composites Science and Technology",
+      "category": "general",
+      "published": null
+    },
+    {
+      "title": "Decoupling sensitivity–hysteresis trade-offs in printed ternary carbon nanocomposite sensors for human–machine interfaces",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0266353826003192?dgcid=rss_sd_all",
+      "summary": "Publication date: 20 October 2026Source: Composites Science and Technology, Volume 285Author(s): Hongbo Fu, Ruichen Zhou, Xin Huang, Shuzhuang Zhang, Weile Zhang, Daming Wu, Yao Huang, Hong Xu, Chaoying Wan",
+      "source": "Composites Science and Technology",
+      "category": "general",
+      "published": null
+    },
+    {
+      "title": "Dimension-dependent interfacial reinforcement mechanisms of carbon nanomaterials in CF/PI composites",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0266353826003155?dgcid=rss_sd_all",
+      "summary": "Publication date: 20 October 2026Source: Composites Science and Technology, Volume 285Author(s): Yiting Weng, Yunfu Ou, Hengyang Zou, Wei Jian, Juan Li, Yunxiao Zhang, Jingling Yan, Dongsheng Mao",
+      "source": "Composites Science and Technology",
+      "category": "general",
+      "published": null
+    },
+    {
+      "title": "Mechanistic correlation between fiber-specific plasma activation and load transfer in hybrid 3D braided carbon fiber/epoxy vinyl ester composites",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0266353826003179?dgcid=rss_sd_all",
+      "summary": "Publication date: 20 October 2026Source: Composites Science and Technology, Volume 285Author(s): Yang Zhao, Guohao Shi, Benye Wang, Xichen Zhang, Ze Liu, Yong Sun, Fei Liu, Xinhai He",
+      "source": "Composites Science and Technology",
+      "category": "general",
+      "published": null
+    },
+    {
+      "title": "Cellulose nanocrystals-regulated core-shell fibrous films for synergistic radiative cooling and phase change thermal management",
+      "link": "https://www.sciencedirect.com/science/article/pii/S026635382600312X?dgcid=rss_sd_all",
+      "summary": "Publication date: 20 October 2026Source: Composites Science and Technology, Volume 285Author(s): Bin Ye, Haijiao Yu, Yu Chen, Jinbo Yao, Guangping Han, Yanbo Liu, Wanli Cheng",
+      "source": "Composites Science and Technology",
+      "category": "general",
+      "published": null
+    },
+    {
+      "title": "Experimental characterisation and damage-based modelling of 3D-printed continuous carbon-fibre-reinforced nylon laminates under tensile and shear-dominated loading",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0266353826003167?dgcid=rss_sd_all",
+      "summary": "Publication date: 20 October 2026Source: Composites Science and Technology, Volume 285Author(s): M. Rucka, A. Sabik, Ł. Pyrzowski",
+      "source": "Composites Science and Technology",
+      "category": "general",
+      "published": null
+    },
+    {
+      "title": "Influence of layup configuration on through-thickness thermal conductivity of CFRP composites: Based on effective heat transfer volume theory and predictive modeling",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0266353826003088?dgcid=rss_sd_all",
+      "summary": "Publication date: 20 October 2026Source: Composites Science and Technology, Volume 285Author(s): Wenzheng Jiang, Na Zhang, Shaokai Hu, Shengzong Ci, Hailing Cong, Junwei Yu, Deming Zhao, Kun Qiao",
+      "source": "Composites Science and Technology",
+      "category": "general",
+      "published": null
+    },
+    {
+      "title": "Harnessing the synergistic dielectric and magnetic loss in polypyrrole based nanocomposites for improving the EMI shielding behaviour in X-band",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0266353826003052?dgcid=rss_sd_all",
+      "summary": "Publication date: 20 October 2026Source: Composites Science and Technology, Volume 285Author(s): Lovepreet Kaur Dhugga, Himangshu B. Baskey, Kumresh K. Gaur, Dwijendra P. Singh",
+      "source": "Composites Science and Technology",
+      "category": "general",
+      "published": null
+    },
+    {
+      "title": "A focus on the agglomerates of nanodiamond surrounded by interphase zone to simulate the tensile modulus of polymer composites",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0266353826003180?dgcid=rss_sd_all",
+      "summary": "Publication date: 20 October 2026Source: Composites Science and Technology, Volume 285Author(s): Yasser Zare, Muhammad Naqvi, Mehrnoosh Arefian, Kyong Yop Rhee",
+      "source": "Composites Science and Technology",
+      "category": "general",
+      "published": null
+    },
+    {
+      "title": "Coupled framework of machine learning and finite element for developing the outstanding carbon fiber reinforced polymer composites",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0266353826003143?dgcid=rss_sd_all",
+      "summary": "Publication date: 20 October 2026Source: Composites Science and Technology, Volume 285Author(s): Md. Jamal Uddin, Jitang Fan",
+      "source": "Composites Science and Technology",
+      "category": "general",
+      "published": null
+    },
+    {
+      "title": "Dual bioinspired structural-interfacial engineering of brick-and-mortar biocomposites for a superior integrated water/gas/UV barrier",
+      "link": "https://www.sciencedirect.com/science/article/pii/S2590238526003747?dgcid=rss_sd_all",
+      "summary": "Publication date: Available online 10 September 2026Source: MatterAuthor(s): Yijin Qiu, Zhenghui Huang, Yuanyuan Zheng, Zongyu Wang, Zhixuan Zhou, Chaoji Chen, Ze Zhao, Hongbing Deng",
+      "source": "Matter",
+      "category": "general",
+      "published": null
+    },
+    {
+      "title": "A continuous fiber model for giant magnetoelasticity in soft matter",
+      "link": "https://www.sciencedirect.com/science/article/pii/S2590238526003759?dgcid=rss_sd_all",
+      "summary": "Publication date: Available online 10 September 2026Source: MatterAuthor(s): Zhaoqi Duan, Yihao Zhou, Xiujun Fan, Songyue Chen, Yizhuo Xu, Rui Guo, Xinkai Xu, Xiao Wan, Yang Luo, Xiao Xiao, Jun Chen",
+      "source": "Matter",
+      "category": "general",
+      "published": null
+    },
+    {
+      "title": "Transforming renewable carbon fiber performance, economics, and sustainability via oriented crystallization design",
+      "link": "https://www.sciencedirect.com/science/article/pii/S2590238526003644?dgcid=rss_sd_all",
+      "summary": "Publication date: Available online 9 September 2026Source: MatterAuthor(s): Weiwei Li, Cheng Hu, Tianle Zhu, Yayun Chen, Rui Zhang, Ping Jiang, Puneet S. Dhatt, Jinghao Li, Sisi Xiang, Mengqiao Liu, Chengcheng J. Fei,…",
+      "source": "Matter",
+      "category": "general",
+      "published": null
+    },
+    {
+      "title": "Electronic trap-state engineering in oxygen-doped MoSe<sub>2</sub> for efficient polysulfide conversion toward wide-temperature lithium-sulfur batteries",
+      "link": "https://www.sciencedirect.com/science/article/pii/S259023852600370X?dgcid=rss_sd_all",
+      "summary": "Publication date: Available online 9 September 2026Source: MatterAuthor(s): Canhuang Li, Ao Yu, Jing Yu, Shichang Cai, Zhilong Wang, Chaoqi Zhang, Hao Li, Dawei Yang, Haozhu Zhou, Jiangbo Wang, Yuchuan Ren, Xiaoyu Bi,…",
+      "source": "Matter",
+      "category": "general",
+      "published": null
+    },
+    {
+      "title": "IrN<sub>4</sub>Cl/IrO<sub>2−x</sub> sites transitioning hydroxyl radicals to singlet oxygen intermediates to achieve record-high peroxidase-like activity",
+      "link": "https://www.sciencedirect.com/science/article/pii/S2590238526003693?dgcid=rss_sd_all",
+      "summary": "Publication date: Available online 9 September 2026Source: MatterAuthor(s): Xinliu Tan, Mengshuo Xu, Lei Yang, Xuanang Shen, Zheng Shu, Yuankui Leng, Zhangsheng Shi, Xiaolin Huang, Yonghua Xiong",
+      "source": "Matter",
+      "category": "general",
+      "published": null
+    },
+    {
+      "title": "Self-sustaining reactive species program morphological evolution across timescales in hydrogels",
+      "link": "https://www.sciencedirect.com/science/article/pii/S259023852600367X?dgcid=rss_sd_all",
+      "summary": "Publication date: Available online 4 September 2026Source: MatterAuthor(s): Mingzhe Nie, Mingxing Peng, Xun Li, Weizhong Xu, Jiachuan Hua, Massimiliano Galluzzi, Xuemin Du",
+      "source": "Matter",
+      "category": "general",
+      "published": null
+    },
+    {
+      "title": "Non-doped copper cluster thermoluminescence dosimeter",
+      "link": "https://www.sciencedirect.com/science/article/pii/S2590238526003668?dgcid=rss_sd_all",
+      "summary": "Publication date: Available online 4 September 2026Source: MatterAuthor(s): Qi Yang, Jia-Wang Yuan, Yu-Chen Han, You-Song Hu, Xi-Ming Luo, Qiu-Chen Peng, Kai Li, Shuang-Quan Zang",
+      "source": "Matter",
+      "category": "general",
+      "published": null
+    },
+    {
+      "title": "High-throughput screen printing of solution-processable cholesteric liquid crystal materials enables full-color stereoscopic 3D displays",
+      "link": "https://www.sciencedirect.com/science/article/pii/S2590238526003619?dgcid=rss_sd_all",
+      "summary": "Publication date: Available online 3 September 2026Source: MatterAuthor(s): Yue Wu, Ran Bi, Yufan Feng, Yuan Liu, Yanzhao Yang, Wei Feng, Ling Wang",
+      "source": "Matter",
+      "category": "general",
+      "published": null
+    },
+    {
+      "title": "Filament-level programming and machine learning enable tunable release kinetics beyond material limits",
+      "link": "https://www.sciencedirect.com/science/article/pii/S2590238526002754?dgcid=rss_sd_all",
+      "summary": "Publication date: 2 September 2026Source: Matter, Volume 9, Issue 9Author(s): Peihong Chen, Huaqing Zhang, Jianping Zhou, Yang Ding",
+      "source": "Matter",
+      "category": "general",
+      "published": null
+    },
+    {
+      "title": "The conformational multiplicity effect: Dictating graded order in supramolecular zwitterionic polymers",
+      "link": "https://www.sciencedirect.com/science/article/pii/S2590238526002730?dgcid=rss_sd_all",
+      "summary": "Publication date: 2 September 2026Source: Matter, Volume 9, Issue 9Author(s): Jin Wang, Xinwen Ou, Weibin Zhou, Sheng-yi Yang, Huaqiang Ju, Cheng Liu, Zihao Deng, Xinmeng Chen, Wutong Du, Xinghuo Xiao, Jianwei Sun, Ryan…",
+      "source": "Matter",
+      "category": "general",
+      "published": null
+    },
+    {
+      "title": "Copper-tailored d-p-π multi-orbital coupling in sulfurized polyaniline enables ultralong cycling aqueous sulfur batteries",
+      "link": "https://www.sciencedirect.com/science/article/pii/S2590238526002304?dgcid=rss_sd_all",
+      "summary": "Publication date: 2 September 2026Source: Matter, Volume 9, Issue 9Author(s): Zhiwei Chen, Chaoyi Qiu, Zhichao Wang, Xiang Liu, Zihao Tao, Jiahe Geng, Xikun Zhang, Haoxiang Yu, Lei Yan, Peng Li, Liyuan Zhang, Ting-Feng…",
+      "source": "Matter",
+      "category": "general",
+      "published": null
+    },
+    {
+      "title": "Potential-controlled pre-lithiation of organic framework cathodes for ultra-high current lithium-ion batteries",
+      "link": "https://www.sciencedirect.com/science/article/pii/S2590238526002298?dgcid=rss_sd_all",
+      "summary": "Publication date: 2 September 2026Source: Matter, Volume 9, Issue 9Author(s): Zhenwei Ji, Hao Yuan, Qilin Huang, Xingyang Wang, Tuo Wang, Wanwan Wang, Weihao Liu, Yu Liu, Lewis Kien Juen Ting, Jianguo Sun, Qing Wang,…",
+      "source": "Matter",
+      "category": "general",
+      "published": null
+    },
+    {
+      "title": "Temperature-induced delamination: A method for uniformly delaminating multilayer Ti<sub>3</sub>C<sub>2</sub>T<sub>x</sub> via volume changes in low-freezing-point solvents",
+      "link": "https://www.sciencedirect.com/science/article/pii/S2590238526002286?dgcid=rss_sd_all",
+      "summary": "Publication date: 2 September 2026Source: Matter, Volume 9, Issue 9Author(s): Pengcheng Yang, Federico Olivieri, Chiara Santillo, Rachele Castaldo, Zhonggeng Wang, Domenico Marson, Erik Laurini, Shuoyan Xiong, Gennaro…",
+      "source": "Matter",
+      "category": "general",
+      "published": null
+    },
+    {
+      "title": "Ultra-stretchable and mechanically robust organic photodetectors enabled by a honeycomb network morphology",
+      "link": "https://www.sciencedirect.com/science/article/pii/S2590238526002274?dgcid=rss_sd_all",
+      "summary": "Publication date: 2 September 2026Source: Matter, Volume 9, Issue 9Author(s): Zhongxiang Peng, Li Lei, Haozhi Zhen, Rui Chen, Sihui Deng, Chunming Yang, Yanchun Han, Jun Liu",
+      "source": "Matter",
+      "category": "general",
+      "published": null
+    },
+    {
+      "title": "5f metal-incorporated 2D clusterphene: Enabling high-efficiency photocatalysis through continuous planar carrier migration",
+      "link": "https://www.sciencedirect.com/science/article/pii/S2590238526002250?dgcid=rss_sd_all",
+      "summary": "Publication date: 2 September 2026Source: Matter, Volume 9, Issue 9Author(s): Yi-Xin Liu, Lei Jia, Xiu-Shan Liu, Guo-Cai Yuan, Hui-Feng Yue, Zhong Li, Shou-Tian Zheng, Xun Wang",
+      "source": "Matter",
+      "category": "general",
+      "published": null
+    },
+    {
+      "title": "Submerged solar harvesting with wide-band-gap perovskites for autonomous underwater energy systems",
+      "link": "https://www.sciencedirect.com/science/article/pii/S2542435126003569?dgcid=rss_sd_all",
+      "summary": "Publication date: Available online 11 September 2026Source: JouleAuthor(s): Simin Ma, Bing Cai, Ruohao Wang, Jiayue Chen, Renzheng Liu, Lang Xu, Xiaodong Ren, Peng Gao, Michael Grätzel, Wen-Hua Zhang",
+      "source": "Joule",
+      "category": "general",
+      "published": null
+    },
+    {
+      "title": "Stress-coupled lithium transport in all-solid-state batteries",
+      "link": "https://www.sciencedirect.com/science/article/pii/S2542435126003648?dgcid=rss_sd_all",
+      "summary": "Publication date: Available online 10 September 2026Source: JouleAuthor(s): Hwiho Kim, Dalyu Kim, Chihyun Nam, Jun Tae Kim, Yujeong Hwang, Sooseong Hwang, Sugeun Jo, Sungjae Seo, Hyunji You, Eugene Choi, Yong S. Chu,…",
+      "source": "Joule",
+      "category": "general",
+      "published": null
+    },
+    {
+      "title": "Governing AI infrastructure on decarbonizing grids",
+      "link": "https://www.sciencedirect.com/science/article/pii/S2542435126003314?dgcid=rss_sd_all",
+      "summary": "Publication date: Available online 10 September 2026Source: JouleAuthor(s): Reda El Makroum, Catherine Banet, Yee Van Fan, Benedicte Fasmer Waaler, Boris Gamazaychikov, Sébastien Gros, Ignacio Hernando-Gil, Magnus…",
+      "source": "Joule",
+      "category": "general",
+      "published": null
+    },
+    {
+      "title": "Buried-interface healing and durability enhancement in perovskite solar cells via fluorinated ionic molecules",
+      "link": "https://www.sciencedirect.com/science/article/pii/S2542435126003557?dgcid=rss_sd_all",
+      "summary": "Publication date: Available online 9 September 2026Source: JouleAuthor(s): Jiyao Zhang, Peide Zhu, Dongyang Li, Lian Wang, Yongmin Luo, Xiaoming Chang, Patrick W.K. Fong, Hao Xia, Jiaming Huang, Yu Han, Lei Cheng, Zhen…",
+      "source": "Joule",
+      "category": "general",
+      "published": null
+    },
+    {
+      "title": "Achieving 27.35% efficiency in perovskite-organic tandem solar cells by improving near-infrared absorption with a low-band-gap acceptor",
+      "link": "https://www.sciencedirect.com/science/article/pii/S2542435126003545?dgcid=rss_sd_all",
+      "summary": "Publication date: Available online 3 September 2026Source: JouleAuthor(s): Sheng Zhuo, Wenxiong Shen, Wenwu Zhou, Yi Li, Fangcong Zhang, Shuya Tai, Xiaoying Xiong, Shunhong Dong, Huiting Fu, Yunlong Ma, Qingdong Zheng",
+      "source": "Joule",
+      "category": "general",
+      "published": null
+    },
+    {
+      "title": "Catalytic strategies for hydrogen release from carriers",
+      "link": "https://www.sciencedirect.com/science/article/pii/S254243512600334X?dgcid=rss_sd_all",
+      "summary": "Publication date: Available online 3 September 2026Source: JouleAuthor(s): Shuai Yue, Guanshu Zhao, Zhiyong Zhao, Mengxue Yang, Fei Li, Tao Zhang, Chengliang Mao, Shufang Ji, Wenqiang Qu, Mingzheng Xie, Pengfei Wang,…",
+      "source": "Joule",
+      "category": "general",
+      "published": null
+    },
+    {
+      "title": "Costs of demand-side solutions for decision-making",
+      "link": "https://www.sciencedirect.com/science/article/pii/S2542435126003521?dgcid=rss_sd_all",
+      "summary": "Publication date: Available online 3 September 2026Source: JouleAuthor(s): Joyashree Roy, Jingjing Zhang, Michelle Johnson-Wang, Eric Masanet, Shreya Some, Muhammad Huzaifa Butt, Hon Leung Curtis Wong, Leila Niamir,…",
+      "source": "Joule",
+      "category": "general",
+      "published": null
+    },
+    {
+      "title": "Thermal effects in perovskite solar cells",
+      "link": "https://www.sciencedirect.com/science/article/pii/S2542435126003272?dgcid=rss_sd_all",
+      "summary": "Publication date: Available online 2 September 2026Source: JouleAuthor(s): Mingzhe Zhu, Sirui Han, Zhongmin Zhou",
+      "source": "Joule",
+      "category": "general",
+      "published": null
+    },
+    {
+      "title": "Engineering battery architectures for multifunctionality and high performance",
+      "link": "https://www.sciencedirect.com/science/article/pii/S2542435126003260?dgcid=rss_sd_all",
+      "summary": "Publication date: Available online 2 September 2026Source: JouleAuthor(s): Man Chen, Xiaolin Guo, Yanyu Chen, Karim Zaghib, Jagjit Nanda, Hui Wang",
+      "source": "Joule",
+      "category": "general",
+      "published": null
+    },
+    {
+      "title": "Overcoming the interfacial heterogeneity of pyramidal structure for efficient perovskite/silicon tandem solar cells",
+      "link": "https://www.sciencedirect.com/science/article/pii/S2542435126002643?dgcid=rss_sd_all",
+      "summary": "Publication date: Available online 1 September 2026Source: JouleAuthor(s): Zheng Fang, Lei Ding, Yue Yin, Han Wang, Tao Du, Huimin Zhang, Zhijie Rao, Dongsheng Yang, Linyu Ning, Qingshui Zheng, Jing Li, Fu Zhang,…",
+      "source": "Joule",
+      "category": "general",
+      "published": null
+    },
+    {
+      "title": "Insertion-dominated anion redox in high-capacity amorphous sulfide cathodes for solid-state batteries",
+      "link": "https://www.sciencedirect.com/science/article/pii/S2542435126003338?dgcid=rss_sd_all",
+      "summary": "Publication date: Available online 31 August 2026Source: JouleAuthor(s): Chengyu Liu, Shengan Wu, Yanjiao Ma, Chong Han, Ke Wang, Zhenqi Song, Aojie Wu, Chiyu Zhang, Aina Zhang, Stefano Passerini, Yuan Ma, Yuping Wu",
+      "source": "Joule",
+      "category": "general",
+      "published": null
+    },
+    {
+      "title": "CsCl seed layer homogenizes co-evaporated perovskite growth for high-efficiency, fully textured perovskite-silicon tandem solar cells",
+      "link": "https://www.sciencedirect.com/science/article/pii/S2542435126003296?dgcid=rss_sd_all",
+      "summary": "Publication date: Available online 26 August 2026Source: JouleAuthor(s): Viktor Škorjanc, Stefanie Severin, Alexander Veber, Mauricio J. Prieto, Liviu C. Tănase, Aleksandra Miaskiewicz, Sebastian Weitz, Jing-Wen Hsueh,…",
+      "source": "Joule",
+      "category": "general",
+      "published": null
+    },
+    {
+      "title": "Impact of silicon substrate topography on sequentially evaporated perovskite film growth",
+      "link": "https://www.sciencedirect.com/science/article/pii/S2542435126003302?dgcid=rss_sd_all",
+      "summary": "Publication date: Available online 26 August 2026Source: JouleAuthor(s): Mohamed A.A. Mahmoud, Tobias Schulz, Oliver Fischer, Michael Günthel, Christoph Messmer, Markus Knäbbeler-Buß, Adrian Callies, Salar H. Sedani,…",
+      "source": "Joule",
+      "category": "general",
+      "published": null
+    },
+    {
+      "title": "Steric-gated dual-site chelation enables 27.3% efficient perovskite solar cells and ultra-stable 22% bifacial modules",
+      "link": "https://www.sciencedirect.com/science/article/pii/S2542435126003284?dgcid=rss_sd_all",
+      "summary": "Publication date: Available online 25 August 2026Source: JouleAuthor(s): Chenfeng Zhang, Zuolin Zhang, Jike Ding, Jialin Liu, Qingping Tang, Guoqing Li, Zedong Lin, Mengjia Li, Hao Liu, Thierry Pauporté, Xiaosong Chen,…",
+      "source": "Joule",
+      "category": "general",
+      "published": null
+    },
+    {
+      "title": "Electrochemical conversion of (bi)carbonate-based CO<sub>2</sub> capture solutions to ethylene on porous copper-based nanowire electrodes",
+      "link": "https://www.sciencedirect.com/science/article/pii/S2542435126003247?dgcid=rss_sd_all",
+      "summary": "Publication date: Available online 25 August 2026Source: JouleAuthor(s): Ashkan Irannezhad, Reza Eslami, Amirhossein Rakhsha, Sam Fahrngruber, Navid Noor, Mahtab Masouminia, Nima Shakourifar, Shayan Angizi, Zahra…",
+      "source": "Joule",
+      "category": "general",
+      "published": null
+    },
+    {
+      "title": "High-temperature degradation mechanisms of SiC whiskers reinforcement driven by thermo-mechanical coupling effects during sintering processes",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1005030226007127?dgcid=rss_sd_all",
+      "summary": "Publication date: 1 May 2027Source: Journal of Materials Science & Technology, Volume 288Author(s): Duwang Liu, Zengbin Yin, Caiyun Yuan, Dongbo Hong, Juntang Yuan",
+      "source": "Journal of Materials Science & Technology",
+      "category": "general",
+      "published": null
+    },
+    {
+      "title": "Heterointerface-grain boundary defect engineering enables high-performance and mechanically robust Bi<sub>2</sub>Te<sub>3</sub>-based thermoelectric nanocomposites",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1005030226007176?dgcid=rss_sd_all",
+      "summary": "Publication date: 1 May 2027Source: Journal of Materials Science & Technology, Volume 288Author(s): Jie Zheng, Shengqiang Cui, Zhilong Zhao, Ruiheng Li, Xiang An, Zongxiang Kan, Feng Cheng, Min Hong, Ran Ang",
+      "source": "Journal of Materials Science & Technology",
+      "category": "general",
+      "published": null
+    },
+    {
+      "title": "Constructing a cross-scale structure via self-doping for high-performance n-type PbTe thermoelectrics",
+      "link": "https://www.sciencedirect.com/science/article/pii/S100503022600664X?dgcid=rss_sd_all",
+      "summary": "Publication date: 1 May 2027Source: Journal of Materials Science & Technology, Volume 288Author(s): Wenqi Song, Yujie Zhang, Ming Huang, Dan Feng, Dan Zhang, Liangwei Fu",
+      "source": "Journal of Materials Science & Technology",
+      "category": "general",
+      "published": null
+    },
+    {
+      "title": "Simultaneous giant electrostrain and wide-temperature stability in PNZST ceramics via antiferroelectric phase boundary regulation",
+      "link": "https://www.sciencedirect.com/science/article/pii/S100503022600695X?dgcid=rss_sd_all",
+      "summary": "Publication date: 1 May 2027Source: Journal of Materials Science & Technology, Volume 288Author(s): Yimeng Tang, Yaodong Yang, Jianting Li, Fang Cao, Zhichao Gong, Hanfei Zhu, Junjie Li, Wei-Feng Rao, Yang Bai",
+      "source": "Journal of Materials Science & Technology",
+      "category": "general",
+      "published": null
+    },
+    {
+      "title": "Polarimetric photodetector based on quasi-1D Ta<sub>2</sub>NiSe<sub>5</sub>/2D MoSe<sub>2</sub> heterojunction with polarization inversion for multidimensional optical encoding and artificial vision",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1005030226006699?dgcid=rss_sd_all",
+      "summary": "Publication date: 1 May 2027Source: Journal of Materials Science & Technology, Volume 288Author(s): Hong Zhou, Jiao Qi, Xuanbo Zhao, Zhongtao Duan, Fengxian Xie, Yuxiang Zheng, Weibo Duan, Junhao Chu, Rongjun Zhang",
+      "source": "Journal of Materials Science & Technology",
+      "category": "general",
+      "published": null
+    },
+    {
+      "title": "Synergistic strength-ductility in wire arc additive manufacturing of Al-Cu-Mg alloys via Sc microalloying and in-situ multi-scale precipitation",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1005030226007140?dgcid=rss_sd_all",
+      "summary": "Publication date: 1 May 2027Source: Journal of Materials Science & Technology, Volume 288Author(s): Wenlong Li, Guorui Sun, Chuanchuan Jia, Jinchen Zhang, Chao Chen, Shupeng Wang",
+      "source": "Journal of Materials Science & Technology",
+      "category": "general",
+      "published": null
+    },
+    {
+      "title": "Dual built-in electric fields enabled by S-scheme/high-low dual-heterojunction engineering in CoS<em><sub>x</sub></em>@ZnIn<sub>2</sub>S<sub>4</sub>@O, K-co-doped g-C<sub>3</sub>N<sub>4</sub> for efficient photocatalytic H<sub>2</sub> evolution",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1005030226007024?dgcid=rss_sd_all",
+      "summary": "Publication date: 1 May 2027Source: Journal of Materials Science & Technology, Volume 288Author(s): Surui Qiao, Junxin Huang, Jiangrong Xiao, Juntao Yan, Bo Chai, Xiaohu Zhang",
+      "source": "Journal of Materials Science & Technology",
+      "category": "general",
+      "published": null
+    },
+    {
+      "title": "Amplified strain partitioning driven by multiple heterostructures enables superior strength-ductility in Ti-reinforced Mg composites",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1005030226007012?dgcid=rss_sd_all",
+      "summary": "Publication date: 1 May 2027Source: Journal of Materials Science & Technology, Volume 288Author(s): Jichuan Fan, Hong Yang, Xiaohuan Pan, Zhen Tan, Xingyu Liu, Gong Chen, Jun Xu, Jun Tan, Xianhua Chen, Fusheng Pan",
+      "source": "Journal of Materials Science & Technology",
+      "category": "general",
+      "published": null
+    },
+    {
+      "title": "Coupling composition design with defect engineering: An oxygen-doped Ti-Zr-Nb strain glass alloy with enhanced high-temperature shape memory effect",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1005030226006961?dgcid=rss_sd_all",
+      "summary": "Publication date: 20 April 2027Source: Journal of Materials Science & Technology, Volume 287Author(s): Chaohua Li, Yidong Wu, Boyuan Zheng, Xu Zhang, Xidong Hui, Shilei Li, Yandong Wang",
+      "source": "Journal of Materials Science & Technology",
+      "category": "general",
+      "published": null
+    },
+    {
+      "title": "A review of Nb-Si-based ultra-high temperature alloys on oxidation resistance",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1005030226006572?dgcid=rss_sd_all",
+      "summary": "Publication date: 20 April 2027Source: Journal of Materials Science & Technology, Volume 287Author(s): Dezhi Chen, Jiaqi Du, Ruirun Chen, Yijie Zhang, Qi Wang, Dongxin Wang, Shuo Yin",
+      "source": "Journal of Materials Science & Technology",
+      "category": "general",
+      "published": null
+    },
+    {
+      "title": "Thermal stress mitigation via synergistic dual-interface reconstruction in Si<sub>3</sub>N<sub>4</sub>/Cu joints",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1005030226006663?dgcid=rss_sd_all",
+      "summary": "Publication date: 20 April 2027Source: Journal of Materials Science & Technology, Volume 287Author(s): Wei Feng, Yuhan Fang, Shiquan Zhang, Yong Xiao, Jian Zhang",
+      "source": "Journal of Materials Science & Technology",
+      "category": "general",
+      "published": null
+    },
+    {
+      "title": "Heterolayered gradient photonic textile harmonizing scattering coloration and continuous microclimate comfort",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1005030226006328?dgcid=rss_sd_all",
+      "summary": "Publication date: 20 April 2027Source: Journal of Materials Science & Technology, Volume 287Author(s): Jialing Tan, Zinuo Zhang, Hongkun Zhu, Tongshu Tian, Xiaoge Qiang, Siyu Qiang, Chaoxia Wang",
+      "source": "Journal of Materials Science & Technology",
+      "category": "general",
+      "published": null
+    },
+    {
+      "title": "Multiphase synergistic strategy enabling flexible ceramic fibers with electromagnetic stealth capability for thermal protection up to 2000 °C",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1005030226006493?dgcid=rss_sd_all",
+      "summary": "Publication date: 20 April 2027Source: Journal of Materials Science & Technology, Volume 287Author(s): Zhongqian Zhao, Xujing Wang, Qianji Chen, Tianyue Yang, Xue Zhou, Yangzhong Zhao, Cuilan Wu, Yanzi Gou",
+      "source": "Journal of Materials Science & Technology",
+      "category": "general",
+      "published": null
+    },
+    {
+      "title": "Strong electron coupling effect of Cd<sub>0.5</sub>Zn<sub>0.5</sub>S nanoparticles anchored on NiCo<sub>2</sub>S<sub>4</sub> nanoflowers: Ohmic junction formation for boosted photocatalytic hydrogen production",
+      "link": "https://www.sciencedirect.com/science/article/pii/S100503022600705X?dgcid=rss_sd_all",
+      "summary": "Publication date: 20 April 2027Source: Journal of Materials Science & Technology, Volume 287Author(s): Junhui Li, Wen Ge, Sidi Deng, Jiahui Song, Yu Zhuang, Kong Liu, Qihang Zhou, Peizhi Yang",
+      "source": "Journal of Materials Science & Technology",
+      "category": "general",
+      "published": null
+    },
+    {
+      "title": "Effects of dislocation-twin interactions on twin evolution and dislocation transformation in AZ31 magnesium alloy",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1005030226006614?dgcid=rss_sd_all",
+      "summary": "Publication date: 20 April 2027Source: Journal of Materials Science & Technology, Volume 287Author(s): Xin Long, Guoqiang Xi, Jiakun Ou, Mingtao Mei, Rongsong Xiao, Yuzhe Ma, Jiahao Shi, Yanlong Ma, Wanting Sun, Dikai…",
+      "source": "Journal of Materials Science & Technology",
+      "category": "general",
+      "published": null
+    },
+    {
+      "title": "Enhanced wear and corrosion resistance and underlying mechanisms in directed energy deposited NiCrCoSi–xTiC composite coatings on stainless steel",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0257897226007760?dgcid=rss_sd_all",
+      "summary": "Publication date: 1 November 2026Source: Surface and Coatings Technology, Volume 539Author(s): Zhaojian Li, Yongjun Shi, Shuyao Wang, Yangshu Liu, Kaijun Fan, Menglu Xi",
+      "source": "Surface and Coatings Technology",
+      "category": "coating",
+      "published": null
+    },
+    {
+      "title": "From crystalline h-AlN to nanocomposite Al<sub>1-x</sub>Si<sub>x</sub>N: Si-controlled microstructure and dielectric properties",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0257897226007607?dgcid=rss_sd_all",
+      "summary": "Publication date: 1 November 2026Source: Surface and Coatings Technology, Volume 539Author(s): N. Salvadores Farran, P. Dörflinger, R. Hahn, T. Wojcik, P. Kutrowatz, M. Stöger-Pollach, A. Gies, J. Ramm, K. Böbel, S.…",
+      "source": "Surface and Coatings Technology",
+      "category": "coating",
+      "published": null
+    },
+    {
+      "title": "Direct deposition of nanocrystalline and graphene-like carbon films on sapphire by heater-free DC magnetron sputtering: Role of H<sub>2</sub>O-reactive filtering",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0257897226007425?dgcid=rss_sd_all",
+      "summary": "Publication date: 1 November 2026Source: Surface and Coatings Technology, Volume 539Author(s): SuHyeon Nam, TaeEi Hong, SeongWook Yun, HaeHoon Jeong, JiHeon Lee, JunHo Kim, SeHee Lee, HoSup Kim",
+      "source": "Surface and Coatings Technology",
+      "category": "coating",
+      "published": null
+    },
+    {
+      "title": "Improvement of corrosion resistance of Ni-Co electrodeposition layer by enhancing dispersion of nano Al<sub>2</sub>O<sub>3</sub> reinforced particles",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0257897226007747?dgcid=rss_sd_all",
+      "summary": "Publication date: 1 November 2026Source: Surface and Coatings Technology, Volume 539Author(s): Jiayi He, Zhongge Luo, Yuxin Jue, Zikai Wu, Kuangxin Luo, Fenghua Luo",
+      "source": "Surface and Coatings Technology",
+      "category": "coating",
+      "published": null
+    },
+    {
+      "title": "Mechanisms of surface and subsurface pore formation in micro-arc oxidation coatings on titanium implant",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0257897226007401?dgcid=rss_sd_all",
+      "summary": "Publication date: 1 November 2026Source: Surface and Coatings Technology, Volume 539Author(s): Fangquan Xi, Zheng Zhang, Chao Deng, Xingwan Zhang, Yang Liu, Xueying Wen, Mingyang Sun, Yuanyuan Kang",
+      "source": "Surface and Coatings Technology",
+      "category": "coating",
+      "published": null
+    },
+    {
+      "title": "Effect of nano-CeO<sub>2</sub> particles on the microstructure and cavitation erosion resistance of Ni45 coatings fabricated via high-power laser cladding",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0257897226006675?dgcid=rss_sd_all",
+      "summary": "Publication date: 1 November 2026Source: Surface and Coatings Technology, Volume 539Author(s): Shuai Guo, ChengFang Chai, ShengHao Hu, FengXian Li, YiChun Liu, JianHong Yi, Jie Yu, Jürgen Eckert",
+      "source": "Surface and Coatings Technology",
+      "category": "coating",
+      "published": null
+    },
+    {
+      "title": "Synergistic effects of surface nanocrystallization and nitriding temperature on microstructural evolution and scratch failure of SLM Ti-6Al-4V",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0257897226007693?dgcid=rss_sd_all",
+      "summary": "Publication date: 1 November 2026Source: Surface and Coatings Technology, Volume 539Author(s): Wenbo Sun, Chuyang Xiao, Chao Yang, Haitao Liu, Junbiao Wang, Chaorun Si",
+      "source": "Surface and Coatings Technology",
+      "category": "coating",
+      "published": null
+    },
+    {
+      "title": "Structure, mechanical and tribological properties of Ti-Al-Ta-N coatings deposited by hybrid HiPIMS/DCMS co-sputtering",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0257897226007590?dgcid=rss_sd_all",
+      "summary": "Publication date: 1 November 2026Source: Surface and Coatings Technology, Volume 539Author(s): A.R. Shugurov, A.V. Panin",
+      "source": "Surface and Coatings Technology",
+      "category": "coating",
+      "published": null
+    },
+    {
+      "title": "Effect of Co<img class=\"glyph\" src=\"https://sdfestaticassets-us-east-1.sciencedirectassets.com/shared-assets/16/entities/sbnd\" />Al co-deposition on high-temperature corrosion behavior of surface-dependent CVD aluminide coatings on Ni-based single-crystal alloys",
+      "link": "https://www.sciencedirect.com/science/article/pii/S025789722600767X?dgcid=rss_sd_all",
+      "summary": "Publication date: 1 November 2026Source: Surface and Coatings Technology, Volume 539Author(s): Tiancheng Cui, Shujiang Geng, Xiying Niu, Qingtao Jia, Minghui Chen, Fuhui Wang",
+      "source": "Surface and Coatings Technology",
+      "category": "coating",
+      "published": null
+    },
+    {
+      "title": "Multifunctional (AlCoCrFeNi)₆₅Mo₁₅N₅W₅ high-entropy alloy coating with simultaneous enhancement in corrosion, Wear and anti-biofouling performance for marine applications",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0257897226007644?dgcid=rss_sd_all",
+      "summary": "Publication date: 1 November 2026Source: Surface and Coatings Technology, Volume 539Author(s): M. Nanthini, Vignesh Jagajeevan",
+      "source": "Surface and Coatings Technology",
+      "category": "coating",
+      "published": null
+    },
+    {
+      "title": "Synergistic enhancement of electrochemical corrosion resistance via laser remelting of FeCoCrNiMo high-entropy alloy coatings on TC11 titanium alloy in 3.5% NaCl solution",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0257897226007486?dgcid=rss_sd_all",
+      "summary": "Publication date: 1 November 2026Source: Surface and Coatings Technology, Volume 539Author(s): Xi Zhang, Changsheng Zhai, Fang Xie, Hongxing Zheng, Feifei Wu, Xin Zhang, Qingyun Guan",
+      "source": "Surface and Coatings Technology",
+      "category": "coating",
+      "published": null
+    },
+    {
+      "title": "Suspension plasma sprayed yttria-stabilized zirconia coatings from a non-flammable solvent: A story of thermal cycling, erosion, and calcium-magnesium-alumino-silicate",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0257897226007474?dgcid=rss_sd_all",
+      "summary": "Publication date: 1 November 2026Source: Surface and Coatings Technology, Volume 539Author(s): Rajib Das, Vikram Hastak, Pushpender Singh, Siddharth Lokachari, Nicholas Curry, Kieron Robinson, Tanvir Hussain",
+      "source": "Surface and Coatings Technology",
+      "category": "coating",
+      "published": null
+    },
+    {
+      "title": "Synergistic engineering of near-interface alumina-rich structures in YSZ/Cr<sub>2</sub>AlC co-modified NiCoCrAlY bond coats for enhanced thermal-cycling durability",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0257897226007413?dgcid=rss_sd_all",
+      "summary": "Publication date: 1 November 2026Source: Surface and Coatings Technology, Volume 539Author(s): Jiale Tian, Chengxi Wang, Jianqiang Xia, Peng Song, Taihong Huang, Vincent Ji",
+      "source": "Surface and Coatings Technology",
+      "category": "coating",
+      "published": null
+    },
+    {
+      "title": "Influence of powder particle size on defect formation mechanisms and process optimization in laser directed energy deposition of AlSi10Mg",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0257897226007516?dgcid=rss_sd_all",
+      "summary": "Publication date: 1 November 2026Source: Surface and Coatings Technology, Volume 539Author(s): Zejing Zhou, Xiaosong Zhou, Quan Wu, Yinfeng He, Yi Nie, Xuantong Liu, Huagui Zhang, Yongsheng Yu, Qingsong Xiang",
+      "source": "Surface and Coatings Technology",
+      "category": "coating",
+      "published": null
+    },
+    {
+      "title": "Compositional tailoring of amorphous silicon nitride films to enhance corrosion resistance, corrosion-assisted wear resistance, and bioactivity of titanium implants",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0257897226007619?dgcid=rss_sd_all",
+      "summary": "Publication date: 1 November 2026Source: Surface and Coatings Technology, Volume 539Author(s): Jianming Wang, Lingxu Wang, Yikai Xu, Haipin Tian, Fang Yuan, Xiao Tao, Chunbo Tang, Jian Chen",
+      "source": "Surface and Coatings Technology",
+      "category": "coating",
+      "published": null
+    },
+    {
+      "title": "Polyurea coatings: Molecular engineering, hierarchical structures, and advanced protective applications",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0300944026006740?dgcid=rss_sd_all",
+      "summary": "Publication date: December 2026Source: Progress in Organic Coatings, Volume 221Author(s): Imran Ullah, Gengxu Han, Wei Cai, Jun Ma, Lijun Qian, Jihang Zhang, Ruibo Wang, Xueqi Wang, Zhijiong Wu, Ruisheng Yong, Wei Tang,…",
+      "source": "Progress in Organic Coatings",
+      "category": "coating",
+      "published": null
+    },
+    {
+      "title": "PVDF-HFP and azole-based polymers in advanced coating technologies: Corrosion, bioactivity, and emerging functional applications",
+      "link": "https://www.sciencedirect.com/science/article/pii/S030094402600576X?dgcid=rss_sd_all",
+      "summary": "Publication date: December 2026Source: Progress in Organic Coatings, Volume 221Author(s): Nitish Kumar Sharma, Veena Dhayal",
+      "source": "Progress in Organic Coatings",
+      "category": "coating",
+      "published": null
+    },
+    {
+      "title": "Hydrothermally synthesized Ce-doped NH<sub>4</sub>ZnPO<sub>4</sub>/CePO<sub>4</sub> micro/nanopigments: Enhancing the long-term corrosion protection and self-repair capability of WEP coatings",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0300944026006053?dgcid=rss_sd_all",
+      "summary": "Publication date: December 2026Source: Progress in Organic Coatings, Volume 221Author(s): Yulin Zhang, Qiuying Wei, Bin Wang, Wenliang Wu, Junjie Chen, Qi Liu, Fei Chen, Wenbo Du",
+      "source": "Progress in Organic Coatings",
+      "category": "coating",
+      "published": null
+    },
+    {
+      "title": "Advances in the application of laser-fabricated superhydrophobic surfaces in efficient anti/de-icing strategies",
+      "link": "https://www.sciencedirect.com/science/article/pii/S030094402600593X?dgcid=rss_sd_all",
+      "summary": "Publication date: December 2026Source: Progress in Organic Coatings, Volume 221Author(s): Kangshuai Li, Yanbin Zhang, Xiaosen Wang, Wendi Li, Zehua Xu, Qiang He",
+      "source": "Progress in Organic Coatings",
+      "category": "coating",
+      "published": null
+    },
+    {
+      "title": "Recent advances in bio-based flame retardants of epoxy resins: Mechanisms, modifications, and performance",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0300944026005631?dgcid=rss_sd_all",
+      "summary": "Publication date: December 2026Source: Progress in Organic Coatings, Volume 221Author(s): Wang Zhan, Yunpeng Zhao, Chang Song, Xin Wang, Qinghong Kong, Lixia Li, Mingyi Chen, Wenjie Guo, Qingwu Zhang, Juncheng Jiang",
+      "source": "Progress in Organic Coatings",
+      "category": "coating",
+      "published": null
+    },
+    {
+      "title": "Transitioning PVC plastisol technology toward bio-based systems: Processing principles, challenges and opportunities of poly(3-hydroxybutyrate)",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0300944026005849?dgcid=rss_sd_all",
+      "summary": "Publication date: December 2026Source: Progress in Organic Coatings, Volume 221Author(s): Md. Koushic Uddin, Mohammad Mahbubul Alam, Alessandro Sannino, Antonio Greco",
+      "source": "Progress in Organic Coatings",
+      "category": "coating",
+      "published": null
+    },
+    {
+      "title": "Synthesis of a cationic, waterborne organosilicone/castor oil-modified polyurethane and its application in dust-repellent and color-deepening fabric coatings",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0300944026006648?dgcid=rss_sd_all",
+      "summary": "Publication date: December 2026Source: Progress in Organic Coatings, Volume 221Author(s): Jinmo Yu, Qilin Guo, Kunlin Chen, Hua Qiu",
+      "source": "Progress in Organic Coatings",
+      "category": "coating",
+      "published": null
+    },
+    {
+      "title": "Electropolymerization of carvacrol on mild steel surfaces: a coating for corrosion protection in 0.1 M NaCl",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0300944026006752?dgcid=rss_sd_all",
+      "summary": "Publication date: December 2026Source: Progress in Organic Coatings, Volume 221Author(s): H. Madjoub, D. Veys-Renaux, K. Draoui, A. Ait Aghzzaf, E. Rocca",
+      "source": "Progress in Organic Coatings",
+      "category": "coating",
+      "published": null
+    },
+    {
+      "title": "Highly transparent, room-temperature self-healing UV-curable coating based on the synergistic effects of disulfide and hydrogen bonds",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0300944026006788?dgcid=rss_sd_all",
+      "summary": "Publication date: December 2026Source: Progress in Organic Coatings, Volume 221Author(s): Yiming Liu, Guangyue Zou, Peihai Chen, Guangjun Pan, Chunhong Zhang, Lijia Liu, Yawen Liu, Chao Wang",
+      "source": "Progress in Organic Coatings",
+      "category": "coating",
+      "published": null
+    },
+    {
+      "title": "Multifunctional P<img class=\"glyph\" src=\"https://sdfestaticassets-us-east-1.sciencedirectassets.com/shared-assets/16/entities/sbnd\" />N synergistic epoxy coatings for polycarbonate: Simultaneous enhancement in fire safety, scratch resistance, adhesion, and UV shielding",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0300944026006764?dgcid=rss_sd_all",
+      "summary": "Publication date: December 2026Source: Progress in Organic Coatings, Volume 221Author(s): Zilong Wen, Jiacai Li, Yunzheng Zhao, Qing Liao, Mei-Jin Lin",
+      "source": "Progress in Organic Coatings",
+      "category": "coating",
+      "published": null
+    },
+    {
+      "title": "Corrosion protection and fluorescence sensing of the europium complex-grafted short carbon fiber reinforced FEVE coating",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0300944026006624?dgcid=rss_sd_all",
+      "summary": "Publication date: December 2026Source: Progress in Organic Coatings, Volume 221Author(s): Linfeng Jiang, Jingjing Zhang, Xu Liu, Guoqing Zhang, Feng Hong",
+      "source": "Progress in Organic Coatings",
+      "category": "coating",
+      "published": null
+    },
+    {
+      "title": "Reusable photo-crosslinked acrylate networks incorporating coumarin and S-CQDs for trace-level picric acid detection",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0300944026006776?dgcid=rss_sd_all",
+      "summary": "Publication date: December 2026Source: Progress in Organic Coatings, Volume 221Author(s): Yunus Emre Toprak, Mustafa Bulut, Gamze Özgül Artuç, Fatmanur Uyumaz Cengiz, Soner Çubuk, Memet Vezir Kahraman",
+      "source": "Progress in Organic Coatings",
+      "category": "coating",
+      "published": null
+    },
+    {
+      "title": "Emulsification and coating performance of sustainable waterborne lacquer based on cooperative effect of cashew-derived surfactant and SDS",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0300944026006636?dgcid=rss_sd_all",
+      "summary": "Publication date: December 2026Source: Progress in Organic Coatings, Volume 221Author(s): Tong Wu, Yingyue Yu, Xiaoxing Yan, Wei Xu",
+      "source": "Progress in Organic Coatings",
+      "category": "coating",
+      "published": null
+    },
+    {
+      "title": "Production of water-resistant carboxymethylated cellulose films from fine pulp",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0300944026006739?dgcid=rss_sd_all",
+      "summary": "Publication date: December 2026Source: Progress in Organic Coatings, Volume 221Author(s): Fatemeh Jaberi, Saeid Khodadoust, Mohammadhadi Moradian, Theo G.M. van de Ven",
+      "source": "Progress in Organic Coatings",
+      "category": "coating",
+      "published": null
+    },
+    {
+      "title": "Effects of curing agent type and stoichiometry on surface degradation of epoxy cargo hold coatings",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0300944026006430?dgcid=rss_sd_all",
+      "summary": "Publication date: December 2026Source: Progress in Organic Coatings, Volume 221Author(s): Elahe Adibzadeh, Søren Kiil, Zoi Lamprakou, Erik Graversen, Stefan Møller Olsen, Narayanan Rajagopalan",
+      "source": "Progress in Organic Coatings",
+      "category": "coating",
+      "published": null
+    },
+    {
+      "title": "Beyond surface area and surface charge: Oxidant-dependent methylene-blue uptake on a TiO<sub>2</sub>- and carbonate-rich mixed-plastic pyrolysis char",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0169433226025171?dgcid=rss_sd_all",
+      "summary": "Publication date: 30 January 2027Source: Applied Surface Science, Volume 753Author(s): Tarmizi Taher, Tiara Oktaviani, Syaharani Eka Putri, Asri Saffanah Pratiwi, Sephia Amanda Muhtar, Adri Huda, Irwan Kurnia, Joko…",
+      "source": "Applied Surface Science",
+      "category": "coating",
+      "published": null
+    },
+    {
+      "title": "Construction of a C/BN/Y<sub>2</sub>O<sub>3</sub> composite aerogel with high-density polarization sites via nanoconfinement for efficient broadband electromagnetic wave absorption",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0169433226025985?dgcid=rss_sd_all",
+      "summary": "Publication date: 30 January 2027Source: Applied Surface Science, Volume 753Author(s): Xiaoyu Ren, Zhaowei Liu, Ziyun Luo, Erliang An, Songshan Hu, Yanhui Huang, Chen Tang, Yufei Tang",
+      "source": "Applied Surface Science",
+      "category": "coating",
+      "published": null
+    },
+    {
+      "title": "Tannic acid-reinforced zwitterionic double-network hydrogels with enhanced mechanical properties and antifouling performance",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0169433226025924?dgcid=rss_sd_all",
+      "summary": "Publication date: 30 January 2027Source: Applied Surface Science, Volume 753Author(s): Haihuan Sun, Xiaoyan He, Tong Lou, Yuhan Liu, Ziquan Zhou, Zongcheng Yang, Chengqing Yuan, Xiuqin Bai",
+      "source": "Applied Surface Science",
+      "category": "coating",
+      "published": null
+    },
+    {
+      "title": "From interfacial locking to localized adaptive sliding: Temperature-driven transition in PEEK/POM heterogeneous friction",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0169433226026000?dgcid=rss_sd_all",
+      "summary": "Publication date: 30 January 2027Source: Applied Surface Science, Volume 753Author(s): Jiang Zhao, Tao Han, Yiqin Wang, Guochen Huang, Guoqing Wang, Shuntao Sui",
+      "source": "Applied Surface Science",
+      "category": "coating",
+      "published": null
+    },
+    {
+      "title": "p-C<sub>4</sub>N<sub>3</sub>: A controllable N-containing microenvironment regulating electrocatalysts for oxygen/hydrogen evolution and oxygen reduction reactions",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0169433226025079?dgcid=rss_sd_all",
+      "summary": "Publication date: 30 January 2027Source: Applied Surface Science, Volume 753Author(s): Xin Wang, Tian Tang, Xinyong Cai, Yu Jiang, Junmei Du, Jiao Chen, Yuxiang Ni, Yuanzheng Chen, Chunsheng Guo, Hongyan Wang",
+      "source": "Applied Surface Science",
+      "category": "coating",
+      "published": null
+    },
+    {
+      "title": "Plasmon-enabled reactive oxygen species scavenging for high-performance MoS<sub>2</sub>/Rh B@Al photodetectors",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0169433226025717?dgcid=rss_sd_all",
+      "summary": "Publication date: 30 January 2027Source: Applied Surface Science, Volume 753Author(s): Kaixi Shi, Baiqi Zhu, Xinyue Pan, Jinhua Li, Wanyu Wang, Xuan Fang, Tianze Kan",
+      "source": "Applied Surface Science",
+      "category": "coating",
+      "published": null
+    },
+    {
+      "title": "Swing-like non-isothermal sintering enhances the performance of Li-rich Mn-based cathodes",
+      "link": "https://www.sciencedirect.com/science/article/pii/S016943322602564X?dgcid=rss_sd_all",
+      "summary": "Publication date: 30 January 2027Source: Applied Surface Science, Volume 753Author(s): Hai Huang, Yongsong Ma, Rui Ji, Song Chen, Qiusheng Zhang, Jian Zhu",
+      "source": "Applied Surface Science",
+      "category": "coating",
+      "published": null
+    },
+    {
+      "title": "Particle-size-dependent coating morphology regulates the interfacial chemistry and electrochemical performance of high-voltage LiCoO<sub>2</sub>",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0169433226025092?dgcid=rss_sd_all",
+      "summary": "Publication date: 30 January 2027Source: Applied Surface Science, Volume 753Author(s): Zhongdong Peng, Zhiping Tang, Caiyan Shen, Kaile Niu, Xinghuo Luo, Guorong Hu, Yanbing Cao, Ke Du",
+      "source": "Applied Surface Science",
+      "category": "coating",
+      "published": null
+    },
+    {
+      "title": "Na⁺- and Mg<sup>2</sup>⁺-conditioned silica interfacial states modulate polyacrylamide-mediated interparticle interactions",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0169433226025869?dgcid=rss_sd_all",
+      "summary": "Publication date: 30 January 2027Source: Applied Surface Science, Volume 753Author(s): Liang Cao, Yongjun Peng",
+      "source": "Applied Surface Science",
+      "category": "coating",
+      "published": null
+    },
+    {
+      "title": "Versatile ultrasound-induced piezoelectric deposition of metals on ZnO nanostructures for hybrid electrocatalysts",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0169433226025377?dgcid=rss_sd_all",
+      "summary": "Publication date: 30 January 2027Source: Applied Surface Science, Volume 753Author(s): Gabriele Manca, Valentín García-Caballero, Donato Valli, Juan José Giner-Casares, Manuel Cano, Gabriele Giancane, Simona Bettini",
+      "source": "Applied Surface Science",
+      "category": "coating",
+      "published": null
+    },
+    {
+      "title": "Multi-wavelength photodetector based on SnS<sub>2</sub>/Gr/SnS p-g-n trilayers with high responsivity and detectivity",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0169433226025821?dgcid=rss_sd_all",
+      "summary": "Publication date: 30 January 2027Source: Applied Surface Science, Volume 753Author(s): Shiao Feng, Zirui Huang, Xiyu Jia, Mengjiao Dong, Chun Sun, Yonghui Zhang, Chao Fan",
+      "source": "Applied Surface Science",
+      "category": "coating",
+      "published": null
+    },
+    {
+      "title": "Isoelectric point-dependent adsorption of SAMs on metal oxides: selective modification of TiO<sub>2</sub>-NiO composite",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0169433226025730?dgcid=rss_sd_all",
+      "summary": "Publication date: 30 January 2027Source: Applied Surface Science, Volume 753Author(s): Aydan Yadigarli, Narges Heidaritaheri, Gabriel Onyenso, Shanmugapriya Periyannan, Nastaran Farahbakhsh, Faiz Kakar, Shiva…",
+      "source": "Applied Surface Science",
+      "category": "coating",
+      "published": null
+    },
+    {
+      "title": "Vacancy-interface synergy in Ce-modified lignin-derived carbon-encapsulated Co<sub>9</sub>S<sub>8</sub> electrocatalysts for enhanced oxygen evolution reaction",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0169433226025699?dgcid=rss_sd_all",
+      "summary": "Publication date: 30 January 2027Source: Applied Surface Science, Volume 753Author(s): Yifan Gong, Shuai Xu, Huidong Xie, Jinzhu Chen",
+      "source": "Applied Surface Science",
+      "category": "coating",
+      "published": null
+    },
+    {
+      "title": "The effects of K<sub>2</sub>O cluster size and exposed facets on CO<sub>2</sub> binding energetics",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0169433226024426?dgcid=rss_sd_all",
+      "summary": "Publication date: 30 January 2027Source: Applied Surface Science, Volume 753Author(s): Bharat Poudel, Hien Pham, Jacob Harvey, Perla A. Salinas, Abhaya Datye, N. Scott Bobbitt, Christopher Riley, Susan B. Rempe",
+      "source": "Applied Surface Science",
+      "category": "coating",
+      "published": null
+    },
+    {
+      "title": "Glycol-assisted MoS<sub>2</sub> nanosheets for Ir<sup>3+</sup>-O-Mo interface structure photothermal catalytic CO<sub>2</sub> high selectively to CH<sub>4</sub> and H<sub>2</sub> generation by using H<sub>2</sub>O",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0169433226025444?dgcid=rss_sd_all",
+      "summary": "Publication date: 15 January 2027Source: Applied Surface Science, Volume 752Author(s): Changcheng Xu, Qiyuan Wang, Qingzhu Xu",
+      "source": "Applied Surface Science",
+      "category": "coating",
+      "published": null
+    },
+    {
+      "title": "Fundamental study on the effect of temperature on stress corrosion behavior of Ti-6Al-3 Nb-2Zr-1Mo alloy in simulated seawater",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0010938X26006608?dgcid=rss_sd_all",
+      "summary": "Publication date: November 2026Source: Corrosion Science, Volume 272Author(s): Baozhuang Sun, Xiayan Wang, Bo Xu, Wenhe Dai, Yue Pan, Lin Lu, Zhiyong Liu, Xiaogang Li",
+      "source": "Corrosion Science",
+      "category": "coating",
+      "published": null
+    },
+    {
+      "title": "Synergistic ultrahigh-temperature ablation resistance of (Hf,Ta,W)C solid-solution coating above 2300 °C: Microstructural evolution and failure mechanism",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0010938X26006529?dgcid=rss_sd_all",
+      "summary": "Publication date: November 2026Source: Corrosion Science, Volume 272Author(s): Xiaofei Zhu, Mengen Chang, Ran He, Liming Dong, Guifang Li, Wanhong Yu, Li Yang, Yichun Zhou",
+      "source": "Corrosion Science",
+      "category": "coating",
+      "published": null
+    },
+    {
+      "title": "Effect of TiB<sub>2</sub> addition on microstructure formation and oxidation behavior of refractory high-entropy silicide coatings",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0010938X26006578?dgcid=rss_sd_all",
+      "summary": "Publication date: November 2026Source: Corrosion Science, Volume 272Author(s): Hao Jiang, Yanqiang Qiao, Weiping Zhang, Xiping Guo, Xuan Li",
+      "source": "Corrosion Science",
+      "category": "coating",
+      "published": null
+    },
+    {
+      "title": "A mechanistic study on the passivity degradation and localized corrosion of 5052, 6061, and 7075 aluminum alloys in a simulated marine tidal zone",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0010938X26006451?dgcid=rss_sd_all",
+      "summary": "Publication date: November 2026Source: Corrosion Science, Volume 272Author(s): Zhe Liu, Fan Yang, Xinjie Yao, Lijuan Zhou, Xuerong Zheng, Wenbin Hu, Da-Hai Xia",
+      "source": "Corrosion Science",
+      "category": "coating",
+      "published": null
+    },
+    {
+      "title": "Protective performance and stress corrosion cracking mechanism of Zn coating on high-strength steel fasteners in simulated shallow and deep-sea environments",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0010938X26006554?dgcid=rss_sd_all",
+      "summary": "Publication date: November 2026Source: Corrosion Science, Volume 272Author(s): Rongrong Zhao, Hao Jiang, Wenshan Peng, Mingshuai Guo, Shukun Nie, Likun Xu, Li Ma, Yingjin Cheng, Hongren Wang",
+      "source": "Corrosion Science",
+      "category": "coating",
+      "published": null
+    },
+    {
+      "title": "High–temperature sulfidation behavior of refractory TaMoCrTiAl(–3 W) high entropy alloys",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0010938X26006591?dgcid=rss_sd_all",
+      "summary": "Publication date: November 2026Source: Corrosion Science, Volume 272Author(s): Grzegorz Smola, Chongchong Tang, Björn Schäfer, Michael Dürrschnabel, Carsten Schroer, Paul Gokelaere, Bronislava Gorr, Zbigniew Grzesik",
+      "source": "Corrosion Science",
+      "category": "coating",
+      "published": null
+    },
+    {
+      "title": "Revealing crack propagation behavior associated with corrosion damage in Mg alloy AZ31B fabricated by pulse-coupled wire-arc directed energy deposition",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0010938X26006530?dgcid=rss_sd_all",
+      "summary": "Publication date: November 2026Source: Corrosion Science, Volume 272Author(s): Yukang An, Zhirou Zhang, Wuye Zheng, Xiao-bo Chen, Enyu Guo, Zongning Chen, Huijun Kang, Tongmin Wang",
+      "source": "Corrosion Science",
+      "category": "coating",
+      "published": null
+    },
+    {
+      "title": "Oxidation behaviors of tin-phosphor bronze at room and elevated temperatures",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0010938X2600661X?dgcid=rss_sd_all",
+      "summary": "Publication date: November 2026Source: Corrosion Science, Volume 272Author(s): Min Zhang, Haoyue Ling, Tongdi Zhang, Lijun Zhang",
+      "source": "Corrosion Science",
+      "category": "coating",
+      "published": null
+    },
+    {
+      "title": "Pore network evolution governs oxidation regime transitions in nuclear graphite",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0010938X26006499?dgcid=rss_sd_all",
+      "summary": "Publication date: November 2026Source: Corrosion Science, Volume 272Author(s): Jie Gao, Shasha Lv, Zhou Zhou, Dongyue Chen, Guma Yeli, Yumeng Zhao, Zhengcao Li",
+      "source": "Corrosion Science",
+      "category": "coating",
+      "published": null
+    },
+    {
+      "title": "A hydrogen transport and oxidation study of scandium-modified 304L stainless steel in simulated pressurized water reactor primary water",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0010938X26006566?dgcid=rss_sd_all",
+      "summary": "Publication date: November 2026Source: Corrosion Science, Volume 272Author(s): Pan Liu, Xuemei Ouyang, Jun Chai, Qinhao Zhang, Zihao Wang, Hao Li, Jian Xu, Fahe Cao, Yutaka Watanabe, Xiangyu Zhong, Tetsuo Shoji",
+      "source": "Corrosion Science",
+      "category": "coating",
+      "published": null
+    },
+    {
+      "title": "Region-specific ablation mechanisms and performance enhancement via Ta addition in (Hf,Zr)C-based ultra-high temperature ceramics",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0010938X26006141?dgcid=rss_sd_all",
+      "summary": "Publication date: November 2026Source: Corrosion Science, Volume 272Author(s): Yuxin Li, Jingtong Li, Tao Li, Pei Wang, Fan Zhou, Qiqi Zhao, Huiqun Liu, Zhen Teng, Wei Xue, Yulei Zhang",
+      "source": "Corrosion Science",
+      "category": "coating",
+      "published": null
+    },
+    {
+      "title": "Synergistic role of elastic-plastic stress and bromide ions in the passivity breakdown of commercially pure titanium",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0010938X26006505?dgcid=rss_sd_all",
+      "summary": "Publication date: November 2026Source: Corrosion Science, Volume 272Author(s): Qiu-Yu Huang, Tian-Yu Zhao, Yong-Hui Fang, Xin-Ran Li, Lian-Kui Wu, Fa-He Cao",
+      "source": "Corrosion Science",
+      "category": "coating",
+      "published": null
+    },
+    {
+      "title": "Provenance-aware image phenotyping links ISO 4628 grades to localized defect burden in epoxy coatings aged by salt spray",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0010938X26006487?dgcid=rss_sd_all",
+      "summary": "Publication date: November 2026Source: Corrosion Science, Volume 272Author(s): Qichao Wei, Pingluo Zhao, Hongmei Zhang, Zuyi Yang, Xiaonan Mu, Yangwei Wang, Xingwang Cheng",
+      "source": "Corrosion Science",
+      "category": "coating",
+      "published": null
+    },
+    {
+      "title": "In-situ formation of amorphous-nanocrystalline oxide scale and gradient microstructure via laser-assisted USRP for superior low-temperature hot corrosion fatigue resistance of K438 superalloy",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0010938X26006463?dgcid=rss_sd_all",
+      "summary": "Publication date: November 2026Source: Corrosion Science, Volume 272Author(s): Zhiqiang Yang, Daoxin Liu, Chaoyong Luo, Peng Jia, Yanjie Liu, Junnan Wu, Xiaohua Zhang, Hao Zhang",
+      "source": "Corrosion Science",
+      "category": "coating",
+      "published": null
+    },
+    {
+      "title": "Cross-scale synergistic protection of Q345NH weathering steel under freeze-thaw environments via La-Ce composite microalloying",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0010938X26006475?dgcid=rss_sd_all",
+      "summary": "Publication date: November 2026Source: Corrosion Science, Volume 272Author(s): Yi Xiao, Zhaozhen Cai, Miaoyong Zhu",
+      "source": "Corrosion Science",
+      "category": "coating",
+      "published": null
+    },
+    {
+      "title": "Experimental measurement and analysis of electrostatic charge polarity distribution ratio of coal dust",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0304388626001427?dgcid=rss_sd_all",
+      "summary": "Publication date: December 2026Source: Journal of Electrostatics, Volume 144Author(s): Jiange Chen, Lifeng Hui, Liang Wu",
+      "source": "Journal of Electrostatics",
+      "category": "insulation",
+      "published": null
+    },
+    {
+      "title": "Electrophoretic nanobubble-driven assisted filtration",
+      "link": "https://www.sciencedirect.com/science/article/pii/S030438862600135X?dgcid=rss_sd_all",
+      "summary": "Publication date: December 2026Source: Journal of Electrostatics, Volume 144Author(s): Francisco J. Arias",
+      "source": "Journal of Electrostatics",
+      "category": "insulation",
+      "published": null
+    },
+    {
+      "title": "Water sorption and surface charge govern electrospray deposition onto 3D-Printed insulators",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0304388626001415?dgcid=rss_sd_all",
+      "summary": "Publication date: December 2026Source: Journal of Electrostatics, Volume 144Author(s): Emma E. Pawliczak, Paul R. Chiarot",
+      "source": "Journal of Electrostatics",
+      "category": "insulation",
+      "published": null
+    },
+    {
+      "title": "Flow electrification as a nonequilibrium irreversible thermodynamic coupled phenomena",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0304388626001361?dgcid=rss_sd_all",
+      "summary": "Publication date: December 2026Source: Journal of Electrostatics, Volume 144Author(s): Robert T. Balmer, Telemachos P. Agoudemos",
+      "source": "Journal of Electrostatics",
+      "category": "insulation",
+      "published": null
+    },
+    {
+      "title": "Transition from field-dominated to duration-dominated droplet formation in electrohydrodynamic drop-on-demand printing",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0304388626001397?dgcid=rss_sd_all",
+      "summary": "Publication date: September 2026Source: Journal of Electrostatics, Volume 143Author(s): Kofi Owusu-Sekyere, Yongzhong Chen, Jiameng Tian, Junfeng Wang, Zhentao Wang",
+      "source": "Journal of Electrostatics",
+      "category": "insulation",
+      "published": null
+    },
+    {
+      "title": "Optical-independent PM2.5 mass monitoring via unipolar corona charging and electrometric detection: Laboratory calibration and preliminary field assessment in a biomass-burning environment",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0304388626001403?dgcid=rss_sd_all",
+      "summary": "Publication date: September 2026Source: Journal of Electrostatics, Volume 143Author(s): Wisanaphat Rattanachan, Panich Intra",
+      "source": "Journal of Electrostatics",
+      "category": "insulation",
+      "published": null
+    },
+    {
+      "title": "Features of the combustion of liquid hydrocarbons in the presence of an electrostatic field",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0304388626001385?dgcid=rss_sd_all",
+      "summary": "Publication date: September 2026Source: Journal of Electrostatics, Volume 143Author(s): Tamer M. Ismail, M. Abd El-Salam",
+      "source": "Journal of Electrostatics",
+      "category": "insulation",
+      "published": null
+    },
+    {
+      "title": "Magnetic and electrode synergy for enhanced fine particle capture in electrostatic precipitator",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0304388626001373?dgcid=rss_sd_all",
+      "summary": "Publication date: September 2026Source: Journal of Electrostatics, Volume 143Author(s): Rui Mu, Yuejiu Zheng, Shuai Wang, Jianping Zhang",
+      "source": "Journal of Electrostatics",
+      "category": "insulation",
+      "published": null
+    },
+    {
+      "title": "Theoretical treatment of linear and exponential Phan–Thien–Tanner multiphase fluid models through an inclined channel in the vicinity of electro-osmotic environment",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0304388626001324?dgcid=rss_sd_all",
+      "summary": "Publication date: September 2026Source: Journal of Electrostatics, Volume 143Author(s): Mubbashar Nazeer, Faisal Z. Duraihem, Farooq Hussain, S. Saleem",
+      "source": "Journal of Electrostatics",
+      "category": "insulation",
+      "published": null
+    },
+    {
+      "title": "Potential control of floating metallic target in surface treatment of atmospheric pressure plasma jet",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0304388626001336?dgcid=rss_sd_all",
+      "summary": "Publication date: September 2026Source: Journal of Electrostatics, Volume 143Author(s): Chen Ma, Jialu Liu, Feng He, Bocong Zheng, Jiting Ouyang",
+      "source": "Journal of Electrostatics",
+      "category": "insulation",
+      "published": null
+    },
+    {
+      "title": "Transitions of electrostatic ignition modes of nylon 1010 in pure oxygen: Effects of energy, gap, and pressure",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0304388626001348?dgcid=rss_sd_all",
+      "summary": "Publication date: September 2026Source: Journal of Electrostatics, Volume 143Author(s): Wei Yan, Xiaoliang Si, Zhibao Li, Zemin Duan",
+      "source": "Journal of Electrostatics",
+      "category": "insulation",
+      "published": null
+    },
+    {
+      "title": "Study on the influence of geometric deformation on chucking force distribution and its compensation in Coulomb-type electrostatic chucks",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0304388626001312?dgcid=rss_sd_all",
+      "summary": "Publication date: September 2026Source: Journal of Electrostatics, Volume 143Author(s): Zijiang Liu, Xiangji Yue, Lehang Wang, Zuming Zhao, Zhijun Zhang",
+      "source": "Journal of Electrostatics",
+      "category": "insulation",
+      "published": null
+    },
+    {
+      "title": "Experimental study on fuel injection rod of afterburner based on plasma actuation",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0304388626001178?dgcid=rss_sd_all",
+      "summary": "Publication date: September 2026Source: Journal of Electrostatics, Volume 143Author(s): Yuxiang Wang, Lei Chen, Wei Zhang, Guangyao Sun, Baohuai Wang, Peng Song",
+      "source": "Journal of Electrostatics",
+      "category": "insulation",
+      "published": null
+    },
+    {
+      "title": "Surface engineered bilayer conductive hydrogel for a high performance triboelectric nanogenerator in wearable lumbar rehabilitation monitoring",
+      "link": "https://www.sciencedirect.com/science/article/pii/S030438862600118X?dgcid=rss_sd_all",
+      "summary": "Publication date: September 2026Source: Journal of Electrostatics, Volume 143Author(s): Qi Liu, Hongmei Lu, Changqing Miao, Lin Liu",
+      "source": "Journal of Electrostatics",
+      "category": "insulation",
+      "published": null
+    },
+    {
+      "title": "Electrostatic discharge modelling in wearable devices using machine learning techniques",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0304388626001221?dgcid=rss_sd_all",
+      "summary": "Publication date: September 2026Source: Journal of Electrostatics, Volume 143Author(s): Rishabh Deo Pandey, Ravi Chandra, Itu Snigdh, Nisha Gupta",
+      "source": "Journal of Electrostatics",
+      "category": "insulation",
+      "published": null
+    },
+    {
+      "title": "Vision-assisted testing of microcellular PMMA foaming: SAM2-based tracking, automated SEM quantification, and Gaussian process regression",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0142941826002795?dgcid=rss_sd_all",
+      "summary": "Publication date: October 2026Source: Polymer Testing, Volume 163Author(s): Donghwan Lim, Jaehoo Kim, Sung Woon Cha, Yong Hoon Jang",
+      "source": "Polymer Testing",
+      "category": "insulation",
+      "published": null
+    },
+    {
+      "title": "Influence of drilling-induced delamination on flexural load-carrying capacity of open-hole woven GFRPs: Experiments and mesoscale modeling",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0142941826002679?dgcid=rss_sd_all",
+      "summary": "Publication date: October 2026Source: Polymer Testing, Volume 163Author(s): Saeed Bagherpour-Kasseb, Fathollah Taheri-Behrooz, Hadi G. Kouchaki",
+      "source": "Polymer Testing",
+      "category": "insulation",
+      "published": null
+    },
+    {
+      "title": "Network structural dynamics in natural rubber: A comparative study of accelerated storage and natural environment storage",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0142941826002771?dgcid=rss_sd_all",
+      "summary": "Publication date: October 2026Source: Polymer Testing, Volume 163Author(s): Wenfeng Peng, Danhua Yun, Yupan Li, Jingqing Song, Jianhe Liao, Lusheng Liao",
+      "source": "Polymer Testing",
+      "category": "insulation",
+      "published": null
+    },
+    {
+      "title": "Sustained TGF-β3 delivery and stem cell loading via injectable microspheres enhance cartilage defect repair",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0142941826002552?dgcid=rss_sd_all",
+      "summary": "Publication date: October 2026Source: Polymer Testing, Volume 163Author(s): Wei Zhan, Hui Deng, Yifeng Xia, Xiao Liu, Jinping You, Fanrong Ai, Jinjun Huang",
+      "source": "Polymer Testing",
+      "category": "insulation",
+      "published": null
+    },
+    {
+      "title": "Effects of elevated storage temperature on reactive terpolymer-modified asphalt: A low-frequency rheological perspective",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0142941826002709?dgcid=rss_sd_all",
+      "summary": "Publication date: October 2026Source: Polymer Testing, Volume 163Author(s): Alok Sharma, G.D. Ransinchung R.N., Sham S. Ravindranath",
+      "source": "Polymer Testing",
+      "category": "insulation",
+      "published": null
+    },
+    {
+      "title": "Comparative Study of Vulcanization Characteristics Between Centrifugally Spun ZnO Fibers and Commercial ZnO Nanoparticles in Natural Rubber",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0142941826002783?dgcid=rss_sd_all",
+      "summary": "Publication date: Available online 10 September 2026Source: Polymer TestingAuthor(s): Nasrollah Naseri Joda, Dominik Brezina, Drahomir Cadek, Martina Rihova, Jan M. Macak",
+      "source": "Polymer Testing",
+      "category": "insulation",
+      "published": null
+    },
+    {
+      "title": "Ligand-Regulated Fe-coordinated Dynamic Networks in Epoxidized Natural Rubber for Mechanical Recovery and Relaxation Recovery",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0142941826002631?dgcid=rss_sd_all",
+      "summary": "Publication date: Available online 8 September 2026Source: Polymer TestingAuthor(s): Piyawadee Luangchuang, Vitoon Uthaisangsuk, Patcharapit Promoppatum, Charoen Nakason, Pongtanawat Khemthong, Frank Clemens, Yeampon…",
+      "source": "Polymer Testing",
+      "category": "insulation",
+      "published": null
+    },
+    {
+      "title": "Layerwise fiber volume fraction characterization in composite structures: Method comparison and application to composite pressure vessels",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0142941826002618?dgcid=rss_sd_all",
+      "summary": "Publication date: Available online 7 September 2026Source: Polymer TestingAuthor(s): Gerrit Rehs, Oliver Dammann, Daniela Feldten, Nils Meyer, Tobias Dickhut",
+      "source": "Polymer Testing",
+      "category": "insulation",
+      "published": null
+    },
+    {
+      "title": "Corrigendum to “Pyridine-containing polymers/graphene oxide composites: synthesis, characterization, and application for the recovery of phenolic compounds” [Polym. Test. 161 (2026) 109303]",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0142941826002369?dgcid=rss_sd_all",
+      "summary": "Publication date: September 2026Source: Polymer Testing, Volume 162Author(s): Naila Mraieh, Ibtissem Jlalia, Nicole Jaffrezic-Renault, Regis Mercier, Steffen Weidner, Agnès Crepet, Catherine Marestin, Saber Chatti,…",
+      "source": "Polymer Testing",
+      "category": "insulation",
+      "published": null
+    },
+    {
+      "title": "Corrigendum to “Nanostructured polyethersulfone nanocomposite membranes for dual protein and dye separation: Lower antifouling with lanthanum (III) vanadate nanosheets as a novel nanofiller” [Polym. Test. 94 (2021) 107040]",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0142941826002357?dgcid=rss_sd_all",
+      "summary": "Publication date: September 2026Source: Polymer Testing, Volume 162Author(s): Vahid Vatanpour, Yaghoub Mansourpanah, Seyed Soroush Mousavi Khadem, Sirus Zinadini, Nadir Dizge, Mohammad Reza Ganjali, Somayeh Mirsadeghi,…",
+      "source": "Polymer Testing",
+      "category": "insulation",
+      "published": null
+    },
+    {
+      "title": "Poly(lactic acid)-derived biomaterials: Design strategies, functional enhancements and clinical prospects in tissue engineering",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0142941826002588?dgcid=rss_sd_all",
+      "summary": "Publication date: September 2026Source: Polymer Testing, Volume 162Author(s): Jie Geng, Hui Li, Rangrang Fan, Chao Wang, Hanlin Gong, Gang Guo",
+      "source": "Polymer Testing",
+      "category": "insulation",
+      "published": null
+    },
+    {
+      "title": "Eco-friendly sliding components - Friction and wear of selected biodegradable plastics",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0142941826002692?dgcid=rss_sd_all",
+      "summary": "Publication date: September 2026Source: Polymer Testing, Volume 162Author(s): Maciej Kujawa",
+      "source": "Polymer Testing",
+      "category": "insulation",
+      "published": null
+    },
+    {
+      "title": "The effect of fresh latex coagulation concentration and coagulum maturation time on the properties of natural rubber",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0142941826002655?dgcid=rss_sd_all",
+      "summary": "Publication date: September 2026Source: Polymer Testing, Volume 162Author(s): Jianwei Li, Tao Zhao, Honghai Huang, Li Ding, Liguang Zhao, Tuo Dai, Haoran Geng, Fan Wu, Hongxing Gui",
+      "source": "Polymer Testing",
+      "category": "insulation",
+      "published": null
+    },
+    {
+      "title": "Accelerated chemical aging effects on flexural properties and surface wettability of fumed silica-modified additively manufactured denture resins",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0142941826002680?dgcid=rss_sd_all",
+      "summary": "Publication date: September 2026Source: Polymer Testing, Volume 162Author(s): Christopher Hu, Matthew Tamarin, Taveed Tamarin, Poom Narongdej, Ehsan Barjasteh, Sara Moghtadernejad",
+      "source": "Polymer Testing",
+      "category": "insulation",
+      "published": null
+    },
+    {
+      "title": "Suppressing photo-oxidative degradation: Biomimetic allomelanin enhances the UV-aging resistance of polyvinyl alcohol films",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0142941826002643?dgcid=rss_sd_all",
+      "summary": "Publication date: September 2026Source: Polymer Testing, Volume 162Author(s): Chen Hu, Hanyi Chen, Jun Du, Ying Gong, Sheng Liu, Qing Li",
+      "source": "Polymer Testing",
+      "category": "insulation",
+      "published": null
+    },
+    {
+      "title": "Self-pumping boiling mechanism bridging passive and active cooling performance",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0017931026012421?dgcid=rss_sd_all",
+      "summary": "Publication date: January 2027Source: International Journal of Heat and Mass Transfer, Volume 272Author(s): Shaobo Yang, Sihui Hong, Chaobin Dang",
+      "source": "International Journal of Heat and Mass Transfer",
+      "category": "thermal",
+      "published": null
+    },
+    {
+      "title": "An improved lattice Boltzmann scheme for convection–diffusion problem using inverse design",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0017931026012147?dgcid=rss_sd_all",
+      "summary": "Publication date: January 2027Source: International Journal of Heat and Mass Transfer, Volume 272Author(s): Qian Jiang, Jie Shen, Hui Tang, Lian-Ping Wang",
+      "source": "International Journal of Heat and Mass Transfer",
+      "category": "thermal",
+      "published": null
+    },
+    {
+      "title": "Microencapsulated phase change slurry coupled with bioinspired leaf-vein cold plates for thermal management of large-scale lithium-ion battery packs",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0017931026012329?dgcid=rss_sd_all",
+      "summary": "Publication date: January 2027Source: International Journal of Heat and Mass Transfer, Volume 272Author(s): Xianglong Fan, Zonghao Wang, Jinqiu Yu, Xiaotong Wang, Xinjian Liu, Chenzhen Liu, Peizhao Lyu, Zhonghao Rao",
+      "source": "International Journal of Heat and Mass Transfer",
+      "category": "thermal",
+      "published": null
+    },
+    {
+      "title": "A coupled species transport, heat transfer and moving boundary approach for modeling deposition in turbulent flow",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0017931026012202?dgcid=rss_sd_all",
+      "summary": "Publication date: January 2027Source: International Journal of Heat and Mass Transfer, Volume 272Author(s): Sajad Khodadadi, Reza Maddahian, Xizhong Chen",
+      "source": "International Journal of Heat and Mass Transfer",
+      "category": "thermal",
+      "published": null
+    },
+    {
+      "title": "Two-phase closed thermosyphon system with microstructured boiling surfaces: Steady-state and transient regimes analysis",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0017931026012214?dgcid=rss_sd_all",
+      "summary": "Publication date: January 2027Source: International Journal of Heat and Mass Transfer, Volume 272Author(s): José Pereira, Reinaldo Souza, Miguel Casalinho, Sofia Fernandes, Francisco P. Brito, Óscar Carvalho, Ana Moita",
+      "source": "International Journal of Heat and Mass Transfer",
+      "category": "thermal",
+      "published": null
+    },
+    {
+      "title": "Boundary-aware graph neural operators for predicting flow-thermal fields in pin-fin geometries",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0017931026011841?dgcid=rss_sd_all",
+      "summary": "Publication date: January 2027Source: International Journal of Heat and Mass Transfer, Volume 272Author(s): Zayd El Alaoui, Amrita Basak",
+      "source": "International Journal of Heat and Mass Transfer",
+      "category": "thermal",
+      "published": null
+    },
+    {
+      "title": "Theoretical and experimental investigation of compensation-chamber effects in an open-loop heat pipe",
+      "link": "https://www.sciencedirect.com/science/article/pii/S001793102601238X?dgcid=rss_sd_all",
+      "summary": "Publication date: January 2027Source: International Journal of Heat and Mass Transfer, Volume 272Author(s): Bohan Wang, Jiayi Wang, Long Chen, Xiantao Zhang, Lu Huang, Xuejiao Hu",
+      "source": "International Journal of Heat and Mass Transfer",
+      "category": "thermal",
+      "published": null
+    },
+    {
+      "title": "Investigation on the performance of proton exchange membrane fuel cells with bamboo-shaped flow fields under various gas diffusion layer, catalyst layer thicknesses and interfacial thermal contact resistances",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0017931026012317?dgcid=rss_sd_all",
+      "summary": "Publication date: January 2027Source: International Journal of Heat and Mass Transfer, Volume 272Author(s): Yu-Long Zhao, Xu Han, Wen-Jie Zhang, Ming-Hui Ge, Ben-Xi Zhang",
+      "source": "International Journal of Heat and Mass Transfer",
+      "category": "thermal",
+      "published": null
+    },
+    {
+      "title": "Sustained vane rotation in a circular ratcheted Leidenfrost engine",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0017931026011932?dgcid=rss_sd_all",
+      "summary": "Publication date: January 2027Source: International Journal of Heat and Mass Transfer, Volume 272Author(s): Praveen Arjunan, Sanith Alexander, Gireeshkumaran Thampi B.S., Tide P.S., Ranjith S. Kumar",
+      "source": "International Journal of Heat and Mass Transfer",
+      "category": "thermal",
+      "published": null
+    },
+    {
+      "title": "Transient heat conduction and vibration behaviour of composite truncated conical shells with functionally graded coatings",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0017931026012196?dgcid=rss_sd_all",
+      "summary": "Publication date: January 2027Source: International Journal of Heat and Mass Transfer, Volume 272Author(s): Jinan Li, Hui Li, Zhaoye Qin, Zeng Lin, Haitao Luo, Haijun Wang, Jingwei Wang, Jun Li, Wei Sun, Qingkai Han",
+      "source": "International Journal of Heat and Mass Transfer",
+      "category": "thermal",
+      "published": null
+    },
+    {
+      "title": "Dropwise condensation enhancement using conical surface features",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0017931026011452?dgcid=rss_sd_all",
+      "summary": "Publication date: January 2027Source: International Journal of Heat and Mass Transfer, Volume 272Author(s): Yu Wei, Oladipupo Femi-Adeniyi, Milad Shakeri Bonab, Celine Cohen, Alidad Amirfazli",
+      "source": "International Journal of Heat and Mass Transfer",
+      "category": "thermal",
+      "published": null
+    },
+    {
+      "title": "Limitation of artificially elevating gaseous pressure in simulating catalytic recombination using reactive molecular dynamics method",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0017931026012135?dgcid=rss_sd_all",
+      "summary": "Publication date: January 2027Source: International Journal of Heat and Mass Transfer, Volume 272Author(s): Qin Li, Xiaofeng Yang, Qiheng Chen, Yanxia Du, Wei Dong",
+      "source": "International Journal of Heat and Mass Transfer",
+      "category": "thermal",
+      "published": null
+    },
+    {
+      "title": "High-fidelity numerical simulation of novel standing-wave thermoacoustic engines with a tube-bundle thermoacoustic core",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0017931026011774?dgcid=rss_sd_all",
+      "summary": "Publication date: January 2027Source: International Journal of Heat and Mass Transfer, Volume 272Author(s): Chen Yao, Bohan Li, Bo Gao, Jiping Liu, Junjie Yan",
+      "source": "International Journal of Heat and Mass Transfer",
+      "category": "thermal",
+      "published": null
+    },
+    {
+      "title": "Broadband dual-window radiative cooling metamaterial coating for architectural glass",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0017931026012275?dgcid=rss_sd_all",
+      "summary": "Publication date: January 2027Source: International Journal of Heat and Mass Transfer, Volume 272Author(s): Zeinelabedin A. Mohamed, Małgorzata Norek",
+      "source": "International Journal of Heat and Mass Transfer",
+      "category": "thermal",
+      "published": null
+    },
+    {
+      "title": "Thermal parameter decoupling in time-domain thermoreflectance measurements on solid-liquid interfaces: A target-reengineered deep learning framework",
+      "link": "https://www.sciencedirect.com/science/article/pii/S001793102601224X?dgcid=rss_sd_all",
+      "summary": "Publication date: January 2027Source: International Journal of Heat and Mass Transfer, Volume 272Author(s): Ziyang Wang, Lingrao Fu, Jie Zhu, Dawei Tang",
+      "source": "International Journal of Heat and Mass Transfer",
+      "category": "thermal",
+      "published": null
+    },
+    {
+      "title": "Piezoelectric air actuators for electronic thermal management: a bibliometric and comprehensive review",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1359431126034356?dgcid=rss_sd_all",
+      "summary": "Publication date: October 2026Source: Applied Thermal Engineering, Volume 306, Part 2Author(s): Zuyu Fu, Junchuan Niu, Guoqing Liu, Fangxu Zhao, Shuzhan Bai, Tiejun Yang, Fusheng Sui, Guofeng Bai",
+      "source": "Applied Thermal Engineering",
+      "category": "thermal",
+      "published": null
+    },
+    {
+      "title": "Advances in loop heat pipes: a review of wick optimization, numerical schemes, and emerging thermal management applications",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1359431126035283?dgcid=rss_sd_all",
+      "summary": "Publication date: October 2026Source: Applied Thermal Engineering, Volume 306, Part 2Author(s): Mohammad O. Hamdan, Siddique Mohd Umair, Kareem Moursi, Bassam A. Abu-Nabah, Emad Elnajjar",
+      "source": "Applied Thermal Engineering",
+      "category": "thermal",
+      "published": null
+    },
+    {
+      "title": "Experimental and numerical investigation into the influence of connecting channel structures on flow and heat transfer characteristics within microchannels",
+      "link": "https://www.sciencedirect.com/science/article/pii/S135943112603512X?dgcid=rss_sd_all",
+      "summary": "Publication date: October 2026Source: Applied Thermal Engineering, Volume 306, Part 2Author(s): Yuran Pang, Xiaohui Yu, Bin Yang, Fengyun Jin",
+      "source": "Applied Thermal Engineering",
+      "category": "thermal",
+      "published": null
+    },
+    {
+      "title": "Review of high-temperature heat pumps based on the reverse Brayton cycle",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1359431126034563?dgcid=rss_sd_all",
+      "summary": "Publication date: October 2026Source: Applied Thermal Engineering, Volume 306, Part 2Author(s): Panagiotis Lykas, Evangelos Bellos, Christos Tzivanidis",
+      "source": "Applied Thermal Engineering",
+      "category": "thermal",
+      "published": null
+    },
+    {
+      "title": "Condensation heat transfer of R290 and its R290-CO₂ zeotropic blends in a mini-channel: an experimental study",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1359431126034666?dgcid=rss_sd_all",
+      "summary": "Publication date: October 2026Source: Applied Thermal Engineering, Volume 306, Part 2Author(s): A. Magnabosco, M. Pysz, M. Tancon, S. Bortolin, M. Azzolin",
+      "source": "Applied Thermal Engineering",
+      "category": "thermal",
+      "published": null
+    },
+    {
+      "title": "Absorption-enhanced pumped thermal energy storage: Performance and optimization",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1359431126034721?dgcid=rss_sd_all",
+      "summary": "Publication date: October 2026Source: Applied Thermal Engineering, Volume 306, Part 2Author(s): Huan Xi, Wenbiao Tian, Liushuai Li",
+      "source": "Applied Thermal Engineering",
+      "category": "thermal",
+      "published": null
+    },
+    {
+      "title": "Experimental investigation of a two-stage R290 heat pump with economizer and internal heat exchanger: Impact of subcooling and intermediate pressure",
+      "link": "https://www.sciencedirect.com/science/article/pii/S135943112603303X?dgcid=rss_sd_all",
+      "summary": "Publication date: October 2026Source: Applied Thermal Engineering, Volume 306, Part 2Author(s): Tristan Höcker, Christian Vering, Dirk Müller",
+      "source": "Applied Thermal Engineering",
+      "category": "thermal",
+      "published": null
+    },
+    {
+      "title": "Integrating metal hydrides in evacuated tube collectors for optimal solar energy management in a PV/T system",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1359431126034605?dgcid=rss_sd_all",
+      "summary": "Publication date: October 2026Source: Applied Thermal Engineering, Volume 306, Part 2Author(s): Sofiene Mellouli, Faouzi Askri, Talal Alqahtani, Salem Algarni",
+      "source": "Applied Thermal Engineering",
+      "category": "thermal",
+      "published": null
+    },
+    {
+      "title": "Second law performance of TiO₂ nanofluid-enhanced panel radiators modeled by response surface methodology",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1359431126035453?dgcid=rss_sd_all",
+      "summary": "Publication date: October 2026Source: Applied Thermal Engineering, Volume 306, Part 2Author(s): Kadir Ozbek, Kadir Gelis",
+      "source": "Applied Thermal Engineering",
+      "category": "thermal",
+      "published": null
+    },
+    {
+      "title": "Research on real-time regulation of driver thermal comfort based on artificial intelligent and model predictive control",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1359431126034885?dgcid=rss_sd_all",
+      "summary": "Publication date: October 2026Source: Applied Thermal Engineering, Volume 306, Part 2Author(s): Ruizhuo Zhou, Qingwen Tang, Yingchao Zhang, Guohua Wang, Zhe Zhang, Xiaowen Zang",
+      "source": "Applied Thermal Engineering",
+      "category": "thermal",
+      "published": null
+    },
+    {
+      "title": "High energy and power density latent heat storage based on boric acid/expanded graphite composites for medium-temperature applications",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1359431126035192?dgcid=rss_sd_all",
+      "summary": "Publication date: October 2026Source: Applied Thermal Engineering, Volume 306, Part 2Author(s): Li Chen, Xiao Zhang, Haoyuan Sang, Peijin Zhu, Yizhou Yuan, Tingxian Li, Si Wu",
+      "source": "Applied Thermal Engineering",
+      "category": "thermal",
+      "published": null
+    },
+    {
+      "title": "Sandwiched thermal management system combining topology-optimized liquid channels and phase-change materials for cylindrical Li-ion batteries",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1359431126035295?dgcid=rss_sd_all",
+      "summary": "Publication date: October 2026Source: Applied Thermal Engineering, Volume 306, Part 2Author(s): Deng-Wei Yang, Chuang Liu, Li Zhao, Ming-Ming Wu, Gui-Xiong Yang, Zi-Min Wang, Fu-Yun Zhao",
+      "source": "Applied Thermal Engineering",
+      "category": "thermal",
+      "published": null
+    },
+    {
+      "title": "Experimental and numerical investigations on thermal management of lithium-ion battery packs with integration of myristyl alcohol and heat pipes",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1359431126034319?dgcid=rss_sd_all",
+      "summary": "Publication date: October 2026Source: Applied Thermal Engineering, Volume 306, Part 2Author(s): P.M. Sutheesh, Rohit Bhaskar Nichit, Rohinikumar Bandaru",
+      "source": "Applied Thermal Engineering",
+      "category": "thermal",
+      "published": null
+    },
+    {
+      "title": "Study on the mechanisms of coal thermal properties and microstructural differences affecting heat and mass transfer characteristics during liquid nitrogen flow boiling",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1359431126035519?dgcid=rss_sd_all",
+      "summary": "Publication date: October 2026Source: Applied Thermal Engineering, Volume 306, Part 2Author(s): Yuzhou Cong, Luqi Huang, Li Yang, Cheng Zhai, Yong Sun, Xu Yu, Jizhao Xu",
+      "source": "Applied Thermal Engineering",
+      "category": "thermal",
+      "published": null
+    },
+    {
+      "title": "Design, experimental validation, and load-dependent numerical assessment of a 1.4 MWth industrial hydrogen burner based on a multi-stage radial hydrogen injection strategy",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1359431126034587?dgcid=rss_sd_all",
+      "summary": "Publication date: October 2026Source: Applied Thermal Engineering, Volume 306, Part 2Author(s): Shuai Dong, Zhenyong Yang, Junchao Li, Yugang Li, Hongsheng Zhu, Xiaodong Li, Haitao Bai, Lei Li, Huaidong Wang, Yi Luo,…",
+      "source": "Applied Thermal Engineering",
+      "category": "thermal",
+      "published": null
+    },
+    {
+      "title": "A comprehensive review of sandwich structures with an emphasis on the underexplored potential of long fiber thermoplastic (LFT) skins",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1359836826007936?dgcid=rss_sd_all",
+      "summary": "Publication date: 1 January 2027Source: Composites Part B: Engineering, Volume 328Author(s): Sajjad Dehghanpour, Reza Beigpour, William Altenhof",
+      "source": "Composites Part B: Engineering",
+      "category": "thermal",
+      "published": null
+    },
+    {
+      "title": "A review of carbon composite marine propellers",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1359836826007596?dgcid=rss_sd_all",
+      "summary": "Publication date: 1 January 2027Source: Composites Part B: Engineering, Volume 328Author(s): Rounak Saha Niloy, B. Gangadhara Prusty",
+      "source": "Composites Part B: Engineering",
+      "category": "thermal",
+      "published": null
+    },
+    {
+      "title": "Data-driven structural health monitoring of short carbon fiber-reinforced polymer composites via multiphysics phase-field simulation",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1359836826008152?dgcid=rss_sd_all",
+      "summary": "Publication date: 1 January 2027Source: Composites Part B: Engineering, Volume 328Author(s): Behrouz Arash, Shadab Zakavati, Quan Wang, Timon Rabczuk",
+      "source": "Composites Part B: Engineering",
+      "category": "thermal",
+      "published": null
+    },
+    {
+      "title": "Power ultrasound enhancement of diatomite-containing cement-based composites: multi-scale composite engineering of the interfacial transition zone and micromechanical homogenization",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1359836826008309?dgcid=rss_sd_all",
+      "summary": "Publication date: 1 January 2027Source: Composites Part B: Engineering, Volume 328Author(s): Paweł Lisowski, Daria Jóźwiak-Niedźwiedzka, Kamil Bochenek, Michał A. Glinicki",
+      "source": "Composites Part B: Engineering",
+      "category": "thermal",
+      "published": null
+    },
+    {
+      "title": "Mechanical enhancement of 3D-printed nacre-inspired composites via interfacial stress homogenization with thickness-tapered reinforcements",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1359836826008231?dgcid=rss_sd_all",
+      "summary": "Publication date: 1 January 2027Source: Composites Part B: Engineering, Volume 328Author(s): Yang Gao, Jiawei He, Kaijin Wu, Jianping Zuo, Yong Ni, Haimin Yao",
+      "source": "Composites Part B: Engineering",
+      "category": "thermal",
+      "published": null
+    },
+    {
+      "title": "Modeling the effects of filler shape and orientation on anisotropy in hybrid solid–liquid composites with machine learning augmentation",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1359836826007912?dgcid=rss_sd_all",
+      "summary": "Publication date: 1 January 2027Source: Composites Part B: Engineering, Volume 328Author(s): Lijun Zhou, Eliot Joshi, Mohammad H. Malakooti",
+      "source": "Composites Part B: Engineering",
+      "category": "thermal",
+      "published": null
+    },
+    {
+      "title": "Surface modification of CNT film via electrolytic-ultrasonic method and effect on the interfacial properties of GF/EP composites",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1359836826008176?dgcid=rss_sd_all",
+      "summary": "Publication date: 1 January 2027Source: Composites Part B: Engineering, Volume 328Author(s): Mao Xinjie, Yan Ruobin, Li Yankang, Zhao Zhiyong, Chen Yuan, Cui Haichao, Ning Shurong",
+      "source": "Composites Part B: Engineering",
+      "category": "thermal",
+      "published": null
+    },
+    {
+      "title": "Wrinkle mitigation via pre-tensioned and lubricated double-diaphragm press-forming of woven fabric",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1359836826007997?dgcid=rss_sd_all",
+      "summary": "Publication date: 1 January 2027Source: Composites Part B: Engineering, Volume 328Author(s): Ali Tabatabaeian, Kaspar Ambuehl, Conor Blair, Himanthi Nimrekha Kahavita Kahavitage Dona, Philip Harrison",
+      "source": "Composites Part B: Engineering",
+      "category": "thermal",
+      "published": null
+    },
+    {
+      "title": "Cohesive-friction transition in compressed unidirectional thermoplastic composite interfaces",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1359836826008085?dgcid=rss_sd_all",
+      "summary": "Publication date: 1 January 2027Source: Composites Part B: Engineering, Volume 328Author(s): Chunyi Gao, Jayden Tran, Zerong Ding, Bamber Blackman, Nan Li",
+      "source": "Composites Part B: Engineering",
+      "category": "thermal",
+      "published": null
+    },
+    {
+      "title": "Enhanced sulfate resistance and sustainability of recycled carbon fiber-reinforced one-part alkali-activated materials",
+      "link": "https://www.sciencedirect.com/science/article/pii/S135983682600822X?dgcid=rss_sd_all",
+      "summary": "Publication date: 1 January 2027Source: Composites Part B: Engineering, Volume 328Author(s): Weiwei Zhang, Binbin Yin, Nemkumar Banthia, K.M. Liew",
+      "source": "Composites Part B: Engineering",
+      "category": "thermal",
+      "published": null
+    },
+    {
+      "title": "Microwave-assisted rapid deicing of metallic wire stitched GFRP composites",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1359836826007602?dgcid=rss_sd_all",
+      "summary": "Publication date: 1 January 2027Source: Composites Part B: Engineering, Volume 328Author(s): Heejin Kim, Eunjung Kim, Geunhong Im, Yuree Oh, Soon Ho Yoon, Hunsu Lee, Hyunchul Ahn, Wonjin Na, Juhyeong Lee, Min Wook Lee",
+      "source": "Composites Part B: Engineering",
+      "category": "thermal",
+      "published": null
+    },
+    {
+      "title": "Damage state assessment method for composite pressure vessels based on prior noise feature boundary and damage energy inversion",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1359836826007961?dgcid=rss_sd_all",
+      "summary": "Publication date: 1 January 2027Source: Composites Part B: Engineering, Volume 328Author(s): Xiao Liang, Huaqing Liu, Shengkang Zong, Xiangdong Ma, Yanbing Zhang, Hui Zhang",
+      "source": "Composites Part B: Engineering",
+      "category": "thermal",
+      "published": null
+    },
+    {
+      "title": "Development, qualification, and computational modelling of nano-silica-reinforced woven glass/epoxy composite repairs for damaged pipelines",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1359836826007730?dgcid=rss_sd_all",
+      "summary": "Publication date: 1 January 2027Source: Composites Part B: Engineering, Volume 328Author(s): Vishwas Chandra Khan, Puneet Mahajan, G. Balaganesan, Jayakumar K.",
+      "source": "Composites Part B: Engineering",
+      "category": "thermal",
+      "published": null
+    },
+    {
+      "title": "Coupled prediction of flexural strength and thermal expansion coefficient of Si<sub>3</sub>N<sub>4</sub>/cordierite ceramic composites",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1359836826008164?dgcid=rss_sd_all",
+      "summary": "Publication date: 1 January 2027Source: Composites Part B: Engineering, Volume 328Author(s): Lei Wang, Chuanzhen Huang, Zhenyu Shi, Zhen Wang, Longhua Xu, Shuiquan Huang, Meina Qu, Zhengkai Xu, Dijia Zhang, Baosu Guo,…",
+      "source": "Composites Part B: Engineering",
+      "category": "thermal",
+      "published": null
+    },
+    {
+      "title": "Physics-guided multi-task learning for topology-aware impact damage prediction in composite sandwich structures",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1359836826007985?dgcid=rss_sd_all",
+      "summary": "Publication date: 1 January 2027Source: Composites Part B: Engineering, Volume 328Author(s): Chengxing Yang, Kangpei Meng, Zuotao Lu, Yifei Zhao, Zhao Nan, Huichao Huang",
+      "source": "Composites Part B: Engineering",
+      "category": "thermal",
+      "published": null
+    }
+  ]
 }
