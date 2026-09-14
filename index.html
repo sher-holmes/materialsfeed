@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="zh-Hant">
 <head>
@@ -150,16 +151,35 @@
     font-weight: 500;
     font-size: 17px;
     line-height: 1.45;
-    margin: 0 0 6px;
+    margin: 0 0 4px;
   }
   .item h2 a { text-decoration: none; }
   .item h2 a:hover { color: var(--accent); }
+
+  .item p.original-title {
+    font-family: "IBM Plex Sans", "Noto Sans TC", sans-serif;
+    font-size: 12.5px;
+    line-height: 1.5;
+    color: var(--text-dim);
+    margin: 0 0 8px;
+    opacity: 0.85;
+  }
 
   .item p.summary {
     font-size: 13.5px;
     line-height: 1.6;
     color: var(--text-dim);
     margin: 0;
+  }
+
+  .item img.thumb {
+    display: block;
+    width: 100%;
+    max-height: 260px;
+    object-fit: cover;
+    border-radius: 8px;
+    margin-top: 10px;
+    background: var(--bg-raised);
   }
 
   .empty, .loading {
@@ -234,7 +254,8 @@ function render() {
   const feedEl = document.getElementById("feed");
   const filtered = allItems.filter(it => {
     const catOk = activeCategory === "all" || it.category === activeCategory;
-    const searchOk = !searchTerm || it.title.toLowerCase().includes(searchTerm) || (it.summary || "").toLowerCase().includes(searchTerm);
+    const haystack = `${it.title} ${it.title_zh || ""} ${it.summary || ""}`.toLowerCase();
+    const searchOk = !searchTerm || haystack.includes(searchTerm);
     return catOk && searchOk;
   });
 
@@ -251,6 +272,8 @@ function render() {
       html += `<div class="day-label">${dayLabel}</div>`;
       lastDayLabel = dayLabel;
     }
+    const displayTitle = it.title_zh || it.title;
+    const showOriginal = it.title_zh && it.title_zh !== it.title;
     html += `
       <article class="item">
         <div class="item-meta">
@@ -259,8 +282,10 @@ function render() {
           <span>·</span>
           <span>${shortDate(it.published)}</span>
         </div>
-        <h2><a href="${it.link}" target="_blank" rel="noopener">${it.title}</a></h2>
+        <h2><a href="${it.link}" target="_blank" rel="noopener">${displayTitle}</a></h2>
+        ${showOriginal ? `<p class="original-title">${it.title}</p>` : ""}
         ${it.summary ? `<p class="summary">${it.summary}</p>` : ""}
+        ${it.image ? `<a href="${it.link}" target="_blank" rel="noopener"><img class="thumb" src="${it.image}" alt="" loading="lazy" onerror="this.remove()"></a>` : ""}
       </article>
     `;
   }
