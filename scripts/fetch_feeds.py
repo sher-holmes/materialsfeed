@@ -11,22 +11,25 @@ import os
 import re
 import time
 from concurrent.futures import ThreadPoolExecutor, as_completed
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 
 import feedparser
 import requests
-from deep_translator import GoogleTranslator
+from deep_translator import GoogleTranslator, MyMemoryTranslator
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 CONFIG_PATH = os.path.join(ROOT, "config", "sources.json")
 OUTPUT_PATH = os.path.join(ROOT, "data", "feed.json")
 
 MAX_PER_SOURCE = 15    # 每個來源單次最多保留幾篇
-MAX_TOTAL = 400        # 全站最多保留幾篇（累積去重後）
+MAX_TOTAL = 400        # 全站最多保留幾篇（累積去重後）的安全上限
+MAX_AGE_DAYS = 7       # 只保留最近幾天內的文章；沒有日期資訊的項目無法判斷新舊，予以保留
 REQUEST_DELAY_SEC = 1  # 每個 RSS 來源間隔，避免對期刊網站造成負擔
 IMAGE_FETCH_TIMEOUT = 6
 IMAGE_WORKERS = 8            # 平行抓縮圖的執行緒數量（不受翻譯服務限流影響）
-TRANSLATE_MIN_INTERVAL = 0.25  # 每次翻譯間隔（秒）；Google 免費翻譯介面限制每秒最多 5 次請求
+TRANSLATE_MIN_INTERVAL = 0.5   # 每次翻譯間隔（秒）
+TRANSLATE_MAX_RETRIES = 2      # 單一引擎失敗時的重試次數
+ENRICH_PER_RUN_LIMIT = 150     # 單次執行最多翻譯/抓圖幾篇，優先處理最新文章，其餘留到下次執行
 
 HEADERS = {"User-Agent": "Mozilla/5.0 (compatible; MaterialsFeedBot/1.0; +https://github.com/)"}
 
@@ -41,13 +44,25 @@ OG_IMAGE_RE_ALT = re.compile(
 
 
 def translate_title(title):
-    """翻譯失敗回傳 None，讓程式下次執行時再試一次（不會卡住流程）。"""
-    try:
-        result = GoogleTranslator(source="auto", target="zh-TW").translate(title)
-        return result.strip() if result else None
-    except Exception as e:
-        print(f"[warn] 翻譯失敗：{title[:40]}... ({e})")
-        return None
+    """依序嘗試不同翻譯引擎並重試；GitHub Actions 的伺服器 IP 常被 Google 免費翻譯介面判定為機房流量而限流，
+    所以優先試 Google，失敗則換 MyMemory 這個對機房 IP 較寬容的引擎。全部失敗回傳 None，讓程式下次執行時再試。
+    """
+    engines = [
+        ("Google", lambda t: GoogleTranslator(source="auto", target="zh-TW").translate(t)),
+        ("MyMemory", lambda t: MyMemoryTranslator(source="en-GB", target="zh-TW").translate(t)),
+    ]
+    for name, translate_fn in engines:
+        for attempt in range(TRANSLATE_MAX_RETRIES + 1):
+            try:
+                result = translate_fn(title)
+                if result:
+                    return result.strip()
+            except Exception as e:
+                if attempt < TRANSLATE_MAX_RETRIES:
+                    time.sleep(1.5 * (attempt + 1))
+                    continue
+                print(f"[warn] {name} 翻譯失敗：{title[:40]}... ({e})")
+    return None
 
 
 def fetch_og_image(url):
@@ -84,6 +99,18 @@ def enrich_images(items):
             done += 1
             if done % 20 == 0:
                 print(f"[info] 縮圖抓取進度：{done}/{len(items)}")
+
+
+def is_recent(item):
+    """沒有日期資訊的項目（多半是 sciencedirect 的 RSS）無法判斷新舊，予以保留。"""
+    pub = item.get("published")
+    if not pub:
+        return True
+    try:
+        dt = datetime.fromisoformat(pub)
+    except ValueError:
+        return True
+    return datetime.now(timezone.utc) - dt <= timedelta(days=MAX_AGE_DAYS)
 
 
 def parse_date(entry):
@@ -161,7 +188,6 @@ def main():
 
     all_items = dict(existing_items)
     ok_count, fail_count = 0, 0
-    to_enrich = []  # 尚未翻譯過/處理過縮圖的新項目
 
     for i, source in enumerate(sources):
         fetched = fetch_source(source)
@@ -171,21 +197,35 @@ def main():
             fail_count += 1
         for it in fetched:
             prev = existing_items.get(it["link"])
-            if prev and prev.get("title_zh") is not None:
-                # 已經翻譯過/處理過縮圖的舊項目，直接沿用，不重複呼叫外部服務
+            if prev:
                 it["title_zh"] = prev.get("title_zh")
                 it["image"] = prev.get("image")
                 it["image_checked"] = prev.get("image_checked", False)
-                all_items[it["link"]] = it
             else:
-                to_enrich.append(it)
+                it["title_zh"] = None
+                it["image"] = None
+                it["image_checked"] = False
+            all_items[it["link"]] = it
         if i < len(sources) - 1:
             time.sleep(REQUEST_DELAY_SEC)
+
+    # 只保留最近 MAX_AGE_DAYS 天的文章，順便讓翻譯失敗的待處理清單不會無限累積
+    before_count = len(all_items)
+    all_items = {link: it for link, it in all_items.items() if is_recent(it)}
+    dropped = before_count - len(all_items)
+    if dropped:
+        print(f"[info] 依「近 {MAX_AGE_DAYS} 天」規則過濾掉 {dropped} 篇較舊的文章")
+
+    to_enrich = [it for it in all_items.values() if it.get("title_zh") is None]
+    to_enrich.sort(key=lambda it: it["published"] or "", reverse=True)
+    if len(to_enrich) > ENRICH_PER_RUN_LIMIT:
+        print(f"[info] 待處理 {len(to_enrich)} 篇，本次只優先處理最新 {ENRICH_PER_RUN_LIMIT} 篇，其餘留到下次執行")
+        to_enrich = to_enrich[:ENRICH_PER_RUN_LIMIT]
 
     print(f"[info] 本次需新增/重新處理翻譯與縮圖：{len(to_enrich)} 篇")
 
     if to_enrich:
-        print(f"[info] 翻譯（依序執行，控制在每秒 {1/TRANSLATE_MIN_INTERVAL:.0f} 次以內）...")
+        print(f"[info] 翻譯（依序執行，控制在每秒 {1/TRANSLATE_MIN_INTERVAL:.1f} 次以內）...")
         enrich_translations(to_enrich)
         print(f"[info] 抓縮圖（{IMAGE_WORKERS} 條執行緒平行處理）...")
         enrich_images(to_enrich)
