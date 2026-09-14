@@ -10,6 +10,7 @@ import json
 import os
 import re
 import time
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import datetime, timezone
 
 import feedparser
@@ -24,8 +25,8 @@ MAX_PER_SOURCE = 15    # 每個來源單次最多保留幾篇
 MAX_TOTAL = 400        # 全站最多保留幾篇（累積去重後）
 REQUEST_DELAY_SEC = 1  # 每個 RSS 來源間隔，避免對期刊網站造成負擔
 IMAGE_FETCH_TIMEOUT = 6
-IMAGE_FETCH_DELAY_SEC = 0.4   # 每次抓文章頁面找縮圖的間隔
-TRANSLATE_DELAY_SEC = 0.3     # 每次呼叫翻譯服務的間隔
+IMAGE_WORKERS = 8            # 平行抓縮圖的執行緒數量（不受翻譯服務限流影響）
+TRANSLATE_MIN_INTERVAL = 0.25  # 每次翻譯間隔（秒）；Google 免費翻譯介面限制每秒最多 5 次請求
 
 HEADERS = {"User-Agent": "Mozilla/5.0 (compatible; MaterialsFeedBot/1.0; +https://github.com/)"}
 
@@ -64,6 +65,27 @@ def fetch_og_image(url):
     return None
 
 
+def enrich_translations(items):
+    """依序翻譯並控制間隔，避免超過翻譯服務的速率限制而被拒絕。"""
+    for it in items:
+        it["title_zh"] = translate_title(it["title"])
+        time.sleep(TRANSLATE_MIN_INTERVAL)
+
+
+def enrich_images(items):
+    """平行抓縮圖；抓取不同期刊網站不受翻譯服務的限流規則影響，可以同時進行。"""
+    with ThreadPoolExecutor(max_workers=IMAGE_WORKERS) as pool:
+        futures = {pool.submit(fetch_og_image, it["link"]): it for it in items}
+        done = 0
+        for future in as_completed(futures):
+            it = futures[future]
+            it["image"] = future.result()
+            it["image_checked"] = True
+            done += 1
+            if done % 20 == 0:
+                print(f"[info] 縮圖抓取進度：{done}/{len(items)}")
+
+
 def parse_date(entry):
     for key in ("published_parsed", "updated_parsed"):
         t = entry.get(key)
@@ -86,9 +108,19 @@ def clean_summary(summary, limit=220):
 def fetch_source(source):
     items = []
     try:
-        feed = feedparser.parse(source["url"], request_headers=HEADERS)
+        try:
+            resp = requests.get(source["url"], headers=HEADERS, timeout=10)
+            status = resp.status_code
+            if status != 200:
+                print(f"[error] {source['name']}: HTTP {status}（網站拒絕或網址失效，需要去官網重新確認 RSS 網址）")
+                return items
+            feed = feedparser.parse(resp.content)
+        except requests.RequestException as e:
+            print(f"[error] {source['name']}: 連線失敗 ({e})")
+            return items
+
         if not feed.entries:
-            reason = getattr(feed, "bozo_exception", "no entries returned")
+            reason = getattr(feed, "bozo_exception", "回傳內容沒有文章項目，網址可能已失效")
             print(f"[warn] {source['name']}: {reason}")
             return items
         for entry in feed.entries[:MAX_PER_SOURCE]:
@@ -129,7 +161,7 @@ def main():
 
     all_items = dict(existing_items)
     ok_count, fail_count = 0, 0
-    new_count = 0
+    to_enrich = []  # 尚未翻譯過/處理過縮圖的新項目
 
     for i, source in enumerate(sources):
         fetched = fetch_source(source)
@@ -144,18 +176,21 @@ def main():
                 it["title_zh"] = prev.get("title_zh")
                 it["image"] = prev.get("image")
                 it["image_checked"] = prev.get("image_checked", False)
+                all_items[it["link"]] = it
             else:
-                new_count += 1
-                it["title_zh"] = translate_title(it["title"])
-                time.sleep(TRANSLATE_DELAY_SEC)
-                it["image"] = fetch_og_image(it["link"])
-                it["image_checked"] = True
-                time.sleep(IMAGE_FETCH_DELAY_SEC)
-            all_items[it["link"]] = it
+                to_enrich.append(it)
         if i < len(sources) - 1:
             time.sleep(REQUEST_DELAY_SEC)
 
-    print(f"[info] 本次新增/重新處理 {new_count} 篇的翻譯與縮圖")
+    print(f"[info] 本次需新增/重新處理翻譯與縮圖：{len(to_enrich)} 篇")
+
+    if to_enrich:
+        print(f"[info] 翻譯（依序執行，控制在每秒 {1/TRANSLATE_MIN_INTERVAL:.0f} 次以內）...")
+        enrich_translations(to_enrich)
+        print(f"[info] 抓縮圖（{IMAGE_WORKERS} 條執行緒平行處理）...")
+        enrich_images(to_enrich)
+        for it in to_enrich:
+            all_items[it["link"]] = it
 
     items = list(all_items.values())
     items.sort(key=lambda it: it["published"] or "", reverse=True)
