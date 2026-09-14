@@ -110,6 +110,34 @@
     border-color: var(--accent);
   }
 
+  .journal-row {
+    display: flex;
+    gap: 6px;
+    margin-top: 10px;
+    overflow-x: auto;
+    padding-bottom: 2px;
+    scrollbar-width: none;
+  }
+  .journal-row::-webkit-scrollbar { display: none; }
+  .journal-row:empty { display: none; }
+
+  .journal-chip {
+    flex: none;
+    padding: 4px 11px;
+    border-radius: 999px;
+    border: 1px solid var(--hairline);
+    background: transparent;
+    color: var(--text-dim);
+    font-family: inherit;
+    font-size: 12px;
+    cursor: pointer;
+    transition: border-color 0.15s, color 0.15s;
+  }
+  .journal-chip[data-active="true"] {
+    color: var(--text);
+    border-color: var(--accent);
+  }
+
   main { padding-top: 6px; }
 
   .day-label {
@@ -214,6 +242,7 @@
         <button class="chip" data-cat="thermal">散熱</button>
         <button class="chip" data-cat="general">綜合材料</button>
       </div>
+      <div class="journal-row" id="journalRow"></div>
     </header>
 
     <main id="feed">
@@ -231,6 +260,7 @@ const CATEGORY_LABEL = { coating: "表面塗層", insulation: "絕緣", thermal:
 
 let allItems = [];
 let activeCategory = "all";
+let activeJournals = new Set();
 let searchTerm = "";
 
 function relativeDay(iso) {
@@ -250,13 +280,30 @@ function shortDate(iso) {
   return d.toLocaleDateString("zh-TW", { month: "short", day: "numeric" });
 }
 
+function renderJournalChips() {
+  const row = document.getElementById("journalRow");
+  const pool = activeCategory === "all" ? allItems : allItems.filter(it => it.category === activeCategory);
+  const journals = [...new Set(pool.map(it => it.source))].sort((a, b) => a.localeCompare(b, "en"));
+
+  if (journals.length <= 1) {
+    row.innerHTML = "";
+    return;
+  }
+
+  row.innerHTML = journals.map(name => {
+    const active = activeJournals.has(name);
+    return `<button class="journal-chip" data-journal="${name}" data-active="${active}">${name}</button>`;
+  }).join("");
+}
+
 function render() {
   const feedEl = document.getElementById("feed");
   const filtered = allItems.filter(it => {
     const catOk = activeCategory === "all" || it.category === activeCategory;
+    const journalOk = activeJournals.size === 0 || activeJournals.has(it.source);
     const haystack = `${it.title} ${it.title_zh || ""} ${it.summary || ""}`.toLowerCase();
     const searchOk = !searchTerm || haystack.includes(searchTerm);
-    return catOk && searchOk;
+    return catOk && journalOk && searchOk;
   });
 
   if (filtered.length === 0) {
@@ -313,6 +360,7 @@ async function init() {
   } catch (e) {
     document.getElementById("updated").textContent = "讀取失敗";
   }
+  renderJournalChips();
   render();
 
   document.getElementById("chips").addEventListener("click", (e) => {
@@ -321,6 +369,22 @@ async function init() {
     document.querySelectorAll(".chip").forEach(c => c.removeAttribute("data-active"));
     btn.setAttribute("data-active", "true");
     activeCategory = btn.dataset.cat;
+    activeJournals.clear();
+    renderJournalChips();
+    render();
+  });
+
+  document.getElementById("journalRow").addEventListener("click", (e) => {
+    const btn = e.target.closest(".journal-chip");
+    if (!btn) return;
+    const name = btn.dataset.journal;
+    if (activeJournals.has(name)) {
+      activeJournals.delete(name);
+      btn.setAttribute("data-active", "false");
+    } else {
+      activeJournals.add(name);
+      btn.setAttribute("data-active", "true");
+    }
     render();
   });
 
