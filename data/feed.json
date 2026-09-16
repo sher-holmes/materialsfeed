@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-15T02:57:18.894831+00:00",
+  "updated_at": "2026-09-16T02:49:13.170623+00:00",
   "sources_total": 35,
   "sources_ok": 25,
   "sources_failed": 10,
@@ -35,6 +35,28 @@
       "published": "2026-09-15T00:00:00+00:00",
       "title_zh": "等離子增強高速電弧噴塗和超音速大氣等離子噴塗的鎳基複合塗層沉積速率和質量的比較",
       "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1007%2Fs11666-026-02326-y/MediaObjects/11666_2026_2326_Fig1_HTML.png",
+      "image_checked": true
+    },
+    {
+      "title": "Monolithic 3D integration of atomic-layer-deposited oxide semiconductors on 200-mm silicon wafers",
+      "link": "https://www.nature.com/articles/s41565-026-02276-0",
+      "summary": "Nature Nanotechnology, Published online: 15 September 2026; doi:10.1038/s41565-026-02276-0Monolithic 3D integration of oxide semiconductor devices on a 200-mm wafer is demonstrated, enabling vertically interconnected…",
+      "source": "Nature Nanotechnology",
+      "category": "general",
+      "published": "2026-09-15T00:00:00+00:00",
+      "title_zh": "200毫米矽晶圓上原子層沉積氧化物半導體的單片3D整合",
+      "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41565-026-02276-0/MediaObjects/41565_2026_2276_Fig1_HTML.png",
+      "image_checked": true
+    },
+    {
+      "title": "A new funnel for thermoelectric materials discovery",
+      "link": "https://www.nature.com/articles/s41578-026-00965-9",
+      "summary": "Nature Reviews Materials, Published online: 15 September 2026; doi:10.1038/s41578-026-00965-9An article in npj Computational Materials presents a thermoelectric inverse design framework that combines generative…",
+      "source": "Nature Reviews Materials",
+      "category": "general",
+      "published": "2026-09-15T00:00:00+00:00",
+      "title_zh": "熱電材料發現的新漏鬥",
+      "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41578-026-00965-9/MediaObjects/41578_2026_965_Figa_HTML.png",
       "image_checked": true
     },
     {
@@ -830,124 +852,25 @@
       "image_checked": true
     },
     {
-      "title": "Molecular modifier aids melting of MOFs",
-      "link": "https://www.nature.com/articles/s41563-026-02738-9",
-      "summary": "Nature Materials, Published online: 09 September 2026; doi:10.1038/s41563-026-02738-9The glass transition temperatures of melting mixtures of metal–organic frameworks (MOFs) and phenanthroline are lowered through…",
-      "source": "Nature Materials",
-      "category": "general",
-      "published": "2026-09-09T00:00:00+00:00",
-      "title_zh": "分子改性劑有助於MOF的融化",
-      "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41563-026-02738-9/MediaObjects/41563_2026_2738_Fig1_HTML.png",
-      "image_checked": true
-    },
-    {
-      "title": "Author Correction: Nanopore-enabled time-resolved monitoring of catecholamine-related phenylalanine metabolism",
-      "link": "https://www.nature.com/articles/s41565-026-02294-y",
-      "summary": "Nature Nanotechnology, Published online: 09 September 2026; doi:10.1038/s41565-026-02294-yAuthor Correction: Nanopore-enabled time-resolved monitoring of catecholamine-related phenylalanine metabolism",
-      "source": "Nature Nanotechnology",
-      "category": "general",
-      "published": "2026-09-09T00:00:00+00:00",
-      "title_zh": "作者更正：兒茶酚胺相關苯丙氨酸代謝的納米孔時間分辨監測",
-      "image": null,
-      "image_checked": true
-    },
-    {
-      "title": "How nanophotonics can drive optical computing toward practical applications",
-      "link": "https://www.nature.com/articles/s41565-026-02264-4",
-      "summary": "Nature Nanotechnology, Published online: 09 September 2026; doi:10.1038/s41565-026-02264-4This Review discusses photonic platforms that have already shown programmability, high integration density, and stability, and…",
-      "source": "Nature Nanotechnology",
-      "category": "general",
-      "published": "2026-09-09T00:00:00+00:00",
-      "title_zh": "納米光子學如何將光學計算推向實際應用",
-      "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41565-026-02264-4/MediaObjects/41565_2026_2264_Fig1_HTML.png",
-      "image_checked": true
-    },
-    {
-      "title": "Understanding bluish undertones in black tones",
-      "link": "https://link.springer.com/article/10.1007/s11998-026-01351-4",
-      "summary": "The study analyzes how the particle size distribution of carbon black influences the undertone in deep black coatings, affecting the perception of the coated object. A blue undertone creates a brilliant appearance,…",
-      "source": "Journal of Coatings Technology and Research",
-      "category": "coating",
-      "published": "2026-09-09T00:00:00+00:00",
-      "title_zh": "了解黑色調的藍色底色",
-      "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1007%2Fs11998-026-01351-4/MediaObjects/11998_2026_1351_Fig1_HTML.png",
-      "image_checked": true
-    },
-    {
-      "title": "Construction of durable antibacterial coatings on PET fabrics via PEI grafting and Cu(II) coordination",
-      "link": "https://link.springer.com/article/10.1007/s11998-026-01353-2",
-      "summary": "Textiles are susceptible to microbial colonization due to prolonged accumulation of organic residues, such as sweat and skin secretions. These residues serve as nutrients for pathogenic growth, elevating the risk of…",
-      "source": "Journal of Coatings Technology and Research",
-      "category": "coating",
-      "published": "2026-09-09T00:00:00+00:00",
-      "title_zh": "透過PEI接枝和Cu (II)協調，在PET織物上建造耐用的抗菌塗層",
-      "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1007%2Fs11998-026-01353-2/MediaObjects/11998_2026_1353_Figa_HTML.png",
-      "image_checked": true
-    },
-    {
-      "title": "Nano-reinforced epoxy barrier coatings for durability of concrete structures",
-      "link": "https://link.springer.com/article/10.1007/s11998-026-01371-0",
-      "summary": "Aggressive ions degrade concrete structures by promoting moisture ingress and corrosion of embedded reinforcement. Surface-applied epoxy coatings are widely used to mitigate such degradation, which can reduce aggressive…",
-      "source": "Journal of Coatings Technology and Research",
-      "category": "coating",
-      "published": "2026-09-09T00:00:00+00:00",
-      "title_zh": "用於混凝土結構耐久性的納米增強環氧樹脂阻隔塗層",
-      "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1007%2Fs11998-026-01371-0/MediaObjects/11998_2026_1371_Fig1_HTML.png",
-      "image_checked": true
-    },
-    {
-      "title": "Side-chain modification of diketopyrrolopyrrole-based pigments for enhanced dispersion",
-      "link": "https://link.springer.com/article/10.1007/s11998-026-01349-y",
-      "summary": "Pigment-modified dispersants play a pivotal role in the pigment, ink, coating, and plastic industries. However, developing highly efficient and stable dispersants that effectively enhance pigment performance remains…",
-      "source": "Journal of Coatings Technology and Research",
-      "category": "coating",
-      "published": "2026-09-09T00:00:00+00:00",
-      "title_zh": "基於二酮吡咯吡咯的顏料的側鏈改性，以增強分散性",
-      "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1007%2Fs11998-026-01349-y/MediaObjects/11998_2026_1349_Figa_HTML.png",
-      "image_checked": true
-    },
-    {
-      "title": "Silicon Carbide Coatings by Hybrid Aerosol Deposition",
-      "link": "https://link.springer.com/article/10.1007/s11666-026-02315-1",
-      "summary": "Silicon carbide (SiC) is a highly promising ceramic material, but its strong covalent bonding limits conventional deposition methods due to decomposition, low efficiency, and high processing temperatures. This study…",
-      "source": "Journal of Thermal Spray Technology",
-      "category": "coating",
-      "published": "2026-09-09T00:00:00+00:00",
-      "title_zh": "混合氣溶膠沉積的碳化矽塗層",
-      "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1007%2Fs11666-026-02315-1/MediaObjects/11666_2026_2315_Figa_HTML.png",
-      "image_checked": true
-    },
-    {
-      "title": "Spatial adjacency engineering of hydrophilic moieties toward fluorinated segment for enhanced <sup>19</sup>F magnetic resonance imaging",
-      "link": "https://link.springer.com/article/10.1007/s40843-026-4442-4",
-      "summary": "",
+      "title": "High-pressure sintering of binderless TiCN with limited grain growth by plastic deformation as dominating mechanism",
+      "link": "https://link.springer.com/article/10.1007/s40843-026-4214-6",
+      "summary": "Titanium carbonitride (TiCN) ceramics are significant in machining applications for their exceptional hardness and wear resistance. However, achieving full densification of TiCN while suppressing grain coarsening…",
       "source": "Science China Materials",
       "category": "general",
-      "published": "2026-09-09T00:00:00+00:00",
-      "title_zh": "親水部分向氟化段的空間鄰接工程，用於增強<sup>19</sup> F磁共振成像",
-      "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1007%2Fs40843-026-4442-4/MediaObjects/40843_2026_4442_Fig1_HTML.jpg",
+      "published": "2026-09-10T00:00:00+00:00",
+      "title_zh": "塑性變形限制晶粒生長的無粘合劑TiCN的高壓燒結作為主導機制",
+      "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1007%2Fs40843-026-4214-6/MediaObjects/40843_2026_4214_Fig1_HTML.jpg",
       "image_checked": true
     },
     {
-      "title": "A diatomic Cu catalyst modulated with local Cu–S coordination enables selective CO<sub>2</sub> electroreduction to methane",
-      "link": "https://link.springer.com/article/10.1007/s40843-026-4247-9",
-      "summary": "Electrocatalytic CO2 reduction to methane is an effective strategy to achieve carbon neutrality and renewable energy storage. Although Cu-based catalysts exhibit significant potential for deep CO2 electroreduction, the…",
+      "title": "Rare earth dilute alloys unlock fast water dissociation for alkaline hydrogen evolution",
+      "link": "https://link.springer.com/article/10.1007/s40843-026-4272-3",
+      "summary": "Ruthenium (Ru)-based alloys are promising alternatives to commercial Pt/C catalysts for the hydrogen evolution reaction (HER) owing to their low cost and favorable hydrogen adsorption properties. However, the sluggish…",
       "source": "Science China Materials",
       "category": "general",
-      "published": "2026-09-09T00:00:00+00:00",
-      "title_zh": "用局部Cu-S配位調節的雙原子Cu催化劑能夠選擇性地將CO<sub> 2</sub>電還原為甲烷",
-      "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1007%2Fs40843-026-4247-9/MediaObjects/40843_2026_4247_Fig1_HTML.jpg",
-      "image_checked": true
-    },
-    {
-      "title": "A dual-window NIR-responsive high-entropy oxide nanozyme for photothermal-catalytic synergistic therapy of drug-resistant bacterial wounds",
-      "link": "https://link.springer.com/article/10.1007/s40843-026-4311-y",
-      "summary": "Chronic infections caused by biofilms of drug-resistant bacteria pose a significant challenge in clinical treatment. Traditional near-infrared region I (NIR-I) photothermal therapy has limitations, including restricted…",
-      "source": "Science China Materials",
-      "category": "general",
-      "published": "2026-09-09T00:00:00+00:00",
-      "title_zh": "一種雙窗口近紅外反應高熵氧化物納米酶，用於耐藥細菌傷口的光熱催化協同治療",
-      "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1007%2Fs40843-026-4311-y/MediaObjects/40843_2026_4311_Fig1_HTML.jpg",
+      "published": "2026-09-10T00:00:00+00:00",
+      "title_zh": "稀土稀釋合金解鎖快速水解離，進行鹼性氫演化",
+      "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1007%2Fs40843-026-4272-3/MediaObjects/40843_2026_4272_Fig1_HTML.jpg",
       "image_checked": true
     },
     {
@@ -2266,7 +2189,7 @@
       "source": "Journal of Materials Science & Technology",
       "category": "general",
       "published": null,
-      "title_zh": null,
+      "title_zh": "位錯-孿晶相互作用對AZ31鎂合金孿晶演化和位錯轉變的影響",
       "image": null,
       "image_checked": true
     },
@@ -2277,7 +2200,7 @@
       "source": "Surface and Coatings Technology",
       "category": "coating",
       "published": null,
-      "title_zh": null,
+      "title_zh": "不銹鋼上定向能沉積NiCrCoSi-xTiC複合塗層的耐磨性和耐腐蝕性增強以及潛在機制",
       "image": null,
       "image_checked": true
     },
@@ -2288,7 +2211,7 @@
       "source": "Surface and Coatings Technology",
       "category": "coating",
       "published": null,
-      "title_zh": null,
+      "title_zh": "從結晶h-AlN到納米複合材料Al<sub> 1-x</sub> Si<sub> x</sub> N ： Si控制的微觀結構和介電性能",
       "image": null,
       "image_checked": true
     },
@@ -2299,7 +2222,7 @@
       "source": "Surface and Coatings Technology",
       "category": "coating",
       "published": null,
-      "title_zh": null,
+      "title_zh": "通過無加熱器的直流磁控濺射在藍寶石上直接沉積納米晶和類石墨烯碳膜： H<sub> 2</sub> O反應過濾的作用",
       "image": null,
       "image_checked": true
     },
@@ -2310,7 +2233,7 @@
       "source": "Surface and Coatings Technology",
       "category": "coating",
       "published": null,
-      "title_zh": null,
+      "title_zh": "通過增強納米Al<sub> 2</sub> O<sub> 3</sub>增強顆粒的分散來改善Ni-Co電沉積層的耐腐蝕性",
       "image": null,
       "image_checked": true
     },
@@ -2321,7 +2244,7 @@
       "source": "Surface and Coatings Technology",
       "category": "coating",
       "published": null,
-      "title_zh": null,
+      "title_zh": "鈦植入物微弧氧化塗層的表面和次表層孔隙形成機制",
       "image": null,
       "image_checked": true
     },
@@ -2332,7 +2255,7 @@
       "source": "Surface and Coatings Technology",
       "category": "coating",
       "published": null,
-      "title_zh": null,
+      "title_zh": "納米CeO<sub> 2</sub>粒子對大功率激光熔覆Ni45鍍層微觀結構和抗空化腐蝕性能的影響",
       "image": null,
       "image_checked": true
     },
@@ -2343,7 +2266,7 @@
       "source": "Surface and Coatings Technology",
       "category": "coating",
       "published": null,
-      "title_zh": null,
+      "title_zh": "表面納米結晶化和氮化溫度對SLM Ti-6Al-4V微結構演化和刮擦失效的協同效應",
       "image": null,
       "image_checked": true
     },
@@ -2354,7 +2277,7 @@
       "source": "Surface and Coatings Technology",
       "category": "coating",
       "published": null,
-      "title_zh": null,
+      "title_zh": "通過混合HiPIMS/DCMS共濺鍍法沉積的Ti-Al-Ta-N塗層的結構、機械和摩擦學性能",
       "image": null,
       "image_checked": true
     },
@@ -2365,7 +2288,7 @@
       "source": "Surface and Coatings Technology",
       "category": "coating",
       "published": null,
-      "title_zh": null,
+      "title_zh": "Co-Al共沉積對表面相依CVD<img class=\"glyph\" src=\"https://sdfestaticassets-us-east-1.sciencedirectassets.com/shared-assets/16/entities/sbnd\" />鋁化物塗層對Ni基單晶合金高溫腐蝕行為的影響",
       "image": null,
       "image_checked": true
     },
@@ -2376,7 +2299,7 @@
       "source": "Surface and Coatings Technology",
       "category": "coating",
       "published": null,
-      "title_zh": null,
+      "title_zh": "多功能(AlCoCrFeNi) ”Mo” N ”W”高熵合金塗層，同時增強船舶應用的腐蝕、磨損和抗生物污垢性能",
       "image": null,
       "image_checked": true
     },
@@ -2387,7 +2310,7 @@
       "source": "Surface and Coatings Technology",
       "category": "coating",
       "published": null,
-      "title_zh": null,
+      "title_zh": "在3.5% NaCl溶液中激光重熔TC11鈦合金上的FeCoCrNiMo高熵合金塗層，協同增強電化學耐腐蝕性",
       "image": null,
       "image_checked": true
     },
@@ -2398,7 +2321,7 @@
       "source": "Surface and Coatings Technology",
       "category": "coating",
       "published": null,
-      "title_zh": null,
+      "title_zh": "懸浮電漿從非易燃溶劑噴灑釔穩定氧化鋯塗層：熱循環、侵蝕和鈣鎂鋁矽酸鹽的故事",
       "image": null,
       "image_checked": true
     },
@@ -2409,7 +2332,7 @@
       "source": "Surface and Coatings Technology",
       "category": "coating",
       "published": null,
-      "title_zh": null,
+      "title_zh": "YSZ/Cr<sub> 2</sub> AlC共改性NiCoCrAlY鍵塗層中近界面富氧化鋁結構的協同工程，以提高熱循環耐久性",
       "image": null,
       "image_checked": true
     },
@@ -2420,7 +2343,7 @@
       "source": "Surface and Coatings Technology",
       "category": "coating",
       "published": null,
-      "title_zh": null,
+      "title_zh": "AlSi10Mg激光定向能沉積中粉末粒度對缺陷形成機制和工藝優化的影響",
       "image": null,
       "image_checked": true
     },
@@ -2431,7 +2354,7 @@
       "source": "Surface and Coatings Technology",
       "category": "coating",
       "published": null,
-      "title_zh": null,
+      "title_zh": "非晶氮化矽薄膜的成分裁剪，以增強鈦植入物的耐腐蝕性、輔助耐磨性和生物活性",
       "image": null,
       "image_checked": true
     },
@@ -2442,7 +2365,7 @@
       "source": "Progress in Organic Coatings",
       "category": "coating",
       "published": null,
-      "title_zh": null,
+      "title_zh": "聚脲塗層：分子工程、階層結構和高級保護應用",
       "image": null,
       "image_checked": true
     },
@@ -2453,7 +2376,7 @@
       "source": "Progress in Organic Coatings",
       "category": "coating",
       "published": null,
-      "title_zh": null,
+      "title_zh": "先進塗層技術中的PVDF-HFP和唑基聚合物：腐蝕、生物活性和新興功能應用",
       "image": null,
       "image_checked": true
     },
@@ -2464,7 +2387,7 @@
       "source": "Progress in Organic Coatings",
       "category": "coating",
       "published": null,
-      "title_zh": null,
+      "title_zh": "水熱合成Ce摻雜NH<sub> 4</sub><sub> ZnPO 4</sub>/CePO<sub> 4</sub>微/納米顏料：增強WEP塗層的長期腐蝕防護和自我修復能力",
       "image": null,
       "image_checked": true
     },
@@ -2475,7 +2398,7 @@
       "source": "Progress in Organic Coatings",
       "category": "coating",
       "published": null,
-      "title_zh": null,
+      "title_zh": "激光制造的超疏水表面在高效防冰/除冰策略中的應用",
       "image": null,
       "image_checked": true
     },
@@ -2486,7 +2409,7 @@
       "source": "Progress in Organic Coatings",
       "category": "coating",
       "published": null,
-      "title_zh": null,
+      "title_zh": "環氧樹脂生物基阻燃劑的最新進展：機制、改性和性能",
       "image": null,
       "image_checked": true
     },
@@ -2497,7 +2420,7 @@
       "source": "Progress in Organic Coatings",
       "category": "coating",
       "published": null,
-      "title_zh": null,
+      "title_zh": "將PVC塑膠溶膠技術轉型為生物基系統：聚（ 3-羥基丁酸鹽）的加工原理、挑戰和機遇",
       "image": null,
       "image_checked": true
     },
@@ -2508,7 +2431,7 @@
       "source": "Progress in Organic Coatings",
       "category": "coating",
       "published": null,
-      "title_zh": null,
+      "title_zh": "陽離子水性有機矽/蓖麻油改性聚氨酯的合成及其在防塵增色織物塗料中的應用",
       "image": null,
       "image_checked": true
     },
@@ -2519,7 +2442,7 @@
       "source": "Progress in Organic Coatings",
       "category": "coating",
       "published": null,
-      "title_zh": null,
+      "title_zh": "軟鋼表面上香芹酚的電聚合：在0.1 M NaCl中的腐蝕防護塗層",
       "image": null,
       "image_checked": true
     },
@@ -2530,7 +2453,7 @@
       "source": "Progress in Organic Coatings",
       "category": "coating",
       "published": null,
-      "title_zh": null,
+      "title_zh": "基於二硫化物和氫鍵協同作用的高度透明、室溫自我修復的紫外線固化塗層",
       "image": null,
       "image_checked": true
     },
@@ -2541,7 +2464,7 @@
       "source": "Progress in Organic Coatings",
       "category": "coating",
       "published": null,
-      "title_zh": null,
+      "title_zh": "聚碳酸酯多功能P<img class=\"glyph\" src=\"https://sdfestaticassets-us-east-1.sciencedirectassets.com/shared-assets/16/entities/sbnd\" /> N協同環氧塗料：同時增強防火、耐刮擦、附著力和紫外線屏蔽",
       "image": null,
       "image_checked": true
     },
@@ -2552,7 +2475,7 @@
       "source": "Progress in Organic Coatings",
       "category": "coating",
       "published": null,
-      "title_zh": null,
+      "title_zh": "銪複合接枝短碳纖維增強FEVE塗層的腐蝕保護和螢光傳感",
       "image": null,
       "image_checked": true
     },
@@ -2563,7 +2486,7 @@
       "source": "Progress in Organic Coatings",
       "category": "coating",
       "published": null,
-      "title_zh": null,
+      "title_zh": "可重複使用的光交聯丙烯酸酯網絡，包含香豆素和S-CQD ，用於微量苦味酸檢測",
       "image": null,
       "image_checked": true
     },
@@ -2574,7 +2497,7 @@
       "source": "Progress in Organic Coatings",
       "category": "coating",
       "published": null,
-      "title_zh": null,
+      "title_zh": "基於腰果衍生表面活性劑與SDS協同作用的可持續水性漆的乳化與塗層性能",
       "image": null,
       "image_checked": true
     },
@@ -2585,7 +2508,7 @@
       "source": "Progress in Organic Coatings",
       "category": "coating",
       "published": null,
-      "title_zh": null,
+      "title_zh": "從精細紙漿生產耐水羧甲基化纖維素薄膜",
       "image": null,
       "image_checked": true
     },
@@ -2596,7 +2519,7 @@
       "source": "Progress in Organic Coatings",
       "category": "coating",
       "published": null,
-      "title_zh": null,
+      "title_zh": "固化劑類型和化學計量對環氧貨艙塗料表面降解的影響",
       "image": null,
       "image_checked": true
     },
@@ -2607,7 +2530,7 @@
       "source": "Applied Surface Science",
       "category": "coating",
       "published": null,
-      "title_zh": null,
+      "title_zh": "超越表面積和表面電荷： TiO<sub> 2</sub>和富含碳酸鹽的混合塑料熱解炭上的氧化劑依賴性亞甲基藍吸收",
       "image": null,
       "image_checked": true
     },
@@ -2618,7 +2541,7 @@
       "source": "Applied Surface Science",
       "category": "coating",
       "published": null,
-      "title_zh": null,
+      "title_zh": "通過納米精細化構建具有高密度極化位點的C/BN/Y<sub> 2</sub> O<sub> 3</sub>複合氣凝膠，以實現高效的寬帶電磁波吸收",
       "image": null,
       "image_checked": true
     },
@@ -2629,7 +2552,7 @@
       "source": "Applied Surface Science",
       "category": "coating",
       "published": null,
-      "title_zh": null,
+      "title_zh": "單寧酸強化的兩性離子雙網絡水凝膠，具有增強的機械性能和防污性能",
       "image": null,
       "image_checked": true
     },
@@ -2640,7 +2563,7 @@
       "source": "Applied Surface Science",
       "category": "coating",
       "published": null,
-      "title_zh": null,
+      "title_zh": "從界面鎖定到局部適應性滑動： PEEK/POM異質摩擦的溫度驅動轉變",
       "image": null,
       "image_checked": true
     },
@@ -2651,7 +2574,7 @@
       "source": "Applied Surface Science",
       "category": "coating",
       "published": null,
-      "title_zh": null,
+      "title_zh": "p-C <sub>4</sub> N<sub> 3</sub> ：一種可控的含氮微環境調節電催化劑，用於氧氣/氫氣析出和氧氣還原反應",
       "image": null,
       "image_checked": true
     },
@@ -2662,7 +2585,7 @@
       "source": "Applied Surface Science",
       "category": "coating",
       "published": null,
-      "title_zh": null,
+      "title_zh": "能夠清除高性能MoS<sub> 2</sub>/Rh B @ Al光電探測器的等離子活性氧",
       "image": null,
       "image_checked": true
     },
@@ -2673,7 +2596,7 @@
       "source": "Applied Surface Science",
       "category": "coating",
       "published": null,
-      "title_zh": null,
+      "title_zh": "擺動式非等溫燒結提高了富鋰Mn基陰極的性能",
       "image": null,
       "image_checked": true
     },
@@ -2684,7 +2607,7 @@
       "source": "Applied Surface Science",
       "category": "coating",
       "published": null,
-      "title_zh": null,
+      "title_zh": "粒度相關的塗層形態調節高壓LiCoO<sub> 2</sub>的界面化學和電化學性能",
       "image": null,
       "image_checked": true
     },
@@ -2695,7 +2618,7 @@
       "source": "Applied Surface Science",
       "category": "coating",
       "published": null,
-      "title_zh": null,
+      "title_zh": "Na -和Mg<sup> 2</sup> -條件二氧化矽界面狀態調節聚丙烯酰胺介導的粒子間相互作用",
       "image": null,
       "image_checked": true
     },
@@ -2706,7 +2629,7 @@
       "source": "Applied Surface Science",
       "category": "coating",
       "published": null,
-      "title_zh": null,
+      "title_zh": "用於混合電催化劑的ZnO納米結構上的多功能超聲誘導金屬壓電沉積",
       "image": null,
       "image_checked": true
     },
@@ -2717,7 +2640,7 @@
       "source": "Applied Surface Science",
       "category": "coating",
       "published": null,
-      "title_zh": null,
+      "title_zh": "基於高響應性和檢測性的SnS<sub> 2</sub>/Gr/SnS p-g-n三層的多波長光電探測器",
       "image": null,
       "image_checked": true
     },
@@ -2728,7 +2651,7 @@
       "source": "Applied Surface Science",
       "category": "coating",
       "published": null,
-      "title_zh": null,
+      "title_zh": "SAMs在金屬氧化物上的等電點相關吸附： TiO<sub> 2</sub> -NiO複合材料的選擇性改性",
       "image": null,
       "image_checked": true
     },
@@ -2739,7 +2662,7 @@
       "source": "Applied Surface Science",
       "category": "coating",
       "published": null,
-      "title_zh": null,
+      "title_zh": "鈰改性木質素衍生碳包裹的Co<sub> 9</sub> S<sub> 8</sub>電催化劑的空位界面協同作用，用於增強氧氣釋放反應",
       "image": null,
       "image_checked": true
     },
@@ -2750,7 +2673,7 @@
       "source": "Applied Surface Science",
       "category": "coating",
       "published": null,
-      "title_zh": null,
+      "title_zh": "K <sub>2</sub> O簇大小和暴露面對CO<sub> 2</sub>結合能量的影響",
       "image": null,
       "image_checked": true
     },
@@ -2761,7 +2684,7 @@
       "source": "Applied Surface Science",
       "category": "coating",
       "published": null,
-      "title_zh": null,
+      "title_zh": "乙二醇輔助的MoS<sub> 2</sub>納米片，用於Ir<sup> 3 +</sup> -O-Mo界面結構光熱催化CO<sub> 2</sub> ，通過使用H<sub> 2</sub> O選擇性地高至CH<sub> 4</sub>和H<sub> 2</sub>產生",
       "image": null,
       "image_checked": true
     },
@@ -2772,7 +2695,7 @@
       "source": "Corrosion Science",
       "category": "coating",
       "published": null,
-      "title_zh": null,
+      "title_zh": "溫度對Ti-6Al-3 Nb-2Zr-1Mo合金在模擬海水中應力腐蝕行為影響的基礎研究",
       "image": null,
       "image_checked": true
     },
@@ -2783,7 +2706,7 @@
       "source": "Corrosion Science",
       "category": "coating",
       "published": null,
-      "title_zh": null,
+      "title_zh": "2300 ℃以上(Hf, Ta, W) C固溶塗層的協同超高溫耐燒蝕性：微觀組織演化與失效機制",
       "image": null,
       "image_checked": true
     },
@@ -2794,7 +2717,7 @@
       "source": "Corrosion Science",
       "category": "coating",
       "published": null,
-      "title_zh": null,
+      "title_zh": "添加TiB<sub> 2</sub>對難熔高熵矽化物塗層微觀結構形成和氧化行為的影響",
       "image": null,
       "image_checked": true
     },
@@ -2805,7 +2728,7 @@
       "source": "Corrosion Science",
       "category": "coating",
       "published": null,
-      "title_zh": null,
+      "title_zh": "5052、6061和7075鋁合金在模擬海洋潮汐帶中的被動降解和局部腐蝕的力學研究",
       "image": null,
       "image_checked": true
     },
@@ -2816,7 +2739,7 @@
       "source": "Corrosion Science",
       "category": "coating",
       "published": null,
-      "title_zh": null,
+      "title_zh": "模擬淺海和深海環境下高強度鋼緊固件上鍍鋅的保護性能和應力腐蝕開裂機制",
       "image": null,
       "image_checked": true
     },
@@ -2827,7 +2750,7 @@
       "source": "Corrosion Science",
       "category": "coating",
       "published": null,
-      "title_zh": null,
+      "title_zh": "難熔TaMoCrTiAl (–3 W)高熵合金的高溫硫化行爲",
       "image": null,
       "image_checked": true
     },
@@ -2838,7 +2761,7 @@
       "source": "Corrosion Science",
       "category": "coating",
       "published": null,
-      "title_zh": null,
+      "title_zh": "揭示脈衝耦合線弧定向能量沉積製造的Mg合金AZ31B中與腐蝕損傷相關的裂縫擴散行為",
       "image": null,
       "image_checked": true
     },
@@ -2849,7 +2772,7 @@
       "source": "Corrosion Science",
       "category": "coating",
       "published": null,
-      "title_zh": null,
+      "title_zh": "錫磷青銅在室溫和高溫下的氧化行為",
       "image": null,
       "image_checked": true
     },
@@ -2860,7 +2783,7 @@
       "source": "Corrosion Science",
       "category": "coating",
       "published": null,
-      "title_zh": null,
+      "title_zh": "孔隙網絡演化控制核石墨中的氧化態勢轉變",
       "image": null,
       "image_checked": true
     },
@@ -2871,7 +2794,7 @@
       "source": "Corrosion Science",
       "category": "coating",
       "published": null,
-      "title_zh": null,
+      "title_zh": "鈧改性304L不銹鋼在模擬壓水反應器一次水中的氫運輸和氧化研究",
       "image": null,
       "image_checked": true
     },
@@ -2882,7 +2805,7 @@
       "source": "Corrosion Science",
       "category": "coating",
       "published": null,
-      "title_zh": null,
+      "title_zh": "基於（ Hf ， Zr ） C的超高溫陶瓷中通過添加Ta來區域特定的消融機制和性能增強",
       "image": null,
       "image_checked": true
     },
@@ -2893,7 +2816,7 @@
       "source": "Corrosion Science",
       "category": "coating",
       "published": null,
-      "title_zh": null,
+      "title_zh": "彈塑性應力和溴化物離子在商業純鈦被動分解中的協同作用",
       "image": null,
       "image_checked": true
     },
@@ -2904,7 +2827,7 @@
       "source": "Corrosion Science",
       "category": "coating",
       "published": null,
-      "title_zh": null,
+      "title_zh": "出處感知圖像表型將ISO 4628等級與鹽霧老化環氧塗層中的局部缺陷負擔聯繫起來",
       "image": null,
       "image_checked": true
     },
@@ -2915,7 +2838,7 @@
       "source": "Corrosion Science",
       "category": "coating",
       "published": null,
-      "title_zh": null,
+      "title_zh": "激光輔助USRP原位形成非晶-納米晶氧化物垢和梯度微觀組織，使K438高溫合金具有優異的低溫熱腐蝕疲勞性能",
       "image": null,
       "image_checked": true
     },
@@ -2926,7 +2849,7 @@
       "source": "Corrosion Science",
       "category": "coating",
       "published": null,
-      "title_zh": null,
+      "title_zh": "通過La-Ce複合微合金化在凍融環境下對Q345NH耐候鋼進行跨尺度協同保護",
       "image": null,
       "image_checked": true
     },
@@ -2937,7 +2860,7 @@
       "source": "Journal of Electrostatics",
       "category": "insulation",
       "published": null,
-      "title_zh": null,
+      "title_zh": "煤塵靜電荷極性分布比實驗測量分析",
       "image": null,
       "image_checked": true
     },
@@ -2948,7 +2871,7 @@
       "source": "Journal of Electrostatics",
       "category": "insulation",
       "published": null,
-      "title_zh": null,
+      "title_zh": "電泳奈米氣泡驅動輔助過濾",
       "image": null,
       "image_checked": true
     },
@@ -2959,7 +2882,7 @@
       "source": "Journal of Electrostatics",
       "category": "insulation",
       "published": null,
-      "title_zh": null,
+      "title_zh": "水吸附和表面電荷控制3D列印絕緣體上的電噴塗沉積",
       "image": null,
       "image_checked": true
     },
@@ -2970,7 +2893,7 @@
       "source": "Journal of Electrostatics",
       "category": "insulation",
       "published": null,
-      "title_zh": null,
+      "title_zh": "流動電氣化作為非平衡不可逆熱力耦合現象",
       "image": null,
       "image_checked": true
     },
@@ -2981,7 +2904,7 @@
       "source": "Journal of Electrostatics",
       "category": "insulation",
       "published": null,
-      "title_zh": null,
+      "title_zh": "在電流動力按需印刷中，從現場主導到持續時間主導的液滴形成過渡",
       "image": null,
       "image_checked": true
     },
@@ -2992,7 +2915,7 @@
       "source": "Journal of Electrostatics",
       "category": "insulation",
       "published": null,
-      "title_zh": null,
+      "title_zh": "通過單極日冕充電和電測偵測進行光學獨立PM2.5質量監測：生物質燃燒環境中的實驗室校準和初步現場評估",
       "image": null,
       "image_checked": true
     },
@@ -3003,7 +2926,7 @@
       "source": "Journal of Electrostatics",
       "category": "insulation",
       "published": null,
-      "title_zh": null,
+      "title_zh": "在靜電場存在下液態碳氫化合物燃燒的特徵",
       "image": null,
       "image_checked": true
     },
@@ -3014,7 +2937,7 @@
       "source": "Journal of Electrostatics",
       "category": "insulation",
       "published": null,
-      "title_zh": null,
+      "title_zh": "用於增強靜電除塵器中細顆粒捕獲的磁性和電極協同作用",
       "image": null,
       "image_checked": true
     },
@@ -3025,7 +2948,7 @@
       "source": "Journal of Electrostatics",
       "category": "insulation",
       "published": null,
-      "title_zh": null,
+      "title_zh": "通過電滲透環境附近的傾斜通道對線性和指數Phan-Thien-Tanner多相流體模型進行理論處理",
       "image": null,
       "image_checked": true
     },
@@ -3036,7 +2959,7 @@
       "source": "Journal of Electrostatics",
       "category": "insulation",
       "published": null,
-      "title_zh": null,
+      "title_zh": "常壓電漿射流表面處理中浮動金屬靶的潛在控制",
       "image": null,
       "image_checked": true
     },
@@ -3047,7 +2970,7 @@
       "source": "Journal of Electrostatics",
       "category": "insulation",
       "published": null,
-      "title_zh": null,
+      "title_zh": "純氧中尼龍1010靜電點火模式的轉變：能量、間隙和壓力的影響",
       "image": null,
       "image_checked": true
     },
@@ -3058,7 +2981,7 @@
       "source": "Journal of Electrostatics",
       "category": "insulation",
       "published": null,
-      "title_zh": null,
+      "title_zh": "庫侖型靜電吸盤中幾何變形對吸盤力分布及其補償影響的研究",
       "image": null,
       "image_checked": true
     },
@@ -3069,7 +2992,7 @@
       "source": "Journal of Electrostatics",
       "category": "insulation",
       "published": null,
-      "title_zh": null,
+      "title_zh": "加力爐燃料噴射棒電漿致動實驗研究",
       "image": null,
       "image_checked": true
     },
@@ -3280,7 +3203,7 @@
       "published": null,
       "title_zh": null,
       "image": null,
-      "image_checked": false
+      "image_checked": true
     },
     {
       "title": "Microencapsulated phase change slurry coupled with bioinspired leaf-vein cold plates for thermal management of large-scale lithium-ion battery packs",
@@ -3291,7 +3214,7 @@
       "published": null,
       "title_zh": null,
       "image": null,
-      "image_checked": false
+      "image_checked": true
     },
     {
       "title": "A coupled species transport, heat transfer and moving boundary approach for modeling deposition in turbulent flow",
@@ -3302,7 +3225,7 @@
       "published": null,
       "title_zh": null,
       "image": null,
-      "image_checked": false
+      "image_checked": true
     },
     {
       "title": "Two-phase closed thermosyphon system with microstructured boiling surfaces: Steady-state and transient regimes analysis",
@@ -3313,7 +3236,7 @@
       "published": null,
       "title_zh": null,
       "image": null,
-      "image_checked": false
+      "image_checked": true
     },
     {
       "title": "Boundary-aware graph neural operators for predicting flow-thermal fields in pin-fin geometries",
@@ -3324,7 +3247,7 @@
       "published": null,
       "title_zh": null,
       "image": null,
-      "image_checked": false
+      "image_checked": true
     },
     {
       "title": "Theoretical and experimental investigation of compensation-chamber effects in an open-loop heat pipe",
@@ -3335,7 +3258,7 @@
       "published": null,
       "title_zh": null,
       "image": null,
-      "image_checked": false
+      "image_checked": true
     },
     {
       "title": "Investigation on the performance of proton exchange membrane fuel cells with bamboo-shaped flow fields under various gas diffusion layer, catalyst layer thicknesses and interfacial thermal contact resistances",
@@ -3346,7 +3269,7 @@
       "published": null,
       "title_zh": null,
       "image": null,
-      "image_checked": false
+      "image_checked": true
     },
     {
       "title": "Sustained vane rotation in a circular ratcheted Leidenfrost engine",
@@ -3357,7 +3280,7 @@
       "published": null,
       "title_zh": null,
       "image": null,
-      "image_checked": false
+      "image_checked": true
     },
     {
       "title": "Transient heat conduction and vibration behaviour of composite truncated conical shells with functionally graded coatings",
@@ -3368,7 +3291,7 @@
       "published": null,
       "title_zh": null,
       "image": null,
-      "image_checked": false
+      "image_checked": true
     },
     {
       "title": "Dropwise condensation enhancement using conical surface features",
@@ -3379,7 +3302,7 @@
       "published": null,
       "title_zh": null,
       "image": null,
-      "image_checked": false
+      "image_checked": true
     },
     {
       "title": "Limitation of artificially elevating gaseous pressure in simulating catalytic recombination using reactive molecular dynamics method",
@@ -3390,7 +3313,7 @@
       "published": null,
       "title_zh": null,
       "image": null,
-      "image_checked": false
+      "image_checked": true
     },
     {
       "title": "High-fidelity numerical simulation of novel standing-wave thermoacoustic engines with a tube-bundle thermoacoustic core",
@@ -3401,7 +3324,7 @@
       "published": null,
       "title_zh": null,
       "image": null,
-      "image_checked": false
+      "image_checked": true
     },
     {
       "title": "Broadband dual-window radiative cooling metamaterial coating for architectural glass",
@@ -3412,7 +3335,7 @@
       "published": null,
       "title_zh": null,
       "image": null,
-      "image_checked": false
+      "image_checked": true
     },
     {
       "title": "Thermal parameter decoupling in time-domain thermoreflectance measurements on solid-liquid interfaces: A target-reengineered deep learning framework",
@@ -3423,7 +3346,7 @@
       "published": null,
       "title_zh": null,
       "image": null,
-      "image_checked": false
+      "image_checked": true
     },
     {
       "title": "Piezoelectric air actuators for electronic thermal management: a bibliometric and comprehensive review",
@@ -3434,7 +3357,7 @@
       "published": null,
       "title_zh": null,
       "image": null,
-      "image_checked": false
+      "image_checked": true
     },
     {
       "title": "Advances in loop heat pipes: a review of wick optimization, numerical schemes, and emerging thermal management applications",
@@ -3445,7 +3368,7 @@
       "published": null,
       "title_zh": null,
       "image": null,
-      "image_checked": false
+      "image_checked": true
     },
     {
       "title": "Experimental and numerical investigation into the influence of connecting channel structures on flow and heat transfer characteristics within microchannels",
@@ -3456,7 +3379,7 @@
       "published": null,
       "title_zh": null,
       "image": null,
-      "image_checked": false
+      "image_checked": true
     },
     {
       "title": "Review of high-temperature heat pumps based on the reverse Brayton cycle",
@@ -3467,7 +3390,7 @@
       "published": null,
       "title_zh": null,
       "image": null,
-      "image_checked": false
+      "image_checked": true
     },
     {
       "title": "Condensation heat transfer of R290 and its R290-CO₂ zeotropic blends in a mini-channel: an experimental study",
@@ -3478,7 +3401,7 @@
       "published": null,
       "title_zh": null,
       "image": null,
-      "image_checked": false
+      "image_checked": true
     },
     {
       "title": "Absorption-enhanced pumped thermal energy storage: Performance and optimization",
@@ -3489,7 +3412,7 @@
       "published": null,
       "title_zh": null,
       "image": null,
-      "image_checked": false
+      "image_checked": true
     },
     {
       "title": "Experimental investigation of a two-stage R290 heat pump with economizer and internal heat exchanger: Impact of subcooling and intermediate pressure",
@@ -3500,7 +3423,7 @@
       "published": null,
       "title_zh": null,
       "image": null,
-      "image_checked": false
+      "image_checked": true
     },
     {
       "title": "Integrating metal hydrides in evacuated tube collectors for optimal solar energy management in a PV/T system",
@@ -3511,7 +3434,7 @@
       "published": null,
       "title_zh": null,
       "image": null,
-      "image_checked": false
+      "image_checked": true
     },
     {
       "title": "Second law performance of TiO₂ nanofluid-enhanced panel radiators modeled by response surface methodology",
@@ -3522,7 +3445,7 @@
       "published": null,
       "title_zh": null,
       "image": null,
-      "image_checked": false
+      "image_checked": true
     },
     {
       "title": "Research on real-time regulation of driver thermal comfort based on artificial intelligent and model predictive control",
@@ -3533,7 +3456,7 @@
       "published": null,
       "title_zh": null,
       "image": null,
-      "image_checked": false
+      "image_checked": true
     },
     {
       "title": "High energy and power density latent heat storage based on boric acid/expanded graphite composites for medium-temperature applications",
@@ -3544,7 +3467,7 @@
       "published": null,
       "title_zh": null,
       "image": null,
-      "image_checked": false
+      "image_checked": true
     },
     {
       "title": "Sandwiched thermal management system combining topology-optimized liquid channels and phase-change materials for cylindrical Li-ion batteries",
@@ -3555,7 +3478,7 @@
       "published": null,
       "title_zh": null,
       "image": null,
-      "image_checked": false
+      "image_checked": true
     },
     {
       "title": "Experimental and numerical investigations on thermal management of lithium-ion battery packs with integration of myristyl alcohol and heat pipes",
@@ -3566,7 +3489,7 @@
       "published": null,
       "title_zh": null,
       "image": null,
-      "image_checked": false
+      "image_checked": true
     },
     {
       "title": "Study on the mechanisms of coal thermal properties and microstructural differences affecting heat and mass transfer characteristics during liquid nitrogen flow boiling",
@@ -3577,7 +3500,7 @@
       "published": null,
       "title_zh": null,
       "image": null,
-      "image_checked": false
+      "image_checked": true
     },
     {
       "title": "Design, experimental validation, and load-dependent numerical assessment of a 1.4 MWth industrial hydrogen burner based on a multi-stage radial hydrogen injection strategy",
@@ -3588,7 +3511,7 @@
       "published": null,
       "title_zh": null,
       "image": null,
-      "image_checked": false
+      "image_checked": true
     },
     {
       "title": "A comprehensive review of sandwich structures with an emphasis on the underexplored potential of long fiber thermoplastic (LFT) skins",
@@ -3599,7 +3522,7 @@
       "published": null,
       "title_zh": null,
       "image": null,
-      "image_checked": false
+      "image_checked": true
     },
     {
       "title": "A review of carbon composite marine propellers",
@@ -3610,7 +3533,7 @@
       "published": null,
       "title_zh": null,
       "image": null,
-      "image_checked": false
+      "image_checked": true
     },
     {
       "title": "Data-driven structural health monitoring of short carbon fiber-reinforced polymer composites via multiphysics phase-field simulation",
@@ -3621,7 +3544,7 @@
       "published": null,
       "title_zh": null,
       "image": null,
-      "image_checked": false
+      "image_checked": true
     },
     {
       "title": "Power ultrasound enhancement of diatomite-containing cement-based composites: multi-scale composite engineering of the interfacial transition zone and micromechanical homogenization",
@@ -3632,7 +3555,7 @@
       "published": null,
       "title_zh": null,
       "image": null,
-      "image_checked": false
+      "image_checked": true
     },
     {
       "title": "Mechanical enhancement of 3D-printed nacre-inspired composites via interfacial stress homogenization with thickness-tapered reinforcements",
@@ -3643,7 +3566,7 @@
       "published": null,
       "title_zh": null,
       "image": null,
-      "image_checked": false
+      "image_checked": true
     },
     {
       "title": "Modeling the effects of filler shape and orientation on anisotropy in hybrid solid–liquid composites with machine learning augmentation",
@@ -3654,7 +3577,7 @@
       "published": null,
       "title_zh": null,
       "image": null,
-      "image_checked": false
+      "image_checked": true
     },
     {
       "title": "Surface modification of CNT film via electrolytic-ultrasonic method and effect on the interfacial properties of GF/EP composites",
@@ -3665,7 +3588,7 @@
       "published": null,
       "title_zh": null,
       "image": null,
-      "image_checked": false
+      "image_checked": true
     },
     {
       "title": "Wrinkle mitigation via pre-tensioned and lubricated double-diaphragm press-forming of woven fabric",
@@ -3676,7 +3599,7 @@
       "published": null,
       "title_zh": null,
       "image": null,
-      "image_checked": false
+      "image_checked": true
     },
     {
       "title": "Cohesive-friction transition in compressed unidirectional thermoplastic composite interfaces",
@@ -3687,7 +3610,7 @@
       "published": null,
       "title_zh": null,
       "image": null,
-      "image_checked": false
+      "image_checked": true
     },
     {
       "title": "Enhanced sulfate resistance and sustainability of recycled carbon fiber-reinforced one-part alkali-activated materials",
@@ -3698,7 +3621,7 @@
       "published": null,
       "title_zh": null,
       "image": null,
-      "image_checked": false
+      "image_checked": true
     },
     {
       "title": "Microwave-assisted rapid deicing of metallic wire stitched GFRP composites",
@@ -3709,7 +3632,7 @@
       "published": null,
       "title_zh": null,
       "image": null,
-      "image_checked": false
+      "image_checked": true
     },
     {
       "title": "Damage state assessment method for composite pressure vessels based on prior noise feature boundary and damage energy inversion",
@@ -3720,7 +3643,7 @@
       "published": null,
       "title_zh": null,
       "image": null,
-      "image_checked": false
+      "image_checked": true
     },
     {
       "title": "Development, qualification, and computational modelling of nano-silica-reinforced woven glass/epoxy composite repairs for damaged pipelines",
@@ -3731,7 +3654,7 @@
       "published": null,
       "title_zh": null,
       "image": null,
-      "image_checked": false
+      "image_checked": true
     },
     {
       "title": "Coupled prediction of flexural strength and thermal expansion coefficient of Si<sub>3</sub>N<sub>4</sub>/cordierite ceramic composites",
@@ -3742,7 +3665,7 @@
       "published": null,
       "title_zh": null,
       "image": null,
-      "image_checked": false
+      "image_checked": true
     },
     {
       "title": "Physics-guided multi-task learning for topology-aware impact damage prediction in composite sandwich structures",
@@ -3753,7 +3676,7 @@
       "published": null,
       "title_zh": null,
       "image": null,
-      "image_checked": false
+      "image_checked": true
     },
     {
       "title": "Surface modification and property enhancement of TC17 titanium alloy via Ti<img class=\"glyph\" src=\"https://sdfestaticassets-us-east-1.sciencedirectassets.com/shared-assets/16/entities/sbnd\" />Cu electron-beam cladding",
@@ -3764,7 +3687,7 @@
       "published": null,
       "title_zh": null,
       "image": null,
-      "image_checked": false
+      "image_checked": true
     },
     {
       "title": "Experimental and first-principles study on the initial formation process of bioactive coatings on micro-arc oxidized Ti-6Al-4V surfaces",
@@ -3775,7 +3698,7 @@
       "published": null,
       "title_zh": null,
       "image": null,
-      "image_checked": false
+      "image_checked": true
     },
     {
       "title": "Interfacial diffusion and high-temperature oxidation mechanisms of Cr<sub>2</sub>AlC MAX-phase coatings on 316L stainless steel: Role of a Cr<sub>3</sub>C<sub>2</sub> diffusion barrier",
@@ -3786,7 +3709,7 @@
       "published": null,
       "title_zh": null,
       "image": null,
-      "image_checked": false
+      "image_checked": true
     },
     {
       "title": "In-situ construction of oxide dispersion strengthened AlCoCrFeNi<sub>2.1</sub> high-entropy alloy coatings for enhanced high-temperature oxidation resistance",
@@ -3797,7 +3720,7 @@
       "published": null,
       "title_zh": null,
       "image": null,
-      "image_checked": false
+      "image_checked": true
     },
     {
       "title": "Bonding and thermal stability in very low-energy nitrogen ion implantation into graphite studied by synchrotron-based spectroscopy and DFT modeling",
@@ -3808,7 +3731,7 @@
       "published": null,
       "title_zh": null,
       "image": null,
-      "image_checked": false
+      "image_checked": true
     },
     {
       "title": "Unraveling surface-dependent adsorption processes in ZnO through DFT calculations",
@@ -3819,7 +3742,7 @@
       "published": null,
       "title_zh": null,
       "image": null,
-      "image_checked": false
+      "image_checked": true
     },
     {
       "title": "Experimental and mechanistic study of a sodium gluconate–sodium carbonate composite depressant for the flotation separation of cassiterite and calcite",
@@ -3830,7 +3753,7 @@
       "published": null,
       "title_zh": null,
       "image": null,
-      "image_checked": false
+      "image_checked": true
     },
     {
       "title": "Selective flotation separation of quartz from magnesite using N-dodecylpropane-1,3-diamine: Experimental and molecular dynamics simulation studies",
@@ -3841,7 +3764,7 @@
       "published": null,
       "title_zh": null,
       "image": null,
-      "image_checked": false
+      "image_checked": true
     },
     {
       "title": "Synergistic dual-doping engineering triggers dense and stable oxygen vacancies in Co<sub>3</sub>O<sub>4</sub> for noble-metal-competitive glycerol electrooxidation",
@@ -3852,7 +3775,7 @@
       "published": null,
       "title_zh": null,
       "image": null,
-      "image_checked": false
+      "image_checked": true
     },
     {
       "title": "Hierarchical NF@MXene electrodes with sputter-aggregated high-entropy alloy nanoparticles: interface engineering and electrocatalytic performance",
@@ -3863,7 +3786,7 @@
       "published": null,
       "title_zh": null,
       "image": null,
-      "image_checked": false
+      "image_checked": true
     },
     {
       "title": "Cerium-modified hierarchical Cu–Mn composite oxides towards efficient <em>n</em>-butylamine deep oxidation with boosted catalytic activity and N<sub>2</sub> selectivity",
@@ -4045,6 +3968,292 @@
       "title": "On surrogate modeling of static response of AM short-fiber thermoplastics using graph neural networks",
       "link": "https://www.sciencedirect.com/science/article/pii/S1359836826007651?dgcid=rss_sd_all",
       "summary": "Publication date: 1 January 2027Source: Composites Part B: Engineering, Volume 328Author(s): Pharindra Pathak, Vipin Kumar, Trenton M. Ricks, Suhasini Gururaja, Siddhartha Srivastava",
+      "source": "Composites Part B: Engineering",
+      "category": "thermal",
+      "published": null,
+      "title_zh": null,
+      "image": null,
+      "image_checked": false
+    },
+    {
+      "title": "Niobium partitioning-mediated austenite decomposition in a Si-modified austenitic stainless steel during long-term thermal aging at 550 °C",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1359645426008633?dgcid=rss_sd_all",
+      "summary": "Publication date: 1 December 2026Source: Acta Materialia, Volume 321Author(s): Ang Xie, Shenghu Chen, Zengbao Jiao, Lijian Rong",
+      "source": "Acta Materialia",
+      "category": "general",
+      "published": null,
+      "title_zh": null,
+      "image": null,
+      "image_checked": false
+    },
+    {
+      "title": "Structural and chemical length scales at near-stationary austenite-ferrite interfaces in a model duplex stainless steel",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1359645426008554?dgcid=rss_sd_all",
+      "summary": "Publication date: 1 December 2026Source: Acta Materialia, Volume 321Author(s): Imed-Eddine Benrabah, Hui Yuan, Gwladys Steciuk, Damien Tresallet, Carmen M. Andrei, Hugo Van Landeghem, Gianluigi A. Botton, Muriel Veron,…",
+      "source": "Acta Materialia",
+      "category": "general",
+      "published": null,
+      "title_zh": null,
+      "image": null,
+      "image_checked": false
+    },
+    {
+      "title": "Systematic investigation of composition–microstructure–property relationships in the HCP Ti-Zr-Hf model system",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1359645426008190?dgcid=rss_sd_all",
+      "summary": "Publication date: 1 December 2026Source: Acta Materialia, Volume 321Author(s): Kooknoh Yoon, Haomin Lyu, Xiaoyu Chen, Andrew M. Minor, Mark Asta, Daryl Chrzan, Peter Hosemann",
+      "source": "Acta Materialia",
+      "category": "general",
+      "published": null,
+      "title_zh": null,
+      "image": null,
+      "image_checked": false
+    },
+    {
+      "title": "Frank-type stacking faults in 4H-SiC: A unified crystallographic, thermodynamic, electronic, and optical framework",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1359645426008475?dgcid=rss_sd_all",
+      "summary": "Publication date: 1 December 2026Source: Acta Materialia, Volume 321Author(s): Soon-Ku Hong, Moonkyong Na, Taswar Iqbal, Chanhyoung Oh, Donghyun Jang, Dohyung Kim, Jucheol Park, Jeong Eun Chae, Jung Ho Yoo, Yeong Gyeong…",
+      "source": "Acta Materialia",
+      "category": "general",
+      "published": null,
+      "title_zh": null,
+      "image": null,
+      "image_checked": false
+    },
+    {
+      "title": "Strength retention induced by thermally stable nanoprecipitates in an additively manufactured Al-Fe-Cr-Sc-Zr alloy after long-term exposure at 400 °C",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1359645426008414?dgcid=rss_sd_all",
+      "summary": "Publication date: 1 December 2026Source: Acta Materialia, Volume 321Author(s): Yueting Wang, Ruidi Li, Kefu Gan, Tong Wang, Chengzhe Yu, Xizhen Xia, Tiechui Yuan, Upadrasta Ramamurty",
+      "source": "Acta Materialia",
+      "category": "general",
+      "published": null,
+      "title_zh": null,
+      "image": null,
+      "image_checked": false
+    },
+    {
+      "title": "Artificial intelligence -driven triboelectric nanogenerators for healthcare: Devices, algorithms and systems",
+      "link": "https://www.sciencedirect.com/science/article/pii/S2211285526007007?dgcid=rss_sd_all",
+      "summary": "Publication date: 1 December 2026Source: Nano Energy, Volume 159, Part AAuthor(s): Zhengdi Sima, Junjie Wang, Xinyu Sun, Dingding Huang, Hao Lei, Liming Zhang, Yihan Wei, Wenzhe Wei, Yina Liu, Zhen Wen, Jiang Zhu",
+      "source": "Nano Energy",
+      "category": "general",
+      "published": null,
+      "title_zh": null,
+      "image": null,
+      "image_checked": false
+    },
+    {
+      "title": "Electrode-driven self-powered triboelectric nanogenerator system for transdermal drug delivery of macromolecular drugs",
+      "link": "https://www.sciencedirect.com/science/article/pii/S2211285526006865?dgcid=rss_sd_all",
+      "summary": "Publication date: 1 December 2026Source: Nano Energy, Volume 159, Part AAuthor(s): Xintao Wang, Maosheng Yan, Jialong Gao, Ao Li, Hongjie Yang, Na Zhang, Yucheng Yang, Jing Ye, Meitian Xiao, Ranjith Kumar Kankala, Wenxi…",
+      "source": "Nano Energy",
+      "category": "general",
+      "published": null,
+      "title_zh": null,
+      "image": null,
+      "image_checked": false
+    },
+    {
+      "title": "Cation-anion co-doping engineering enables octahedral reconstruction to suppress structural distortion in P′2-type Mn-rich layered oxide cathodes",
+      "link": "https://www.sciencedirect.com/science/article/pii/S2211285526007081?dgcid=rss_sd_all",
+      "summary": "Publication date: 1 December 2026Source: Nano Energy, Volume 159, Part AAuthor(s): Yi He, Haoji Wang, Jinqiang Gao, Jie Li, Weishun Jian, Kai Wang, Xinyu Zhang, Yumin Liu, Hongyi Chen, Wentao Deng, Hongshuai Hou,…",
+      "source": "Nano Energy",
+      "category": "general",
+      "published": null,
+      "title_zh": null,
+      "image": null,
+      "image_checked": false
+    },
+    {
+      "title": "Advanced electrode engineering toward stable potassium metal batteries: Progress and prospects",
+      "link": "https://www.sciencedirect.com/science/article/pii/S2211285526006920?dgcid=rss_sd_all",
+      "summary": "Publication date: 1 December 2026Source: Nano Energy, Volume 159, Part AAuthor(s): Qisheng Zang, Tong Yuan, Hao Yu, Fuqin Zhang",
+      "source": "Nano Energy",
+      "category": "general",
+      "published": null,
+      "title_zh": null,
+      "image": null,
+      "image_checked": false
+    },
+    {
+      "title": "Orientating graphene flakes in nanocomposites using rotating magnetic field and orientation evolution modeling",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0266353826003374?dgcid=rss_sd_all",
+      "summary": "Publication date: 10 November 2026Source: Composites Science and Technology, Volume 286Author(s): Zixi Zhang, Jiayu Li, Hongkun Yang, Zheling Li, Yutong Fu, Yuan-Qing Li, Shao-Yun Fu",
+      "source": "Composites Science and Technology",
+      "category": "general",
+      "published": null,
+      "title_zh": null,
+      "image": null,
+      "image_checked": false
+    },
+    {
+      "title": "<em>Spongiatia</em>-inspired <em>pore engineering</em> strategy for phase change material encapsulation and all-day freshwater-electricity co-generation",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1005030226007073?dgcid=rss_sd_all",
+      "summary": "Publication date: 1 May 2027Source: Journal of Materials Science & Technology, Volume 288Author(s): Huiyue Wang, Ling Chen, Xueying Wen, Linhui Fu, Wenqian Xing, Guixin Hu, Qianyu Wei, Ran Niu, Haolan Xu, Jiang Gong",
+      "source": "Journal of Materials Science & Technology",
+      "category": "general",
+      "published": null,
+      "title_zh": null,
+      "image": null,
+      "image_checked": false
+    },
+    {
+      "title": "Facet-directed multiphase TiO<sub>2</sub>–BiVO<sub>4</sub> heterojunction for directional charge transport and photoelectrochemical cathodic protection",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1005030226006742?dgcid=rss_sd_all",
+      "summary": "Publication date: 1 May 2027Source: Journal of Materials Science & Technology, Volume 288Author(s): Guiying Lu, Mengmeng Sun, Zhiliang Wang, Bin Luo, Youbo Nan, Xuhong Jiang, Yuying Yang, Hengyue Xu, Jizhou Duan,…",
+      "source": "Journal of Materials Science & Technology",
+      "category": "general",
+      "published": null,
+      "title_zh": null,
+      "image": null,
+      "image_checked": false
+    },
+    {
+      "title": "Self-rotating wood sphere evaporator enabled by flame-induced carbonization for high-efficiency solar desalination",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1005030226006596?dgcid=rss_sd_all",
+      "summary": "Publication date: 1 May 2027Source: Journal of Materials Science & Technology, Volume 288Author(s): Xuan Wang, Wenyu Jia, Xuewei Wang, Yuzhen Zhao, Weilong Shi",
+      "source": "Journal of Materials Science & Technology",
+      "category": "general",
+      "published": null,
+      "title_zh": null,
+      "image": null,
+      "image_checked": false
+    },
+    {
+      "title": "Enhancing adhesion and triboperformance of sputtered DLC films on nitrile butadiene rubber: Chromium-containing gradient interlayers",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0257897226007632?dgcid=rss_sd_all",
+      "summary": "Publication date: 1 November 2026Source: Surface and Coatings Technology, Volume 539Author(s): Zhe Yuan, Zhiqi Feng, Zhonghao Liu, Bing Han, Yinping Tao, Xiaoming Zong, Xuanpu Dong, Yutao Pei, Huatang Cao",
+      "source": "Surface and Coatings Technology",
+      "category": "coating",
+      "published": null,
+      "title_zh": null,
+      "image": null,
+      "image_checked": false
+    },
+    {
+      "title": "Antibacterial WPU/quaternized chitosan films enabled by photothermally and photodynamically active rGO@PDA/Ag nanosheets",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0300944026006703?dgcid=rss_sd_all",
+      "summary": "Publication date: December 2026Source: Progress in Organic Coatings, Volume 221Author(s): Ghazal Amini, Abbas Mohammadi, Faezeh Almasi, Mohammad Seyedhamze, Kimia Esmaeilzadeh, Ehsan Naderi Kalali, Fereshteh Nejad…",
+      "source": "Progress in Organic Coatings",
+      "category": "coating",
+      "published": null,
+      "title_zh": null,
+      "image": null,
+      "image_checked": false
+    },
+    {
+      "title": "Surface ligand engineering for defect-suppressed TiO<sub>2</sub> dielectrics by functional precursor-assisted ozone ALD",
+      "link": "https://www.sciencedirect.com/science/article/pii/S016943322602595X?dgcid=rss_sd_all",
+      "summary": "Publication date: 30 January 2027Source: Applied Surface Science, Volume 753Author(s): Min Chan Kim, Hae Lin Yang, Seong A. Shin, Hyeseong Lee, Ji-Yeon Park, Sae-Chan Oh, Changbong Yeon, Jaesun Jung, Jin-Seong Park",
+      "source": "Applied Surface Science",
+      "category": "coating",
+      "published": null,
+      "title_zh": null,
+      "image": null,
+      "image_checked": false
+    },
+    {
+      "title": "Phase-controlled internal oxidation and solute redistribution in Sb- and Cr-modified Ag-Sn-In-Ni alloys",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0010938X26006669?dgcid=rss_sd_all",
+      "summary": "Publication date: November 2026Source: Corrosion Science, Volume 272Author(s): Chengwei Zhao, Guofu Xu, Xiaolu Yuan, Chengxin Liu, Junjie Dai, Lejian Yu, Chunping Wu",
+      "source": "Corrosion Science",
+      "category": "coating",
+      "published": null,
+      "title_zh": null,
+      "image": null,
+      "image_checked": false
+    },
+    {
+      "title": "Revealing the impact fretting corrosion behavior and mechanisms of ZIRLO alloy under different loads in high temperature pressurized water",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0010938X26006517?dgcid=rss_sd_all",
+      "summary": "Publication date: November 2026Source: Corrosion Science, Volume 272Author(s): Zijie Shi, Yonghao Lu, Yao Lin, Songle Lu, JunJun Yang, Long Xin",
+      "source": "Corrosion Science",
+      "category": "coating",
+      "published": null,
+      "title_zh": null,
+      "image": null,
+      "image_checked": false
+    },
+    {
+      "title": "Heat transfer performance prediction of aluminum slit fin-and-tube heat exchangers via interpretable machine learning",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0017931026012354?dgcid=rss_sd_all",
+      "summary": "Publication date: January 2027Source: International Journal of Heat and Mass Transfer, Volume 272Author(s): Fang Wang, Jicheng Li, Wei Guo, Hong Liu, Xiaohan Zhang, Shanshan Yuan, Xianfei Liu, Jialin Xu, Bingjin Sun",
+      "source": "International Journal of Heat and Mass Transfer",
+      "category": "thermal",
+      "published": null,
+      "title_zh": null,
+      "image": null,
+      "image_checked": false
+    },
+    {
+      "title": "A physics-corrected ML/DL framework for heat flux field prediction in porous structure of sintered Ag",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0017931026012391?dgcid=rss_sd_all",
+      "summary": "Publication date: January 2027Source: International Journal of Heat and Mass Transfer, Volume 272Author(s): Jun-Hyeong Yoon, Minki Kim, Hyun-Soon Park, Min-Su Kim",
+      "source": "International Journal of Heat and Mass Transfer",
+      "category": "thermal",
+      "published": null,
+      "title_zh": null,
+      "image": null,
+      "image_checked": false
+    },
+    {
+      "title": "Experimental investigation of direct-to-chip evaporative cooling using hollow micropillar arrays for high-power AI accelerators",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0017931026011889?dgcid=rss_sd_all",
+      "summary": "Publication date: January 2027Source: International Journal of Heat and Mass Transfer, Volume 272Author(s): Kidus Guye, Vivek V. Manepalli, Ayşenur Ateş, Baris Dogruoz, Samuel Graham, Damena Agonafer",
+      "source": "International Journal of Heat and Mass Transfer",
+      "category": "thermal",
+      "published": null,
+      "title_zh": null,
+      "image": null,
+      "image_checked": false
+    },
+    {
+      "title": "Flow-velocity-controlled cryogenic frosting under micro amount of water condition: Frost growth, surface roughness, and morphological evolution",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0017931026012160?dgcid=rss_sd_all",
+      "summary": "Publication date: January 2027Source: International Journal of Heat and Mass Transfer, Volume 272Author(s): Wenhan Shu, Chengguang Yue, Hengyang Ye, Shaolong Zhu, Jialiang Deng, Xiaoqin Zhi, Limin Qiu",
+      "source": "International Journal of Heat and Mass Transfer",
+      "category": "thermal",
+      "published": null,
+      "title_zh": null,
+      "image": null,
+      "image_checked": false
+    },
+    {
+      "title": "GPU-accelerated solution to the transient phonon Boltzmann Transport Equation (BTE) with application to finFETs",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0017931026011634?dgcid=rss_sd_all",
+      "summary": "Publication date: January 2027Source: International Journal of Heat and Mass Transfer, Volume 272Author(s): Apurva Raj, Nitin Tiwari, Surya Pratap Vanka, Sanjiv Sinha",
+      "source": "International Journal of Heat and Mass Transfer",
+      "category": "thermal",
+      "published": null,
+      "title_zh": null,
+      "image": null,
+      "image_checked": false
+    },
+    {
+      "title": "Dynamic thermal management of interacting dual hotspots using mini-contact thermoelectric coolers with embedded microchannels",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1359431126035751?dgcid=rss_sd_all",
+      "summary": "Publication date: October 2026Source: Applied Thermal Engineering, Volume 306, Part 2Author(s): Yifan Lei, Yuqing Wei, Jiangyi Xiong, Xiuliang Liu, Xin Qian, Ronggui Yang",
+      "source": "Applied Thermal Engineering",
+      "category": "thermal",
+      "published": null,
+      "title_zh": null,
+      "image": null,
+      "image_checked": false
+    },
+    {
+      "title": "Design of heat dissipation structure and analysis of heat dissipation characteristics of inner TracKer in China's next-generation electron-positron collider",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1359431126035568?dgcid=rss_sd_all",
+      "summary": "Publication date: October 2026Source: Applied Thermal Engineering, Volume 306, Part 2Author(s): Jiadong Ji, Lixuan Zhang, Yi Zhou, Chengzhi Duan, Siqi He, Fan Ye, Qixuan Huang",
+      "source": "Applied Thermal Engineering",
+      "category": "thermal",
+      "published": null,
+      "title_zh": null,
+      "image": null,
+      "image_checked": false
+    },
+    {
+      "title": "Gas-liquid-solid multiphase interface evolution of 2.5D woven quartz/phenolic composites undergoing ablation: Experiment and modeling",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1359836826008401?dgcid=rss_sd_all",
+      "summary": "Publication date: 1 January 2027Source: Composites Part B: Engineering, Volume 328Author(s): Yuntian Zhang, Shengbo Shi, Chenxi Li, Zhaocai Hu, Maoyuan Li, Jun Liang",
       "source": "Composites Part B: Engineering",
       "category": "thermal",
       "published": null,
