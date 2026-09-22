@@ -1,9 +1,31 @@
 {
-  "updated_at": "2026-09-21T02:42:03.950221+00:00",
+  "updated_at": "2026-09-22T03:12:14.354390+00:00",
   "sources_total": 35,
   "sources_ok": 25,
   "sources_failed": 10,
   "items": [
+    {
+      "title": "Phase-change materials for thermal management",
+      "link": "https://www.nature.com/articles/s41578-026-00959-7",
+      "summary": "Nature Reviews Materials, Published online: 21 September 2026; doi:10.1038/s41578-026-00959-7Phase-change materials can store a large amount of latent heat within nearly isothermal phase transitions, making them ideal…",
+      "source": "Nature Reviews Materials",
+      "category": "general",
+      "published": "2026-09-21T00:00:00+00:00",
+      "title_zh": "用於熱管理的相變材料",
+      "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41578-026-00959-7/MediaObjects/41578_2026_959_Fig1_HTML.png",
+      "image_checked": true
+    },
+    {
+      "title": "Advances and technical challenges in mono-material plastics design for sustainability",
+      "link": "https://www.nature.com/articles/s41578-026-00961-z",
+      "summary": "Nature Reviews Materials, Published online: 21 September 2026; doi:10.1038/s41578-026-00961-zMono-material products, which are made up of one polymer type derived from a single monomer or comonomer combination, may help…",
+      "source": "Nature Reviews Materials",
+      "category": "general",
+      "published": "2026-09-21T00:00:00+00:00",
+      "title_zh": "可持續發展的單材料塑料設計的進步和技術挑戰",
+      "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41578-026-00961-z/MediaObjects/41578_2026_961_Fig1_HTML.png",
+      "image_checked": true
+    },
     {
       "title": "Scalable eco-friendly fabrication of hierarchical superhydrophobic metal surfaces for atmospheric water harvesting",
       "link": "https://link.springer.com/article/10.1007/s11998-026-01368-9",
@@ -211,116 +233,6 @@
       "published": "2026-09-16T00:00:00+00:00",
       "title_zh": "社論：高熵材料專題",
       "image": "https://media.springernature.com/full/springer-static/cover-hires/journal/40843",
-      "image_checked": true
-    },
-    {
-      "title": "A Review on Next-Generation Surface Engineering Via Laser-Assisted Fabrication and Modification of High-Entropy Alloy Coatings",
-      "link": "https://link.springer.com/article/10.1007/s11666-026-02318-y",
-      "summary": "Laser-based technologies have emerged as effective routes for the fabrication and modification of high-entropy alloy (HEA) coatings, enabling precise control over rapid solidification, phase evolution, and…",
-      "source": "Journal of Thermal Spray Technology",
-      "category": "coating",
-      "published": "2026-09-15T00:00:00+00:00",
-      "title_zh": "高熵合金塗料激光輔助製造與改性新一代表面工程綜述",
-      "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1007%2Fs11666-026-02318-y/MediaObjects/11666_2026_2318_Fig1_HTML.png",
-      "image_checked": true
-    },
-    {
-      "title": "Cold-Sprayed AA2024/YSZ Composite Coatings on AZ31B Magnesium Alloy: Microstructure, Adhesion, and Corrosion Behavior",
-      "link": "https://link.springer.com/article/10.1007/s11666-026-02324-0",
-      "summary": "Cold-sprayed metal matrix composite (MMC) coatings have been developed as a promising technique to enhance the surface characteristics of lightweight alloys based on magnesium. In the present work, composite deposit…",
-      "source": "Journal of Thermal Spray Technology",
-      "category": "coating",
-      "published": "2026-09-15T00:00:00+00:00",
-      "title_zh": "AZ31B鎂合金上的冷噴AA2024/YSZ複合塗層：微觀組織、附著力和腐蝕性能",
-      "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1007%2Fs11666-026-02324-0/MediaObjects/11666_2026_2324_Fig1_HTML.png",
-      "image_checked": true
-    },
-    {
-      "title": "Comparison of the Deposition Rate and Quality of Ni-Based Composite Coatings by Plasma-Enhanced High-Velocity Arc Spraying and Supersonic Atmospheric Plasma Spraying",
-      "link": "https://link.springer.com/article/10.1007/s11666-026-02326-y",
-      "summary": "To address the challenge of balancing deposition rate and coating quality in metal/ceramic composite coatings prepared by traditional thermal spraying, this study utilized a novel plasma-enhanced high-velocity arc…",
-      "source": "Journal of Thermal Spray Technology",
-      "category": "coating",
-      "published": "2026-09-15T00:00:00+00:00",
-      "title_zh": "等離子增強高速電弧噴塗和超音速大氣等離子噴塗的鎳基複合塗層沉積速率和質量的比較",
-      "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1007%2Fs11666-026-02326-y/MediaObjects/11666_2026_2326_Fig1_HTML.png",
-      "image_checked": true
-    },
-    {
-      "title": "Monolithic 3D integration of atomic-layer-deposited oxide semiconductors on 200-mm silicon wafers",
-      "link": "https://www.nature.com/articles/s41565-026-02276-0",
-      "summary": "Nature Nanotechnology, Published online: 15 September 2026; doi:10.1038/s41565-026-02276-0Monolithic 3D integration of oxide semiconductor devices on a 200-mm wafer is demonstrated, enabling vertically interconnected…",
-      "source": "Nature Nanotechnology",
-      "category": "general",
-      "published": "2026-09-15T00:00:00+00:00",
-      "title_zh": "200毫米矽晶圓上原子層沉積氧化物半導體的單片3D整合",
-      "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41565-026-02276-0/MediaObjects/41565_2026_2276_Fig1_HTML.png",
-      "image_checked": true
-    },
-    {
-      "title": "A new funnel for thermoelectric materials discovery",
-      "link": "https://www.nature.com/articles/s41578-026-00965-9",
-      "summary": "Nature Reviews Materials, Published online: 15 September 2026; doi:10.1038/s41578-026-00965-9An article in npj Computational Materials presents a thermoelectric inverse design framework that combines generative…",
-      "source": "Nature Reviews Materials",
-      "category": "general",
-      "published": "2026-09-15T00:00:00+00:00",
-      "title_zh": "熱電材料發現的新漏鬥",
-      "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41578-026-00965-9/MediaObjects/41578_2026_965_Figa_HTML.png",
-      "image_checked": true
-    },
-    {
-      "title": "Electronic structure tailoring of COFs photocatalysts via triazine moieties for efficient H<sub>2</sub>O<sub>2</sub> generation and water decontamination",
-      "link": "https://link.springer.com/article/10.1007/s40843-026-4165-1",
-      "summary": "Developing efficient photocatalysts for hydrogen peroxide (H2O2) synthesis is vital for sustainable chemistry, yet optimizing the electronic structure of triazine-based covalent organic frameworks (COFs) through precise…",
-      "source": "Science China Materials",
-      "category": "general",
-      "published": "2026-09-15T00:00:00+00:00",
-      "title_zh": "通過三嗪部分對COF光催化劑進行電子結構裁剪，以實現高效的H<sub> 2</sub> O<sub> 2</sub>產生和水去污",
-      "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1007%2Fs40843-026-4165-1/MediaObjects/40843_2026_4165_Fig1_HTML.jpg",
-      "image_checked": true
-    },
-    {
-      "title": "Mechanically customizable polymers for ionic skins",
-      "link": "https://link.springer.com/article/10.1007/s40843-026-4252-y",
-      "summary": "To reliably acquire high-fidelity motion monitoring signals, strain-sensitive ionic skins require robust mechanical adaptability and compliance with human body joints. However, current ionic skins demonstrate limited…",
-      "source": "Science China Materials",
-      "category": "general",
-      "published": "2026-09-15T00:00:00+00:00",
-      "title_zh": "可機械定制的離子皮聚合物",
-      "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1007%2Fs40843-026-4252-y/MediaObjects/40843_2026_4252_Fig1_HTML.jpg",
-      "image_checked": true
-    },
-    {
-      "title": "Breaking the bottleneck in flexible AI computing: a high-performance digital compute-in-memory chip",
-      "link": "https://link.springer.com/article/10.1007/s40843-026-4218-3",
-      "summary": "",
-      "source": "Science China Materials",
-      "category": "general",
-      "published": "2026-09-15T00:00:00+00:00",
-      "title_zh": "打破彈性AI運算的瓶頸：高性能數位記憶體運算晶片",
-      "image": "https://media.springernature.com/full/springer-static/cover-hires/journal/40843",
-      "image_checked": true
-    },
-    {
-      "title": "Reconfigurable radio-frequency microchips enabled by two-dimensional memristive switches",
-      "link": "https://link.springer.com/article/10.1007/s40843-026-4457-y",
-      "summary": "",
-      "source": "Science China Materials",
-      "category": "general",
-      "published": "2026-09-15T00:00:00+00:00",
-      "title_zh": "由二維記憶開關啟用的可重組射頻微晶片",
-      "image": "https://media.springernature.com/full/springer-static/cover-hires/journal/40843",
-      "image_checked": true
-    },
-    {
-      "title": "Single-polymer materials with high refractive index contrast for one-step fabrication of optical waveguides",
-      "link": "https://link.springer.com/article/10.1007/s40843-026-4434-2",
-      "summary": "Optical waveguides employ the principle of total internal reflection to transmit signals via photons, offering benefits such as high transmission speed, low loss, and robust anti-interference capabilities. Polymer…",
-      "source": "Science China Materials",
-      "category": "general",
-      "published": "2026-09-15T00:00:00+00:00",
-      "title_zh": "具有高折射率對比度的單聚合物材料，用於一步製造光波導",
-      "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1007%2Fs40843-026-4434-2/MediaObjects/40843_2026_4434_Fig1_HTML.jpg",
       "image_checked": true
     },
     {
@@ -4401,6 +4313,94 @@
       "category": "general",
       "published": null,
       "title_zh": "通過微量陽離子表面活性劑添加劑進行動力調節，為超穩定水性電池提供致密的Zn沉積",
+      "image": null,
+      "image_checked": true
+    },
+    {
+      "title": "Comparative study of titanium atom, titanium ion and argon ion fluxes at substrate in laboratory and industrial physical vapour deposition processes",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0257897226007863?dgcid=rss_sd_all",
+      "summary": "Publication date: 1 November 2026Source: Surface and Coatings Technology, Volume 539Author(s): Petr Vašina, Peter Klein, Martin Ondryáš, Vjačeslav Sochora, Jaroslav Hnilica",
+      "source": "Surface and Coatings Technology",
+      "category": "coating",
+      "published": null,
+      "title_zh": "實驗室和工業物理氣相沉積過程中基板鈦原子、鈦離子和氬離子通量的比較研究",
+      "image": null,
+      "image_checked": true
+    },
+    {
+      "title": "Influence of La<sub>2</sub>Zr<sub>2</sub>O<sub>7</sub> content on the microstructure and high-temperature wear resistance of Ni-FeCrAl-La<sub>2</sub>Zr<sub>2</sub>O<sub>7</sub> composite coatings",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0257897226007978?dgcid=rss_sd_all",
+      "summary": "Publication date: 1 November 2026Source: Surface and Coatings Technology, Volume 539Author(s): Ge Sun, Jiajian Dong, Bangyan Zhang, Jun Wang, Lu Wang, Zhongjie Fu, Ziwei Wen, Fengyuan Yang, Lixi Tian, Xiaohui Liu, Yun…",
+      "source": "Surface and Coatings Technology",
+      "category": "coating",
+      "published": null,
+      "title_zh": "La <sub>2</sub> Zr<sub> 2</sub> O<sub> 7</sub>含量對Ni-FeCrAl-La 2 Zr<sub> 2</sub> O<sub> 7</sub>複合塗層微觀組織及高<sub></sub>溫耐磨性的影響",
+      "image": null,
+      "image_checked": true
+    },
+    {
+      "title": "Hydrogen permeation barrier performance of hydrogenated diamond-like carbon coatings on AISI 4130 steel under gas-phase conditions",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0257897226007966?dgcid=rss_sd_all",
+      "summary": "Publication date: 1 November 2026Source: Surface and Coatings Technology, Volume 539Author(s): Mikel Garitano, Maria Urrestizala, Igor Peñalva, Lucía Mendizabal, Pedro Luis Arias, Mikel Oregui, Eva G-Berasategui",
+      "source": "Surface and Coatings Technology",
+      "category": "coating",
+      "published": null,
+      "title_zh": "氣相條件下AISI 4130鋼上氫化類鑽石碳塗層的氫滲透阻隔性能",
+      "image": null,
+      "image_checked": true
+    },
+    {
+      "title": "Effect of ceramic reinforcement on the microstructural, mechanical, and electrochemical properties of flame-sprayed NiBSi composite coatings on low-carbon steel",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0257897226007784?dgcid=rss_sd_all",
+      "summary": "Publication date: 1 November 2026Source: Surface and Coatings Technology, Volume 539Author(s): Nour A. Badi, Ali A. Aljubouri, Niveen J. Abdulkader",
+      "source": "Surface and Coatings Technology",
+      "category": "coating",
+      "published": null,
+      "title_zh": "陶瓷強化對低碳鋼火焰噴塗NiBSi複合塗層的微觀組織、機械和電化學性能的影響",
+      "image": null,
+      "image_checked": true
+    },
+    {
+      "title": "Designing a durable HDA-MAO hybrid Al<sub>2</sub>O<sub>3</sub> coating on T91 steel through intermetallic layer regulation and Al-reservoir optimization for high-temperature oxidation protection",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0257897226007930?dgcid=rss_sd_all",
+      "summary": "Publication date: 1 November 2026Source: Surface and Coatings Technology, Volume 539Author(s): Adeel Moid Butt, Kaihui Dong, Yingwei Song, Yong Cai, En-Hou Han",
+      "source": "Surface and Coatings Technology",
+      "category": "coating",
+      "published": null,
+      "title_zh": "通過金屬間層調節和Al儲層優化在T91鋼上設計耐用的HDA-MAO混合Al<sub> 2</sub> O<sub> 3</sub>塗層，以實現高溫氧化保護",
+      "image": null,
+      "image_checked": true
+    },
+    {
+      "title": "A novel high temperature wear-resistant FeCoNiCrTi/Ni60A duplex coating for coppery tuyere",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0257897226007759?dgcid=rss_sd_all",
+      "summary": "Publication date: 1 November 2026Source: Surface and Coatings Technology, Volume 539Author(s): Chao Zhang, Jun Zhang, Demei Tu, Huishu Wu, Wenchao Chen, Shoudong Chen, Yingmang Fan, Dongsheng Wang, Yuwen Zhang,…",
+      "source": "Surface and Coatings Technology",
+      "category": "coating",
+      "published": null,
+      "title_zh": "一種新型銅風口用高溫耐磨FeCoNiCrTi/Ni60A雙面塗層",
+      "image": null,
+      "image_checked": true
+    },
+    {
+      "title": "Microstructure and performance of PE-HAS NiCrMo–Al<sub>2</sub>O<sub>3</sub> composite coatings prepared with different Al<sub>2</sub>O<sub>3</sub> particle size ranges under size-specific deposition conditions",
+      "link": "https://www.sciencedirect.com/science/article/pii/S025789722600784X?dgcid=rss_sd_all",
+      "summary": "Publication date: 1 November 2026Source: Surface and Coatings Technology, Volume 539Author(s): Chen-guang Yang, Yun-fan Liu, Jia-jie Kang, Hai-chao Zhao, Jia-dong Shi, Ao-bo Wei, Guo-zheng Ma, Hao-ran Sun, Ming Liu,…",
+      "source": "Surface and Coatings Technology",
+      "category": "coating",
+      "published": null,
+      "title_zh": "在尺寸特定沉積條件下，不同Al<sub> 2</sub> O<sub> 3</sub>粒度範圍的PE-HAS NiCrMo-Al<sub> 2</sub> O<sub> 3</sub>複合塗層的微觀組織和性能",
+      "image": null,
+      "image_checked": true
+    },
+    {
+      "title": "Corrosion and wear behavior of amorphous composite coatings after local crystallization induced by ultrasonic impact treatment",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0257897226007735?dgcid=rss_sd_all",
+      "summary": "Publication date: 1 November 2026Source: Surface and Coatings Technology, Volume 539Author(s): Mingjun Yan, Xiaolin Bi, Zhibin Zhang, Lei Qiao, Yiming Zhang, Jiangbo Cheng, Ruifeng Li",
+      "source": "Surface and Coatings Technology",
+      "category": "coating",
+      "published": null,
+      "title_zh": "超聲衝擊處理引起的局部結晶後非晶複合塗層的腐蝕和磨損行為",
       "image": null,
       "image_checked": true
     }
