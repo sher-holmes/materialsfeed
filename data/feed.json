@@ -1,9 +1,31 @@
 {
-  "updated_at": "2026-09-22T03:12:14.354390+00:00",
+  "updated_at": "2026-09-23T02:44:42.534117+00:00",
   "sources_total": 35,
-  "sources_ok": 25,
-  "sources_failed": 10,
+  "sources_ok": 26,
+  "sources_failed": 9,
   "items": [
+    {
+      "title": "Funding the new",
+      "link": "https://www.nature.com/articles/s41563-026-02746-9",
+      "summary": "Nature Materials, Published online: 22 September 2026; doi:10.1038/s41563-026-02746-9Nicola Spaldin, professor of materials theory at ETH Zurich and vice-president for physical sciences and engineering at the European…",
+      "source": "Nature Materials",
+      "category": "general",
+      "published": "2026-09-22T00:00:00+00:00",
+      "title_zh": "為新體驗提供資金",
+      "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41563-026-02746-9/MediaObjects/41563_2026_2746_Figa_HTML.png",
+      "image_checked": true
+    },
+    {
+      "title": "Reconfigurable non-Abelian braiding of nematic bits",
+      "link": "https://www.nature.com/articles/s41563-026-02728-x",
+      "summary": "Nature Materials, Published online: 22 September 2026; doi:10.1038/s41563-026-02728-xReconfigurable non-Abelian braiding is implemented in a nematic liquid crystal system, bridging soft-matter physics and topological…",
+      "source": "Nature Materials",
+      "category": "general",
+      "published": "2026-09-22T00:00:00+00:00",
+      "title_zh": "向列比特的可重構非阿貝爾編織",
+      "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41563-026-02728-x/MediaObjects/41563_2026_2728_Fig1_HTML.png",
+      "image_checked": true
+    },
     {
       "title": "Phase-change materials for thermal management",
       "link": "https://www.nature.com/articles/s41578-026-00959-7",
@@ -27,6 +49,28 @@
       "image_checked": true
     },
     {
+      "title": "A self-renewing textile fluidic rectifier for continuous, high-fidelity wearable biochemical sensing in sweat",
+      "link": "https://link.springer.com/article/10.1007/s40843-026-4333-8",
+      "summary": "The transition toward continuous, personalized health management necessitates wearable platforms capable of high-fidelity biochemical monitoring. Although textile-based sensors provide ideal mechanical compliance and…",
+      "source": "Science China Materials",
+      "category": "general",
+      "published": "2026-09-20T00:00:00+00:00",
+      "title_zh": "自我更新的紡織流體整流器，用於汗液中的連續，高保真可穿戴式生化感測",
+      "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1007%2Fs40843-026-4333-8/MediaObjects/40843_2026_4333_Fig1_HTML.jpg",
+      "image_checked": true
+    },
+    {
+      "title": "Breaking the functionality-flexibility trade-off in ceramics: high-entropy engineered Bi<sub>4</sub>Ti<sub>3</sub>O<sub>12</sub> ceramics",
+      "link": "https://link.springer.com/article/10.1007/s40843-026-4280-4",
+      "summary": "",
+      "source": "Science China Materials",
+      "category": "general",
+      "published": "2026-09-20T00:00:00+00:00",
+      "title_zh": "打破陶瓷的功能-靈活性權衡：高熵工程Bi<sub> 4</sub> Ti<sub> 3</sub> O<sub> 12</sub>陶瓷",
+      "image": "https://media.springernature.com/full/springer-static/cover-hires/journal/40843",
+      "image_checked": true
+    },
+    {
       "title": "Scalable eco-friendly fabrication of hierarchical superhydrophobic metal surfaces for atmospheric water harvesting",
       "link": "https://link.springer.com/article/10.1007/s11998-026-01368-9",
       "summary": "The worldwide shortage of freshwater has fueled interest in atmospheric water harvesting (AWH) as a promising option for decentralized water generation. In this study, a scalable method for the fabrication of…",
@@ -35,6 +79,39 @@
       "published": "2026-09-18T00:00:00+00:00",
       "title_zh": "分層式超疏水金屬表面的可擴展環保製造，用於大氣集水",
       "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1007%2Fs11998-026-01368-9/MediaObjects/11998_2026_1368_Fig1_HTML.png",
+      "image_checked": true
+    },
+    {
+      "title": "Grafting redox polymers onto covalent organic frameworks for fast charge transport",
+      "link": "https://link.springer.com/article/10.1007/s40843-026-4314-1",
+      "summary": "Current supercapacitors suffer from limited active site utilization and sluggish electron/ion transport, hindering their rate capability and energy density. Here, we synthesize a novel molecularly wired covalent organic…",
+      "source": "Science China Materials",
+      "category": "general",
+      "published": "2026-09-18T00:00:00+00:00",
+      "title_zh": "將氧化還原聚合物接枝到共價有機框架上，實現快速電荷傳輸",
+      "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1007%2Fs40843-026-4314-1/MediaObjects/40843_2026_4314_Fig1_HTML.jpg",
+      "image_checked": true
+    },
+    {
+      "title": "Gradient structure and interface engineering in metal matrix composites for superior mechanical and functional properties",
+      "link": "https://link.springer.com/article/10.1007/s40843-026-4407-x",
+      "summary": "Overcoming the strength-ductility trade-off remains a critical challenge for advanced structural materials. Metal matrix composites (MMCs) featuring spatially tailored gradient architectures and engineered interfaces…",
+      "source": "Science China Materials",
+      "category": "general",
+      "published": "2026-09-18T00:00:00+00:00",
+      "title_zh": "金屬基複合材料的梯度結構和界面工程，具有優異的機械和功能性能",
+      "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1007%2Fs40843-026-4407-x/MediaObjects/40843_2026_4407_Fig1_HTML.jpg",
+      "image_checked": true
+    },
+    {
+      "title": "Engineering 3D heterogeneous electrodes for optimized mass transfer and reaction kinetics in energy-saving hydrogen production via hybrid seawater electrolysis",
+      "link": "https://link.springer.com/article/10.1007/s40843-026-4297-4",
+      "summary": "Seawater electrolysis represents an attractive route for future hydrogen (H2) production, yet it has been severely hindered by precipitation blockage, competitive chlorine evolution, and high energy consumption. Herein,…",
+      "source": "Science China Materials",
+      "category": "general",
+      "published": "2026-09-18T00:00:00+00:00",
+      "title_zh": "工程3D異質電極，用於通過混合海水電解生產節能氫氣的最佳質量傳輸和反應動力學",
+      "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1007%2Fs40843-026-4297-4/MediaObjects/40843_2026_4297_Fig1_HTML.jpg",
       "image_checked": true
     },
     {
@@ -82,156 +159,35 @@
       "image_checked": true
     },
     {
-      "title": "Reconciling flexibility and power generation in Bi<sub>2</sub>Te<sub>3</sub>",
-      "link": "https://www.nature.com/articles/s41578-026-00966-8",
-      "summary": "Nature Reviews Materials, Published online: 16 September 2026; doi:10.1038/s41578-026-00966-8An article in Nature Communications shows that suppressing antisite defects in single-crystal Bi2Te3 through Se alloying…",
-      "source": "Nature Reviews Materials",
-      "category": "general",
-      "published": "2026-09-16T00:00:00+00:00",
-      "title_zh": "在Bi<sub> 2</sub> Te<sub> 3</sub>中調和靈活性和發電",
-      "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41578-026-00966-8/MediaObjects/41578_2026_966_Figa_HTML.png",
-      "image_checked": true
-    },
-    {
-      "title": "The power of confined disorder",
-      "link": "https://www.nature.com/articles/s41578-026-00964-w",
-      "summary": "Nature Reviews Materials, Published online: 16 September 2026; doi:10.1038/s41578-026-00964-wAn article in Science Advances shows that confined copper ion dynamics in TiCu5Se3 induce strong anharmonic lattice vibrations…",
-      "source": "Nature Reviews Materials",
-      "category": "general",
-      "published": "2026-09-16T00:00:00+00:00",
-      "title_zh": "局限性混亂的力量",
-      "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41578-026-00964-w/MediaObjects/41578_2026_964_Figa_HTML.png",
-      "image_checked": true
-    },
-    {
-      "title": "Detonation-Sprayed Cr<sub>3</sub>C<sub>2</sub>-25%NiCr Coatings as an Alternative to Electroplated Hard Chromium for Aerospace Components",
-      "link": "https://link.springer.com/article/10.1007/s11666-026-02333-z",
-      "summary": "For the restoration of civil aircraft air-system components with worn surfaces exhibiting wear depths of up to 0.7 mm, an analysis of coating deposition methods was conducted. The results indicated that thermal spray…",
-      "source": "Journal of Thermal Spray Technology",
-      "category": "coating",
-      "published": "2026-09-16T00:00:00+00:00",
-      "title_zh": "爆炸噴霧Cr<sub> 3</sub> C<sub> 2</sub> -25% NiCr塗層，作為航空航天部件電鍍硬鉻的替代品",
-      "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1007%2Fs11666-026-02333-z/MediaObjects/11666_2026_2333_Fig1_HTML.png",
-      "image_checked": true
-    },
-    {
-      "title": "Anisotropic Study on the Surface-Made SiC-Reinforced IN718 Composites",
-      "link": "https://link.springer.com/article/10.1007/s11666-026-02334-y",
-      "summary": "To mitigate the anisotropy of laser additive manufactured IN718 caused by columnar grain growth and Laves phase segregation, SiC particles (0-7.5 wt.%) were incorporated. Multi-scale characterization and property tests…",
-      "source": "Journal of Thermal Spray Technology",
-      "category": "coating",
-      "published": "2026-09-16T00:00:00+00:00",
-      "title_zh": "碳化硅表面增強IN718復合材料的各向異性研究",
-      "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1007%2Fs11666-026-02334-y/MediaObjects/11666_2026_2334_Fig1_HTML.png",
-      "image_checked": true
-    },
-    {
-      "title": "LASAT Method to Test Adhesion of Hydroxyapatite Coatings for Biomedical Applications",
-      "link": "https://link.springer.com/article/10.1007/s11666-026-02325-z",
-      "summary": "This study focuses on developing a LAser Shock Adhesion Test (LASAT) procedure for hydroxyapatite (HA) coatings as an alternative or complementary method to the standard pull-out test. The procedure developed is based…",
-      "source": "Journal of Thermal Spray Technology",
-      "category": "coating",
-      "published": "2026-09-16T00:00:00+00:00",
-      "title_zh": "LASAT法測試生物醫學應用中羥基磷灰石塗層的附著力",
-      "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1007%2Fs11666-026-02325-z/MediaObjects/11666_2026_2325_Fig1_HTML.png",
-      "image_checked": true
-    },
-    {
-      "title": "Surface/triplet-state-engineered carbon nanodots for efficient inactivation of Gram-negative bacteria",
-      "link": "https://link.springer.com/article/10.1007/s40843-026-4301-5",
-      "summary": "Photodynamic therapy serves as a promising strategy for combating drug-resistant bacteria. However, the impermeability of Gram-negative bacterial outer membranes compared with that of Gram-positive bacteria limits the…",
+      "title": "Designer entropy enables negative and zero thermal expansion beyond 1000 K",
+      "link": "https://link.springer.com/article/10.1007/s40843-026-4433-5",
+      "summary": "Negative thermal expansion (NTE) materials offer valuable opportunities to understand the fundamental physics of thermal expansion and to enable engineering applications in inorganic functional materials. However, their…",
       "source": "Science China Materials",
       "category": "general",
-      "published": "2026-09-16T00:00:00+00:00",
-      "title_zh": "用於高效失活革蘭氏陰性細菌的表面/三重態工程碳納米點",
-      "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1007%2Fs40843-026-4301-5/MediaObjects/40843_2026_4301_Fig1_HTML.jpg",
+      "published": "2026-09-17T00:00:00+00:00",
+      "title_zh": "設計師熵可實現超過1000 K的負熱膨脹和零熱膨脹",
+      "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1007%2Fs40843-026-4433-5/MediaObjects/40843_2026_4433_Fig1_HTML.jpg",
       "image_checked": true
     },
     {
-      "title": "Anisotropic strain tuning of near-infrared exciton emission in phosphorene",
-      "link": "https://link.springer.com/article/10.1007/s40843-026-4263-3",
-      "summary": "Strain engineering serves as a powerful tool for dynamically modulating the electronic and optoelectronic properties of two-dimensional (2D) materials. While extensive research has focused on strain-tunable excitonic…",
+      "title": "Intrinsically crosslinked self-assembled long-lived polymeric room-temperature phosphorescent microspheres",
+      "link": "https://link.springer.com/article/10.1007/s40843-026-4294-4",
+      "summary": "Room-temperature phosphorescence (RTP) polymer materials have attracted significant attention due to their unique tunability and ease of processing, offering broad potential for applications in flexible electronics and…",
       "source": "Science China Materials",
       "category": "general",
-      "published": "2026-09-16T00:00:00+00:00",
-      "title_zh": "磷醚中近紅外激子發射的各向異性應變調整",
-      "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1007%2Fs40843-026-4263-3/MediaObjects/40843_2026_4263_Fig1_HTML.jpg",
+      "published": "2026-09-17T00:00:00+00:00",
+      "title_zh": "本質交聯自組裝長壽命聚合物室溫磷光微球",
+      "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1007%2Fs40843-026-4294-4/MediaObjects/40843_2026_4294_Fig1_HTML.jpg",
       "image_checked": true
     },
     {
-      "title": "Unveiling space-charge-regulated etching in MAB ceramics: a novel vacuum molten salt strategy for Mo<sub>2</sub>AlB<sub>2</sub>",
-      "link": "https://link.springer.com/article/10.1007/s40843-026-4267-y",
-      "summary": "The development of two-dimensional boride materials has been restricted by the lack of reliable etching strategies and unclear reaction pathways. To date, conventional methods often lead to unstable or impure products,…",
-      "source": "Science China Materials",
-      "category": "general",
-      "published": "2026-09-16T00:00:00+00:00",
-      "title_zh": "揭開mAb陶瓷中空間電荷調節蝕刻的面紗： Mo<sub> 2 AlB 2</sub>的新型真空熔鹽<sub></sub>策略",
-      "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1007%2Fs40843-026-4267-y/MediaObjects/40843_2026_4267_Fig1_HTML.jpg",
-      "image_checked": true
-    },
-    {
-      "title": "Fluorooxoborate crystal NH<sub>4</sub>B<sub>4</sub>O<sub>6</sub>F: a high-performance candidate for practical vacuum ultraviolet nonlinear optics",
-      "link": "https://link.springer.com/article/10.1007/s40843-026-4331-4",
+      "title": "Liquid metal interconnects overcome the fill-factor limitations of stretchable pixelated electronic devices",
+      "link": "https://link.springer.com/article/10.1007/s40843-026-4368-y",
       "summary": "",
       "source": "Science China Materials",
       "category": "general",
-      "published": "2026-09-16T00:00:00+00:00",
-      "title_zh": "氟氧硼酸鹽晶體NH<sub> 4</sub> B<sub> 4</sub> O<sub> 6</sub> F ：實用真空紫外線非線性光學的高性能候選產品",
-      "image": "https://media.springernature.com/full/springer-static/cover-hires/journal/40843",
-      "image_checked": true
-    },
-    {
-      "title": "Reframing interfacial solar desalination: a closed-loop paradigm for circular agriculture",
-      "link": "https://link.springer.com/article/10.1007/s40843-026-4327-1",
-      "summary": "",
-      "source": "Science China Materials",
-      "category": "general",
-      "published": "2026-09-16T00:00:00+00:00",
-      "title_zh": "重構界面太陽能海水淡化：循環農業的閉環模式",
-      "image": "https://media.springernature.com/full/springer-static/cover-hires/journal/40843",
-      "image_checked": true
-    },
-    {
-      "title": "Polymer-templated molecular ordering of hole transport layers enables high efficiency and stable organic photovoltaics",
-      "link": "https://link.springer.com/article/10.1007/s40843-026-4312-8",
-      "summary": "Carbazole phosphonic acid-based self-assembled molecules (SAMs) have emerged as highly effective hole-selective contacts in organic solar cells (OSCs). However, their molecular packing and aggregation behavior…",
-      "source": "Science China Materials",
-      "category": "general",
-      "published": "2026-09-16T00:00:00+00:00",
-      "title_zh": "空穴傳輸層的聚合物模擬分子排序可實現高效率且穩定的有機光伏",
-      "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1007%2Fs40843-026-4312-8/MediaObjects/40843_2026_4312_Fig1_HTML.jpg",
-      "image_checked": true
-    },
-    {
-      "title": "Boosting mechanoluminescence of sphalerite ZnS:Mn<sup>2+</sup> via rational heterojunction design for surface roughness detection",
-      "link": "https://link.springer.com/article/10.1007/s40843-026-4266-6",
-      "summary": "As the earliest reported self-recoverable elastic mechanoluminescent (ML) system, ZnS:Mn2+ represents a key material with broad applications in self-powered sensing, flexible electronics, and optoelectronic devices.…",
-      "source": "Science China Materials",
-      "category": "general",
-      "published": "2026-09-16T00:00:00+00:00",
-      "title_zh": "透過合理的異質結設計提高閃銅礦ZnS: Mn<sup> 2 +</sup>的機械發光，以檢測表面粗糙度",
-      "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1007%2Fs40843-026-4266-6/MediaObjects/40843_2026_4266_Fig1_HTML.jpg",
-      "image_checked": true
-    },
-    {
-      "title": "Lewis acid and hydroxyl enabled PEO electrolytes for solid-state lithium metal batteries",
-      "link": "https://link.springer.com/article/10.1007/s40843-026-4321-x",
-      "summary": "",
-      "source": "Science China Materials",
-      "category": "general",
-      "published": "2026-09-16T00:00:00+00:00",
-      "title_zh": "用於固態鋰金屬電池的路易斯酸和羥基PEO電解質",
-      "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1007%2Fs40843-026-4321-x/MediaObjects/40843_2026_4321_Fig1_HTML.jpg",
-      "image_checked": true
-    },
-    {
-      "title": "Editorial: special topic on high-entropy materials",
-      "link": "https://link.springer.com/article/10.1007/s40843-026-4529-8",
-      "summary": "",
-      "source": "Science China Materials",
-      "category": "general",
-      "published": "2026-09-16T00:00:00+00:00",
-      "title_zh": "社論：高熵材料專題",
+      "published": "2026-09-17T00:00:00+00:00",
+      "title_zh": "液態金屬互連克服了可拉伸像素化電子設備的填充因子限制",
       "image": "https://media.springernature.com/full/springer-static/cover-hires/journal/40843",
       "image_checked": true
     },
@@ -3195,9 +3151,9 @@
       "image_checked": true
     },
     {
-      "title": "aRole of amorphous phase mobility in the drawing behavior and mechanical performance of TiO<sub>2</sub>-filled highly drawn polypropylene tapes",
+      "title": "Role of amorphous phase mobility in the drawing behavior and mechanical performance of TiO<sub>2</sub>-filled highly drawn polypropylene tapes",
       "link": "https://www.sciencedirect.com/science/article/pii/S0142941826002825?dgcid=rss_sd_all",
-      "summary": "Publication date: Available online 14 September 2026Source: Polymer TestingAuthor(s): László József Varga, Tamás Bárány",
+      "summary": "Publication date: October 2026Source: Polymer Testing, Volume 163Author(s): László József Varga, Tamás Bárány",
       "source": "Polymer Testing",
       "category": "insulation",
       "published": null,
@@ -4401,6 +4357,50 @@
       "category": "coating",
       "published": null,
       "title_zh": "超聲衝擊處理引起的局部結晶後非晶複合塗層的腐蝕和磨損行為",
+      "image": null,
+      "image_checked": true
+    },
+    {
+      "title": "Grain boundary migration across compositional complexity: A molecular dynamics study from binary alloys to high-entropy alloys",
+      "link": "https://www.sciencedirect.com/science/article/pii/S135964542600861X?dgcid=rss_sd_all",
+      "summary": "Publication date: 1 December 2026Source: Acta Materialia, Volume 321Author(s): Kohei Shiotani, Tomoaki Niiyama, Tomotsugu Shimokawa",
+      "source": "Acta Materialia",
+      "category": "general",
+      "published": null,
+      "title_zh": "跨組成複雜度的晶界遷移：從二元合金到高熵合金的分子動力學研究",
+      "image": null,
+      "image_checked": true
+    },
+    {
+      "title": "Strain-rate dependent screw dislocation glide mechanisms in BCC refractory metals and alloys",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1359645426008517?dgcid=rss_sd_all",
+      "summary": "Publication date: 1 December 2026Source: Acta Materialia, Volume 321Author(s): Subhendu Chakraborty, Liang Qi",
+      "source": "Acta Materialia",
+      "category": "general",
+      "published": null,
+      "title_zh": "BCC耐火金屬和合金中的應變速率相關螺絲錯位滑移機制",
+      "image": null,
+      "image_checked": true
+    },
+    {
+      "title": "Why does Re anti-segregate from the grain boundaries in Ni?",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1359645426008426?dgcid=rss_sd_all",
+      "summary": "Publication date: 1 December 2026Source: Acta Materialia, Volume 321Author(s): Changle Li, Sourabh Bhagwan Kadambi, Boopathy Kombaiah, Nutth Tuchinda, Christopher A. Schuh",
+      "source": "Acta Materialia",
+      "category": "general",
+      "published": null,
+      "title_zh": "為什麼Re反偏離Ni的晶界？",
+      "image": null,
+      "image_checked": true
+    },
+    {
+      "title": "Unlocking the potential of cellulose feedstocks to produce dissolving pulp: strategies for manufacturing sustainable and high-performance materials",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0079642526001878?dgcid=rss_sd_all",
+      "summary": "Publication date: March 2027Source: Progress in Materials Science, Volume 165, Part BAuthor(s): Xin-Yao Ye, Yan-Hua Guan, Qin-Yang Lei, Ao-Cheng Wei, Hong-Zhen Sun, Si Hong, Lin Dai, Jia-Long Wen, Tong-Qi Yuan",
+      "source": "Progress in Materials Science",
+      "category": "general",
+      "published": null,
+      "title_zh": "釋放纖維素原料生產溶解紙漿的潛力：製造可持續和高性能材料的策略",
       "image": null,
       "image_checked": true
     }
