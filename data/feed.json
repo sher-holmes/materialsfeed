@@ -1,9 +1,53 @@
 {
-  "updated_at": "2026-09-23T02:44:42.534117+00:00",
+  "updated_at": "2026-09-24T02:36:03.779619+00:00",
   "sources_total": 35,
-  "sources_ok": 26,
-  "sources_failed": 9,
+  "sources_ok": 25,
+  "sources_failed": 10,
   "items": [
+    {
+      "title": "Adsorption–conversion synthesis of ultrathin intermetallics and high-entropy alloys",
+      "link": "https://www.nature.com/articles/s41563-026-02752-x",
+      "summary": "Nature Materials, Published online: 23 September 2026; doi:10.1038/s41563-026-02752-xAn adsorption–conversion strategy enables the synthesis of ultrathin intermetallic compounds and high-entropy metallic alloys with…",
+      "source": "Nature Materials",
+      "category": "general",
+      "published": "2026-09-23T00:00:00+00:00",
+      "title_zh": "超薄金屬間化合物及高熵合金的吸附轉化合成",
+      "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41563-026-02752-x/MediaObjects/41563_2026_2752_Fig1_HTML.png",
+      "image_checked": true
+    },
+    {
+      "title": "Interlayer hybridization promotes superconductivity in bilayer nickelates",
+      "link": "https://www.nature.com/articles/s41563-026-02750-z",
+      "summary": "Nature Materials, Published online: 23 September 2026; doi:10.1038/s41563-026-02750-zSpectroscopic studies on a series of bilayer nickelate (La,Pr)3Ni2O7 thin films with insulating, metallic and superconducting ground…",
+      "source": "Nature Materials",
+      "category": "general",
+      "published": "2026-09-23T00:00:00+00:00",
+      "title_zh": "層間雜交促進雙層鎳酸鹽的超導性",
+      "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41563-026-02750-z/MediaObjects/41563_2026_2750_Fig1_HTML.png",
+      "image_checked": true
+    },
+    {
+      "title": "Effective construction of rosin-based hydrophobic polyurethane coating film with high mechanical toughness and lasting anti-corrosive performance",
+      "link": "https://link.springer.com/article/10.1007/s11998-026-01366-x",
+      "summary": "With increasing environmental awareness and emphasis on sustainability, bio-based polyurethane coating films are emerging as promising alternatives to petroleum-based counterparts in protective and decorative…",
+      "source": "Journal of Coatings Technology and Research",
+      "category": "coating",
+      "published": "2026-09-23T00:00:00+00:00",
+      "title_zh": "有效施工鬆香基疏水性聚氨酯塗膜，具有高機械韌性和持久的防腐性能",
+      "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1007%2Fs11998-026-01366-x/MediaObjects/11998_2026_1366_Fig1_HTML.png",
+      "image_checked": true
+    },
+    {
+      "title": "Thermal Spray as a Scalable Alternative Processing Route for Solid-State Thin-Film Batteries",
+      "link": "https://link.springer.com/article/10.1007/s11666-026-02327-x",
+      "summary": "Solid-state thin-film batteries (SSTFBs) are attractive for applications where small footprint, safety, long cycle life, and device integration are more important than high absolute capacity. Their fabrication, however,…",
+      "source": "Journal of Thermal Spray Technology",
+      "category": "coating",
+      "published": "2026-09-23T00:00:00+00:00",
+      "title_zh": "熱噴霧作為固態薄膜電池的可擴展替代處理路線",
+      "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1007%2Fs11666-026-02327-x/MediaObjects/11666_2026_2327_Fig1_HTML.png",
+      "image_checked": true
+    },
     {
       "title": "Funding the new",
       "link": "https://www.nature.com/articles/s41563-026-02746-9",
@@ -46,6 +90,17 @@
       "published": "2026-09-21T00:00:00+00:00",
       "title_zh": "可持續發展的單材料塑料設計的進步和技術挑戰",
       "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41578-026-00961-z/MediaObjects/41578_2026_961_Fig1_HTML.png",
+      "image_checked": true
+    },
+    {
+      "title": "Co-doping enables band convergence, dopability preservation and dislocation engineering in PbTe thermoelectrics",
+      "link": "https://link.springer.com/article/10.1007/s40843-026-4290-9",
+      "summary": "",
+      "source": "Science China Materials",
+      "category": "general",
+      "published": "2026-09-21T00:00:00+00:00",
+      "title_zh": "在PbTe熱電學中，共摻雜可實現頻帶收斂、摻雜度保存和位錯工程",
+      "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1007%2Fs40843-026-4290-9/MediaObjects/40843_2026_4290_Fig1_HTML.jpg",
       "image_checked": true
     },
     {
@@ -112,83 +167,6 @@
       "published": "2026-09-18T00:00:00+00:00",
       "title_zh": "工程3D異質電極，用於通過混合海水電解生產節能氫氣的最佳質量傳輸和反應動力學",
       "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1007%2Fs40843-026-4297-4/MediaObjects/40843_2026_4297_Fig1_HTML.jpg",
-      "image_checked": true
-    },
-    {
-      "title": "Two-dimensional materials for advanced back-end-of-line and wafer backside technologies",
-      "link": "https://www.nature.com/articles/s41565-026-02274-2",
-      "summary": "Nature Nanotechnology, Published online: 17 September 2026; doi:10.1038/s41565-026-02274-2Two-dimensional materials offer low resistivity, strong thermal management and back-end-of-line compatibility, making them…",
-      "source": "Nature Nanotechnology",
-      "category": "general",
-      "published": "2026-09-17T00:00:00+00:00",
-      "title_zh": "用於先進後端和晶圓背面技術的二維材料",
-      "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41565-026-02274-2/MediaObjects/41565_2026_2274_Fig1_HTML.png",
-      "image_checked": true
-    },
-    {
-      "title": "Pressure as a design tool for thermoelectricity in Bi<sub>2</sub>Te<sub>3</sub>",
-      "link": "https://www.nature.com/articles/s41578-026-00967-7",
-      "summary": "Nature Reviews Materials, Published online: 17 September 2026; doi:10.1038/s41578-026-00967-7An article in Communications Materials reports a high-pressure and high-temperature processing strategy that permanently…",
-      "source": "Nature Reviews Materials",
-      "category": "general",
-      "published": "2026-09-17T00:00:00+00:00",
-      "title_zh": "Bi <sub>2</sub> Te<sub> 3</sub>中作為熱電設計工具的壓力",
-      "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41578-026-00967-7/MediaObjects/41578_2026_967_Figa_HTML.png",
-      "image_checked": true
-    },
-    {
-      "title": "Materials design and integration strategies for next-generation smart batteries",
-      "link": "https://www.nature.com/articles/s41578-026-00957-9",
-      "summary": "Nature Reviews Materials, Published online: 17 September 2026; doi:10.1038/s41578-026-00957-9Smart batteries require materials that can regulate degradation, sense hidden internal states and support decision-oriented…",
-      "source": "Nature Reviews Materials",
-      "category": "general",
-      "published": "2026-09-17T00:00:00+00:00",
-      "title_zh": "下一代智慧電池的材料設計與整合策略",
-      "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41578-026-00957-9/MediaObjects/41578_2026_957_Fig1_HTML.png",
-      "image_checked": true
-    },
-    {
-      "title": "Repair of CF-PEEK Composites based on Cold Spray Deposition: Impact Dynamics, Deposition Window, and Coating Properties",
-      "link": "https://link.springer.com/article/10.1007/s11666-026-02329-9",
-      "summary": "The cold spray deposition of polyether-ether-ketone (PEEK) particles onto carbon fiber-reinforced PEEK (CF-PEEK) substrates was investigated in this study. This process was employed as a surface engineering strategy for…",
-      "source": "Journal of Thermal Spray Technology",
-      "category": "coating",
-      "published": "2026-09-17T00:00:00+00:00",
-      "title_zh": "基於冷噴射沉積的CF-PEEK複合材料的修復：衝擊動力學、沉積窗口和塗層性能",
-      "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1007%2Fs11666-026-02329-9/MediaObjects/11666_2026_2329_Fig1_HTML.png",
-      "image_checked": true
-    },
-    {
-      "title": "Designer entropy enables negative and zero thermal expansion beyond 1000 K",
-      "link": "https://link.springer.com/article/10.1007/s40843-026-4433-5",
-      "summary": "Negative thermal expansion (NTE) materials offer valuable opportunities to understand the fundamental physics of thermal expansion and to enable engineering applications in inorganic functional materials. However, their…",
-      "source": "Science China Materials",
-      "category": "general",
-      "published": "2026-09-17T00:00:00+00:00",
-      "title_zh": "設計師熵可實現超過1000 K的負熱膨脹和零熱膨脹",
-      "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1007%2Fs40843-026-4433-5/MediaObjects/40843_2026_4433_Fig1_HTML.jpg",
-      "image_checked": true
-    },
-    {
-      "title": "Intrinsically crosslinked self-assembled long-lived polymeric room-temperature phosphorescent microspheres",
-      "link": "https://link.springer.com/article/10.1007/s40843-026-4294-4",
-      "summary": "Room-temperature phosphorescence (RTP) polymer materials have attracted significant attention due to their unique tunability and ease of processing, offering broad potential for applications in flexible electronics and…",
-      "source": "Science China Materials",
-      "category": "general",
-      "published": "2026-09-17T00:00:00+00:00",
-      "title_zh": "本質交聯自組裝長壽命聚合物室溫磷光微球",
-      "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1007%2Fs40843-026-4294-4/MediaObjects/40843_2026_4294_Fig1_HTML.jpg",
-      "image_checked": true
-    },
-    {
-      "title": "Liquid metal interconnects overcome the fill-factor limitations of stretchable pixelated electronic devices",
-      "link": "https://link.springer.com/article/10.1007/s40843-026-4368-y",
-      "summary": "",
-      "source": "Science China Materials",
-      "category": "general",
-      "published": "2026-09-17T00:00:00+00:00",
-      "title_zh": "液態金屬互連克服了可拉伸像素化電子設備的填充因子限制",
-      "image": "https://media.springernature.com/full/springer-static/cover-hires/journal/40843",
       "image_checked": true
     },
     {
@@ -4401,6 +4379,28 @@
       "category": "general",
       "published": null,
       "title_zh": "釋放纖維素原料生產溶解紙漿的潛力：製造可持續和高性能材料的策略",
+      "image": null,
+      "image_checked": true
+    },
+    {
+      "title": "Hydrogen sorption-induced tuning of magnetocaloric properties of heavy rare-earth-based Laves-phase DyCo<sub>2</sub> for hydrogen liquefaction",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1359645426008748?dgcid=rss_sd_all",
+      "summary": "Publication date: 1 December 2026Source: Acta Materialia, Volume 321Author(s): Allan M. Döring, Benedikt Beckmann, Fernando Maccari, Wei Liu, Alex Aubert, Lukas Schäfer, Xin Tang, Zexuan Wang, Hossein Sepehri-Amin,…",
+      "source": "Acta Materialia",
+      "category": "general",
+      "published": null,
+      "title_zh": "用於氫液化的重稀土基Laves相DyCo<sub> 2</sub>的磁熱特性的氫吸附誘導調整",
+      "image": null,
+      "image_checked": true
+    },
+    {
+      "title": "Formation mechanisms of meso-scale element segregation in multi-material metal additive manufacturing",
+      "link": "https://www.sciencedirect.com/science/article/pii/S135964542600892X?dgcid=rss_sd_all",
+      "summary": "Publication date: 1 December 2026Source: Acta Materialia, Volume 321Author(s): Yanming Zhang, Wenjun Ge, Chunxia Yao, Yang Li, Guochen Peng, Zeshi Yang, Shiwei Wu, Zixu Guo, Lu Wang, Lei Fan, Bingbing Zhang, Wentao Yan",
+      "source": "Acta Materialia",
+      "category": "general",
+      "published": null,
+      "title_zh": "多材料金屬增材製造中尺度元素偏析的形成機制",
       "image": null,
       "image_checked": true
     }
