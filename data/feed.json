@@ -1,9 +1,53 @@
 {
-  "updated_at": "2026-09-24T02:36:03.779619+00:00",
+  "updated_at": "2026-09-25T02:54:04.252997+00:00",
   "sources_total": 35,
-  "sources_ok": 25,
-  "sources_failed": 10,
+  "sources_ok": 26,
+  "sources_failed": 9,
   "items": [
+    {
+      "title": "Inoculating lithium against dendrites",
+      "link": "https://www.nature.com/articles/s41563-026-02757-6",
+      "summary": "Nature Materials, Published online: 24 September 2026; doi:10.1038/s41563-026-02757-6A grain refinement approach that involves Mg–1 wt% La inoculants is shown to delay void growth, enabling high critical current density…",
+      "source": "Nature Materials",
+      "category": "general",
+      "published": "2026-09-24T00:00:00+00:00",
+      "title_zh": "針對樹突接種鋰",
+      "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41563-026-02757-6/MediaObjects/41563_2026_2757_Fig1_HTML.png",
+      "image_checked": true
+    },
+    {
+      "title": "Multilevel molecular weaving",
+      "link": "https://www.nature.com/articles/s41563-026-02754-9",
+      "summary": "Nature Materials, Published online: 24 September 2026; doi:10.1038/s41563-026-02754-9Molecular weaving provides a bottom-up strategy for topological control of materials properties. Here, multiple woven topologies are…",
+      "source": "Nature Materials",
+      "category": "general",
+      "published": "2026-09-24T00:00:00+00:00",
+      "title_zh": "多層次分子織造",
+      "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41563-026-02754-9/MediaObjects/41563_2026_2754_Fig1_HTML.png",
+      "image_checked": true
+    },
+    {
+      "title": "Electrolyte design for future batteries",
+      "link": "https://www.nature.com/articles/s41578-026-00958-8",
+      "summary": "Nature Reviews Materials, Published online: 24 September 2026; doi:10.1038/s41578-026-00958-8Electrolyte design remains a central challenge in battery research. This Review explains how electrolytes’ molecular…",
+      "source": "Nature Reviews Materials",
+      "category": "general",
+      "published": "2026-09-24T00:00:00+00:00",
+      "title_zh": "適用於未來電池的電解質設計",
+      "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41578-026-00958-8/MediaObjects/41578_2026_958_Fig1_HTML.png",
+      "image_checked": true
+    },
+    {
+      "title": "Unraveling the Influence of Si<sub>3</sub>N<sub>4</sub> on the Microstructure and Mechanical Properties of TiAl Composite Coating",
+      "link": "https://link.springer.com/article/10.1007/s11666-026-02332-0",
+      "summary": "To improve the mechanical properties of TC21 titanium alloy, a TiAl-Si3N4 composite coating was prepared in an Al-rich environment by scanning electron beam, and the effect of beam current on the coating properties and…",
+      "source": "Journal of Thermal Spray Technology",
+      "category": "coating",
+      "published": "2026-09-24T00:00:00+00:00",
+      "title_zh": "解開Si<sub> 3</sub> N<sub> 4</sub>對TiAl複合塗層微觀組織和力學性能的影響",
+      "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1007%2Fs11666-026-02332-0/MediaObjects/11666_2026_2332_Fig1_HTML.jpg",
+      "image_checked": true
+    },
     {
       "title": "Adsorption–conversion synthesis of ultrathin intermetallics and high-entropy alloys",
       "link": "https://www.nature.com/articles/s41563-026-02752-x",
@@ -123,50 +167,6 @@
       "published": "2026-09-20T00:00:00+00:00",
       "title_zh": "打破陶瓷的功能-靈活性權衡：高熵工程Bi<sub> 4</sub> Ti<sub> 3</sub> O<sub> 12</sub>陶瓷",
       "image": "https://media.springernature.com/full/springer-static/cover-hires/journal/40843",
-      "image_checked": true
-    },
-    {
-      "title": "Scalable eco-friendly fabrication of hierarchical superhydrophobic metal surfaces for atmospheric water harvesting",
-      "link": "https://link.springer.com/article/10.1007/s11998-026-01368-9",
-      "summary": "The worldwide shortage of freshwater has fueled interest in atmospheric water harvesting (AWH) as a promising option for decentralized water generation. In this study, a scalable method for the fabrication of…",
-      "source": "Journal of Coatings Technology and Research",
-      "category": "coating",
-      "published": "2026-09-18T00:00:00+00:00",
-      "title_zh": "分層式超疏水金屬表面的可擴展環保製造，用於大氣集水",
-      "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1007%2Fs11998-026-01368-9/MediaObjects/11998_2026_1368_Fig1_HTML.png",
-      "image_checked": true
-    },
-    {
-      "title": "Grafting redox polymers onto covalent organic frameworks for fast charge transport",
-      "link": "https://link.springer.com/article/10.1007/s40843-026-4314-1",
-      "summary": "Current supercapacitors suffer from limited active site utilization and sluggish electron/ion transport, hindering their rate capability and energy density. Here, we synthesize a novel molecularly wired covalent organic…",
-      "source": "Science China Materials",
-      "category": "general",
-      "published": "2026-09-18T00:00:00+00:00",
-      "title_zh": "將氧化還原聚合物接枝到共價有機框架上，實現快速電荷傳輸",
-      "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1007%2Fs40843-026-4314-1/MediaObjects/40843_2026_4314_Fig1_HTML.jpg",
-      "image_checked": true
-    },
-    {
-      "title": "Gradient structure and interface engineering in metal matrix composites for superior mechanical and functional properties",
-      "link": "https://link.springer.com/article/10.1007/s40843-026-4407-x",
-      "summary": "Overcoming the strength-ductility trade-off remains a critical challenge for advanced structural materials. Metal matrix composites (MMCs) featuring spatially tailored gradient architectures and engineered interfaces…",
-      "source": "Science China Materials",
-      "category": "general",
-      "published": "2026-09-18T00:00:00+00:00",
-      "title_zh": "金屬基複合材料的梯度結構和界面工程，具有優異的機械和功能性能",
-      "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1007%2Fs40843-026-4407-x/MediaObjects/40843_2026_4407_Fig1_HTML.jpg",
-      "image_checked": true
-    },
-    {
-      "title": "Engineering 3D heterogeneous electrodes for optimized mass transfer and reaction kinetics in energy-saving hydrogen production via hybrid seawater electrolysis",
-      "link": "https://link.springer.com/article/10.1007/s40843-026-4297-4",
-      "summary": "Seawater electrolysis represents an attractive route for future hydrogen (H2) production, yet it has been severely hindered by precipitation blockage, competitive chlorine evolution, and high energy consumption. Herein,…",
-      "source": "Science China Materials",
-      "category": "general",
-      "published": "2026-09-18T00:00:00+00:00",
-      "title_zh": "工程3D異質電極，用於通過混合海水電解生產節能氫氣的最佳質量傳輸和反應動力學",
-      "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1007%2Fs40843-026-4297-4/MediaObjects/40843_2026_4297_Fig1_HTML.jpg",
       "image_checked": true
     },
     {
