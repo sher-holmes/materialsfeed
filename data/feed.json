@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-09-26T02:57:00.002140+00:00",
+  "updated_at": "2026-09-27T02:55:57.676787+00:00",
   "sources_total": 35,
-  "sources_ok": 26,
-  "sources_failed": 9,
+  "sources_ok": 25,
+  "sources_failed": 10,
   "items": [
     {
       "title": "The surface addresses the interconnect challenge",
@@ -244,28 +244,6 @@
       "published": "2026-09-21T00:00:00+00:00",
       "title_zh": "光刻有機場效應晶體管：從高精度構圖到高密度集成",
       "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1007%2Fs40843-026-4458-0/MediaObjects/40843_2026_4458_Fig1_HTML.jpg",
-      "image_checked": true
-    },
-    {
-      "title": "A self-renewing textile fluidic rectifier for continuous, high-fidelity wearable biochemical sensing in sweat",
-      "link": "https://link.springer.com/article/10.1007/s40843-026-4333-8",
-      "summary": "The transition toward continuous, personalized health management necessitates wearable platforms capable of high-fidelity biochemical monitoring. Although textile-based sensors provide ideal mechanical compliance and…",
-      "source": "Science China Materials",
-      "category": "general",
-      "published": "2026-09-20T00:00:00+00:00",
-      "title_zh": "自我更新的紡織流體整流器，用於汗液中的連續，高保真可穿戴式生化感測",
-      "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1007%2Fs40843-026-4333-8/MediaObjects/40843_2026_4333_Fig1_HTML.jpg",
-      "image_checked": true
-    },
-    {
-      "title": "Breaking the functionality-flexibility trade-off in ceramics: high-entropy engineered Bi<sub>4</sub>Ti<sub>3</sub>O<sub>12</sub> ceramics",
-      "link": "https://link.springer.com/article/10.1007/s40843-026-4280-4",
-      "summary": "",
-      "source": "Science China Materials",
-      "category": "general",
-      "published": "2026-09-20T00:00:00+00:00",
-      "title_zh": "打破陶瓷的功能-靈活性權衡：高熵工程Bi<sub> 4</sub> Ti<sub> 3</sub> O<sub> 12</sub>陶瓷",
-      "image": "https://media.springernature.com/full/springer-static/cover-hires/journal/40843",
       "image_checked": true
     },
     {
@@ -4401,6 +4379,28 @@
       "category": "coating",
       "published": null,
       "title_zh": "通過金屬間層調節和Al儲層優化在T91鋼上設計耐用的HDA-MAO混合Al<sub> 2</sub> O<sub> 3</sub>塗層，以實現高溫氧化保護",
+      "image": null,
+      "image_checked": true
+    },
+    {
+      "title": "Ultrasound-activatable bacteria for biomedical applications",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1369702126003664?dgcid=rss_sd_all",
+      "summary": "Publication date: November 2026Source: Materials Today, Volume 100, Part AAuthor(s): Yandi Tan, Qiuyu Cheng, Tong Xu, Heng Sun, Qiong Wang, Zhou Zhou, Kaiyuan Wang, Lingwen Ding, Qing You, Gege Wu, Xiaoyuan Chen, Xinwu…",
+      "source": "Materials Today",
+      "category": "general",
+      "published": null,
+      "title_zh": "生物醫學應用的超聲波活化細菌",
+      "image": null,
+      "image_checked": true
+    },
+    {
+      "title": "Superhydrophobic elastic fabric via COF/PPy synergy for wearable motion sensing and dual-energy personal thermal management",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1369702126003639?dgcid=rss_sd_all",
+      "summary": "Publication date: November 2026Source: Materials Today, Volume 100, Part AAuthor(s): Yingying Wang, Jingxuan Xu, Jingjing He, Sheng Chen, Jianyong Tang, Taipeng Jiang, Jian Wu, Weijie Wei, Lingling Zeng, Jin Li, Zhuwei…",
+      "source": "Materials Today",
+      "category": "general",
+      "published": null,
+      "title_zh": "通過COF/PPy協同作用的超疏水彈性織物，用於可穿戴運動傳感和雙能個人熱管理",
       "image": null,
       "image_checked": true
     }
