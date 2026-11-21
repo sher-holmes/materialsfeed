@@ -1,9 +1,207 @@
 {
-  "updated_at": "2026-11-20T05:28:00.464121+00:00",
+  "updated_at": "2026-11-21T05:09:53.346413+00:00",
   "sources_total": 35,
   "sources_ok": 31,
   "sources_failed": 4,
   "items": [
+    {
+      "title": "Residual LiF‐Derived Interfacial Engineering Enables Stable SiOx/Spent Graphite Anodes With Fast Li+ Transport and Superior Interfacial Stability",
+      "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adfm.79741?af=R",
+      "summary": "Advanced Functional Materials, EarlyView.",
+      "source": "Advanced Functional Materials",
+      "category": "general",
+      "published": "2026-11-20T09:13:52+00:00",
+      "title_zh": "殘留 LiF 衍生的介面工程實現了具有快速鋰離子傳導和卓越介面穩定性的穩定二氧化矽/廢石墨負極",
+      "image": null,
+      "image_checked": true
+    },
+    {
+      "title": "Inverse Design of Strongly Coupled Metasurfaces With Interface Effects for Multidimensional Electromagnetic Wave Control",
+      "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adfm.79635?af=R",
+      "summary": "Advanced Functional Materials, EarlyView.",
+      "source": "Advanced Functional Materials",
+      "category": "general",
+      "published": "2026-11-20T09:13:34+00:00",
+      "title_zh": "具有介面效應的強耦合超穎表面逆向設計，用於多維電磁波控制",
+      "image": null,
+      "image_checked": true
+    },
+    {
+      "title": "Re‐Evaluating the Role of Water in Hexacyanoferrate Cathodes for Sodium and Potassium Ion Batteries",
+      "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71842?af=R",
+      "summary": "Advanced Energy Materials, EarlyView.",
+      "source": "Advanced Energy Materials",
+      "category": "general",
+      "published": "2026-11-20T07:23:36+00:00",
+      "title_zh": "重新評估水在鈉離子與鉀離子電池的六氰合鐵酸鹽陰極中的作用",
+      "image": null,
+      "image_checked": true
+    },
+    {
+      "title": "Advances and Perspectives of Cobalt‐Free Li‐Rich Mn‐Based Layered Oxide Cathodes",
+      "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71846?af=R",
+      "summary": "Advanced Energy Materials, EarlyView.",
+      "source": "Advanced Energy Materials",
+      "category": "general",
+      "published": "2026-11-20T07:19:39+00:00",
+      "title_zh": "無鈷鋰富錳基層狀氧化物正極的進展與展望",
+      "image": null,
+      "image_checked": true
+    },
+    {
+      "title": "Molecular Engineering of Redox Mediator for Accelerated Multi‐Electron Transfer Reactions in Lithium Batteries",
+      "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71838?af=R",
+      "summary": "Advanced Energy Materials, EarlyView.",
+      "source": "Advanced Energy Materials",
+      "category": "general",
+      "published": "2026-11-20T07:17:12+00:00",
+      "title_zh": "用於鋰電池中加速多電子轉移反應的氧化還原介體分子工程",
+      "image": null,
+      "image_checked": true
+    },
+    {
+      "title": "Bioinspired Molecular‐Scale Tape Interface Towards Ultrahigh‐Pixel‐Density Flexible Quantum Dot Light‐Emitting Devices",
+      "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.75803?af=R",
+      "summary": "Advanced Materials, EarlyView.",
+      "source": "Advanced Materials",
+      "category": "general",
+      "published": "2026-11-20T07:06:49+00:00",
+      "title_zh": "仿生分子級膠帶介面，用於超高像素密度柔性量子點發光器件",
+      "image": null,
+      "image_checked": true
+    },
+    {
+      "title": "Trace‐Metal‐Assisted Flash Synthesis for Fast‐Charging Graphite Anodes",
+      "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.75785?af=R",
+      "summary": "Advanced Materials, EarlyView.",
+      "source": "Advanced Materials",
+      "category": "general",
+      "published": "2026-11-20T06:46:23+00:00",
+      "title_zh": "用於快速充電石墨負極的微量金屬輔助閃速合成",
+      "image": null,
+      "image_checked": true
+    },
+    {
+      "title": "Strong and Thermally Conductive Graphene‐Bamboo Nanocomposites by Topological Fiber‐Network Engineering Towards Intelligent Energy‐Efficient Floors",
+      "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.75777?af=R",
+      "summary": "Advanced Materials, EarlyView.",
+      "source": "Advanced Materials",
+      "category": "general",
+      "published": "2026-11-20T06:44:06+00:00",
+      "title_zh": "透過拓撲纖維網路工程製成的堅固且具導熱性的石墨烯-竹子奈米複合材料，用於智慧型節能地板",
+      "image": null,
+      "image_checked": true
+    },
+    {
+      "title": "Electronic Spin States in Oxygen Reduction: From Identification Divergence to Mechanism Clarification",
+      "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.75768?af=R",
+      "summary": "Advanced Materials, EarlyView.",
+      "source": "Advanced Materials",
+      "category": "general",
+      "published": "2026-11-20T06:40:34+00:00",
+      "title_zh": "氧還原中的電子自旋態：從辨識分歧到機制釐清",
+      "image": null,
+      "image_checked": true
+    },
+    {
+      "title": "Synergistic Integration of Materials and Design Strategies for Next‐Generation Stretchable Displays",
+      "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.75782?af=R",
+      "summary": "Advanced Materials, EarlyView.",
+      "source": "Advanced Materials",
+      "category": "general",
+      "published": "2026-11-20T06:37:52+00:00",
+      "title_zh": "下一代可伸縮顯示器的材料與設計策略的協同整合",
+      "image": null,
+      "image_checked": true
+    },
+    {
+      "title": "Influence of Local Curvature and Structural Chirality on Magnetic Spin Textures in Fe Thin‐Film Möbius Bands",
+      "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.75748?af=R",
+      "summary": "Advanced Materials, EarlyView.",
+      "source": "Advanced Materials",
+      "category": "general",
+      "published": "2026-11-20T06:34:48+00:00",
+      "title_zh": "局部曲率與結構手性對鐵薄膜莫比烏斯帶磁性自旋結構的影響",
+      "image": null,
+      "image_checked": true
+    },
+    {
+      "title": "Visualizing Microporosity Generated by Polyanion Vacancies in Single Crystals of (NH4)4[SiW12O40]",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1002/smll.76365?af=R",
+      "summary": "Small, EarlyView.",
+      "source": "Small",
+      "category": "general",
+      "published": "2026-11-20T03:00:10+00:00",
+      "title_zh": "可視化 (NH4)4[SiW12O40] 單晶中由多陰離子空位產生的微孔隙",
+      "image": null,
+      "image_checked": true
+    },
+    {
+      "title": "The person behind the scientist",
+      "link": "https://www.nature.com/articles/s41563-026-02808-y",
+      "summary": "Nature Materials, Published online: 20 November 2026; doi:10.1038/s41563-026-02808-yMatteo Seita and Mengying Liu discuss their reflections as organizers of The Past Metallurgists Society lecture series, where…",
+      "source": "Nature Materials",
+      "category": "general",
+      "published": "2026-11-20T00:00:00+00:00",
+      "title_zh": "科學家背後的人",
+      "image": null,
+      "image_checked": true
+    },
+    {
+      "title": "Nanostructures strengthen titanium alloys",
+      "link": "https://www.nature.com/articles/s41563-026-02801-5",
+      "summary": "Nature Materials, Published online: 20 November 2026; doi:10.1038/s41563-026-02801-5Machine learning guides the design of an additively manufactured titanium alloy containing superfine features at the 10 nm scale…",
+      "source": "Nature Materials",
+      "category": "general",
+      "published": "2026-11-20T00:00:00+00:00",
+      "title_zh": "奈米結構強化鈦合金",
+      "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41563-026-02801-5/MediaObjects/41563_2026_2801_Fig1_HTML.png",
+      "image_checked": true
+    },
+    {
+      "title": "High-loading all-solid-state lithium–sulfur batteries enabled by tailored sulfur–sulfide and sulfur–carbon interfaces",
+      "link": "https://www.nature.com/articles/s41563-026-02813-1",
+      "summary": "Nature Materials, Published online: 20 November 2026; doi:10.1038/s41563-026-02813-1All-solid-state lithium–sulfur batteries are a next-generation high-energy-density solution for energy storage. Here catholyte/cathode…",
+      "source": "Nature Materials",
+      "category": "general",
+      "published": "2026-11-20T00:00:00+00:00",
+      "title_zh": "透過量身定制的硫–硫化物和硫–碳介面實現的高載量全固態鋰–硫電池",
+      "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41563-026-02813-1/MediaObjects/41563_2026_2813_Fig1_HTML.png",
+      "image_checked": true
+    },
+    {
+      "title": "Tracking local chemomechanics in graphite–silicon composite electrodes",
+      "link": "https://www.nature.com/articles/s41565-026-02328-5",
+      "summary": "Nature Nanotechnology, Published online: 20 November 2026; doi:10.1038/s41565-026-02328-5Operando 4D imaging reveals how local ionic pathways govern activity in graphite–silicon battery electrodes.",
+      "source": "Nature Nanotechnology",
+      "category": "general",
+      "published": "2026-11-20T00:00:00+00:00",
+      "title_zh": "追蹤石墨－矽複合電極中的局部化學力學",
+      "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41565-026-02328-5/MediaObjects/41565_2026_2328_Fig1_HTML.png",
+      "image_checked": true
+    },
+    {
+      "title": "Four-dimensional X-ray nano-holotomography reveals multiscale chemomechanics in composite graphite–silicon battery electrodes",
+      "link": "https://www.nature.com/articles/s41565-026-02327-6",
+      "summary": "Nature Nanotechnology, Published online: 20 November 2026; doi:10.1038/s41565-026-02327-6Particle-resolved 4D nano-tomography identifies fast ionic transport pathways as key regulators of electrochemical activity and…",
+      "source": "Nature Nanotechnology",
+      "category": "general",
+      "published": "2026-11-20T00:00:00+00:00",
+      "title_zh": "四維 X 光奈米全像斷層掃描揭示複合石墨矽電池電極中的多尺度化學力學",
+      "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41565-026-02327-6/MediaObjects/41565_2026_2327_Fig1_HTML.png",
+      "image_checked": true
+    },
+    {
+      "title": "Antireflective bilayer metasurfaces with complete wavefront control",
+      "link": "https://www.nature.com/articles/s41565-026-02330-x",
+      "summary": "Nature Nanotechnology, Published online: 20 November 2026; doi:10.1038/s41565-026-02330-xA bilayer meta-atom structure engineers the antireflective capabilities of the metasurface, without affecting its full 0–2π…",
+      "source": "Nature Nanotechnology",
+      "category": "general",
+      "published": "2026-11-20T00:00:00+00:00",
+      "title_zh": "具有完整波前控制的抗反射雙層超穎表面",
+      "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41565-026-02330-x/MediaObjects/41565_2026_2330_Fig1_HTML.png",
+      "image_checked": true
+    },
     {
       "title": "Dressing Membrane in Nanoscale: Single Interlayer, Triple Protection",
       "link": "https://onlinelibrary.wiley.com/doi/10.1002/smll.76795?af=R",
@@ -11,7 +209,7 @@
       "source": "Small",
       "category": "general",
       "published": "2026-11-19T06:33:29+00:00",
-      "title_zh": null,
+      "title_zh": "奈米級敷料膜：單層夾層，三重防護",
       "image": null,
       "image_checked": true
     },
@@ -22,7 +220,7 @@
       "source": "Small",
       "category": "general",
       "published": "2026-11-19T06:30:48+00:00",
-      "title_zh": null,
+      "title_zh": "奈米侷限蛋黃殼反應器中由功函數差異所引發的電位差，以增強級聯酶樣催化作用",
       "image": null,
       "image_checked": true
     },
@@ -33,7 +231,7 @@
       "source": "Small",
       "category": "general",
       "published": "2026-11-19T06:23:11+00:00",
-      "title_zh": null,
+      "title_zh": "eQt 蛋白奈米籠遞送的 IL‐21 mRNA 全身性地重塑宿主免疫細胞，使其朝向幹細胞特性和成熟發展，以實現抗腫瘤免疫",
       "image": null,
       "image_checked": true
     },
@@ -44,7 +242,7 @@
       "source": "Small",
       "category": "general",
       "published": "2026-11-19T06:00:40+00:00",
-      "title_zh": null,
+      "title_zh": "鉑族金屬高熵合金奈米晶體中溫度依賴性合金轉化為氧化物的過程",
       "image": null,
       "image_checked": true
     },
@@ -55,7 +253,7 @@
       "source": "Small",
       "category": "general",
       "published": "2026-11-19T05:53:16+00:00",
-      "title_zh": null,
+      "title_zh": "透過雙軸定向拉伸優化聚醚醯亞胺的高溫儲能性能",
       "image": null,
       "image_checked": true
     },
@@ -66,7 +264,7 @@
       "source": "Small",
       "category": "general",
       "published": "2026-11-19T05:41:36+00:00",
-      "title_zh": null,
+      "title_zh": "用於高性能水性鋅離子電池的協同分子界面橋接與溶劑化結構調節",
       "image": null,
       "image_checked": true
     },
@@ -77,7 +275,7 @@
       "source": "Advanced Materials",
       "category": "general",
       "published": "2026-11-19T05:04:52+00:00",
-      "title_zh": null,
+      "title_zh": "反應誘導的動態共價網路實現適應性囊泡和分層生物介面",
       "image": null,
       "image_checked": true
     },
@@ -88,7 +286,7 @@
       "source": "Advanced Materials",
       "category": "general",
       "published": "2026-11-19T05:04:02+00:00",
-      "title_zh": null,
+      "title_zh": "透過智慧透明超穎表面進行聲學電磁資訊感測與安全防護",
       "image": null,
       "image_checked": true
     },
@@ -99,7 +297,7 @@
       "source": "Advanced Materials",
       "category": "general",
       "published": "2026-11-19T05:01:19+00:00",
-      "title_zh": null,
+      "title_zh": "金屬冶金界面工程構建富含 Li3N 的原位中間相：一種實現實用矽負極的體相－界面協同策略",
       "image": null,
       "image_checked": true
     },
@@ -110,7 +308,7 @@
       "source": "Advanced Materials",
       "category": "general",
       "published": "2026-11-19T05:00:26+00:00",
-      "title_zh": null,
+      "title_zh": "陽極選擇性蝕刻：以機制為中心的電化學減材製造觀點",
       "image": null,
       "image_checked": true
     },
@@ -121,7 +319,7 @@
       "source": "InfoMat",
       "category": "general",
       "published": "2026-11-19T02:26:44+00:00",
-      "title_zh": null,
+      "title_zh": "問題資訊",
       "image": null,
       "image_checked": true
     },
@@ -132,7 +330,7 @@
       "source": "InfoMat",
       "category": "general",
       "published": "2026-11-19T02:26:44+00:00",
-      "title_zh": null,
+      "title_zh": "封面圖片",
       "image": null,
       "image_checked": true
     },
@@ -143,7 +341,7 @@
       "source": "InfoMat",
       "category": "general",
       "published": "2026-11-19T02:26:44+00:00",
-      "title_zh": null,
+      "title_zh": "過渡金屬單原子電催化劑的前沿：設計策略、機制調控與電化學感測技術",
       "image": null,
       "image_checked": true
     },
@@ -154,7 +352,7 @@
       "source": "InfoMat",
       "category": "general",
       "published": "2026-11-19T02:26:44+00:00",
-      "title_zh": null,
+      "title_zh": "有機神經形態光電感測材料、智慧裝置與仿生系統",
       "image": null,
       "image_checked": true
     },
@@ -165,7 +363,7 @@
       "source": "InfoMat",
       "category": "general",
       "published": "2026-11-19T02:26:44+00:00",
-      "title_zh": null,
+      "title_zh": "二維過渡金屬二硫屬化物的 p 型摻雜的起源、驗證及對器件的影響",
       "image": null,
       "image_checked": true
     },
@@ -176,7 +374,7 @@
       "source": "InfoMat",
       "category": "general",
       "published": "2026-11-19T02:26:44+00:00",
-      "title_zh": null,
+      "title_zh": "用於高性能混合異質結構成像器件的二維分子晶體的可控生長",
       "image": null,
       "image_checked": true
     },
@@ -187,7 +385,7 @@
       "source": "InfoMat",
       "category": "general",
       "published": "2026-11-19T02:26:44+00:00",
-      "title_zh": null,
+      "title_zh": "具有超低切換電壓的范德瓦耳斯鐵電半導體隧道接面",
       "image": null,
       "image_checked": true
     },
@@ -198,7 +396,7 @@
       "source": "InfoMat",
       "category": "general",
       "published": "2026-11-19T02:26:44+00:00",
-      "title_zh": null,
+      "title_zh": "可程式化太陽盲紫外線感測器，實現整合式單像素感測與神經形態處理",
       "image": null,
       "image_checked": true
     },
@@ -209,7 +407,7 @@
       "source": "InfoMat",
       "category": "general",
       "published": "2026-11-19T02:26:44+00:00",
-      "title_zh": null,
+      "title_zh": "小極化子傳輸的局部畸變調控：熱電氧化物的設計自由度",
       "image": null,
       "image_checked": true
     },
@@ -220,7 +418,7 @@
       "source": "InfoMat",
       "category": "general",
       "published": "2026-11-19T02:26:44+00:00",
-      "title_zh": null,
+      "title_zh": "用於太陽能／電力雙模式熱管理紡織品的高熵氧化物奈米顆粒的鎵輔助熵工程",
       "image": null,
       "image_checked": true
     },
@@ -231,7 +429,7 @@
       "source": "Advanced Functional Materials",
       "category": "general",
       "published": "2026-11-19T02:19:44+00:00",
-      "title_zh": null,
+      "title_zh": "透過熱壓 Pd/Cu2O 奈米線陣列實現 CO2 高效且持久的 N,N‐二甲基甲醯胺電合成",
       "image": null,
       "image_checked": true
     },
@@ -242,7 +440,7 @@
       "source": "Advanced Functional Materials",
       "category": "general",
       "published": "2026-11-19T02:16:42+00:00",
-      "title_zh": null,
+      "title_zh": "氮誘導的不飽和釕單原子電極，用於低過電位的氯氣析出",
       "image": null,
       "image_checked": true
     },
@@ -253,7 +451,7 @@
       "source": "Advanced Functional Materials",
       "category": "general",
       "published": "2026-11-19T02:16:39+00:00",
-      "title_zh": null,
+      "title_zh": "使用低阻障石墨介面抑制 LATP 膜因 Mg2+ 而導致的鋰分離失效",
       "image": null,
       "image_checked": true
     },
@@ -264,7 +462,7 @@
       "source": "Advanced Functional Materials",
       "category": "general",
       "published": "2026-11-19T02:15:34+00:00",
-      "title_zh": null,
+      "title_zh": "在保形塗層的 3D 磁性奈米結構超材料中實現手性印記與自旋紋理可調性",
       "image": null,
       "image_checked": true
     },
@@ -275,7 +473,7 @@
       "source": "Advanced Functional Materials",
       "category": "general",
       "published": "2026-11-19T02:13:27+00:00",
-      "title_zh": null,
+      "title_zh": "矽基電極的挑戰與解決方案：介尺度黏合劑調節活性材料微環境綜述",
       "image": null,
       "image_checked": true
     },
@@ -286,7 +484,7 @@
       "source": "Advanced Functional Materials",
       "category": "general",
       "published": "2026-11-19T02:13:10+00:00",
-      "title_zh": null,
+      "title_zh": "主動光子管理實現聚酯的寬頻光防護與固有光穩定性",
       "image": null,
       "image_checked": true
     },
@@ -297,7 +495,7 @@
       "source": "Nature Materials",
       "category": "general",
       "published": "2026-11-19T00:00:00+00:00",
-      "title_zh": null,
+      "title_zh": "奈米顆粒在腫瘤中的轉運與滯留",
       "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41563-026-02742-z/MediaObjects/41563_2026_2742_Fig1_HTML.png",
       "image_checked": true
     },
@@ -308,7 +506,7 @@
       "source": "Nature Materials",
       "category": "general",
       "published": "2026-11-19T00:00:00+00:00",
-      "title_zh": null,
+      "title_zh": "奈米顆粒在實體瘤中的滯留",
       "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41563-026-02781-6/MediaObjects/41563_2026_2781_Fig1_HTML.png",
       "image_checked": true
     },
@@ -319,7 +517,7 @@
       "source": "Nature Reviews Materials",
       "category": "general",
       "published": "2026-11-19T00:00:00+00:00",
-      "title_zh": null,
+      "title_zh": "奈米纖維素從內部強化竹子",
       "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41578-026-00992-6/MediaObjects/41578_2026_992_Figa_HTML.png",
       "image_checked": true
     },
@@ -330,7 +528,7 @@
       "source": "Nature Reviews Materials",
       "category": "general",
       "published": "2026-11-19T00:00:00+00:00",
-      "title_zh": null,
+      "title_zh": "利用木材從陽光中收集熱能",
       "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41578-026-00994-4/MediaObjects/41578_2026_994_Figa_HTML.png",
       "image_checked": true
     },
@@ -341,7 +539,7 @@
       "source": "Small",
       "category": "general",
       "published": "2026-11-18T12:17:02+00:00",
-      "title_zh": null,
+      "title_zh": "二甲胺硼烷作為鈣鈦礦太陽能電池中結晶調控與缺陷鈍化的雙功能添加劑",
       "image": null,
       "image_checked": true
     },
@@ -352,7 +550,7 @@
       "source": "Small",
       "category": "general",
       "published": "2026-11-18T12:14:49+00:00",
-      "title_zh": null,
+      "title_zh": "從物理資訊深度學習到實驗實現：解鎖熵穩定型鈦鹵化物固態電解質",
       "image": null,
       "image_checked": true
     },
@@ -363,7 +561,7 @@
       "source": "Small",
       "category": "general",
       "published": "2026-11-18T12:05:08+00:00",
-      "title_zh": null,
+      "title_zh": "熵工程界面合金實現無枝晶且抗析氫的鋅金屬陽極",
       "image": null,
       "image_checked": true
     },
@@ -374,7 +572,7 @@
       "source": "Small",
       "category": "general",
       "published": "2026-11-18T11:51:51+00:00",
-      "title_zh": null,
+      "title_zh": "矽橋接多共振 TADF 發光體上的 π‐擴展芳香胺輔助取代基實現卓越的水平取向和長壽命藍色有機發光器件",
       "image": null,
       "image_checked": true
     },
@@ -385,7 +583,7 @@
       "source": "Advanced Functional Materials",
       "category": "general",
       "published": "2026-11-18T11:09:25+00:00",
-      "title_zh": null,
+      "title_zh": "用於穩定 CsPbI3 太陽能電池有序結晶的化學介面反應場",
       "image": null,
       "image_checked": true
     },
@@ -396,7 +594,7 @@
       "source": "Advanced Functional Materials",
       "category": "general",
       "published": "2026-11-18T11:01:57+00:00",
-      "title_zh": null,
+      "title_zh": "透過鋰和鹵素位點的協同置換，實現適用於全固態鋰電池的抗濕氣和抗枝晶argyrodite電解質",
       "image": null,
       "image_checked": true
     },
@@ -407,7 +605,7 @@
       "source": "Small",
       "category": "general",
       "published": "2026-11-18T11:00:24+00:00",
-      "title_zh": null,
+      "title_zh": "小傾角自動重建 (STAR)：一種基於機器學習的立體方法，用於實現即時 3D 微觀表徵",
       "image": null,
       "image_checked": true
     },
@@ -418,7 +616,7 @@
       "source": "Advanced Functional Materials",
       "category": "general",
       "published": "2026-11-18T10:59:22+00:00",
-      "title_zh": null,
+      "title_zh": "在硒摻雜的中空異質結構中操縱空間電荷分佈和電子結構，以增強鋰硫電池的氧化還原動力學",
       "image": null,
       "image_checked": true
     },
@@ -429,7 +627,7 @@
       "source": "Advanced Functional Materials",
       "category": "general",
       "published": "2026-11-18T10:58:18+00:00",
-      "title_zh": null,
+      "title_zh": "具有受控取向和導電性的單壁碳奈米管的基板引導生長",
       "image": null,
       "image_checked": true
     },
@@ -440,7 +638,7 @@
       "source": "Advanced Functional Materials",
       "category": "general",
       "published": "2026-11-18T10:57:24+00:00",
-      "title_zh": null,
+      "title_zh": "工程化三相介面微環境，以實現 CO2 電還原為多碳產物",
       "image": null,
       "image_checked": true
     },
@@ -451,7 +649,7 @@
       "source": "Advanced Functional Materials",
       "category": "general",
       "published": "2026-11-18T10:55:48+00:00",
-      "title_zh": null,
+      "title_zh": "用於單片式可伸縮電子元件的液態金屬顆粒可程式剝離轉移燒結",
       "image": null,
       "image_checked": true
     },
@@ -462,7 +660,7 @@
       "source": "Advanced Functional Materials",
       "category": "general",
       "published": "2026-11-18T10:55:45+00:00",
-      "title_zh": null,
+      "title_zh": "以水為觸發的氫鍵工程，用於磷酸酯 UV 非線性光學晶體",
       "image": null,
       "image_checked": true
     },
@@ -473,7 +671,7 @@
       "source": "Advanced Functional Materials",
       "category": "general",
       "published": "2026-11-18T10:52:31+00:00",
-      "title_zh": null,
+      "title_zh": "透過磷光實現熱控可調色有機餘輝，以延遲螢光轉化",
       "image": null,
       "image_checked": true
     },
@@ -484,7 +682,7 @@
       "source": "Small",
       "category": "general",
       "published": "2026-11-18T10:42:29+00:00",
-      "title_zh": null,
+      "title_zh": "用於高效綠色電致發光的氨基膦衍生物 InP 量子點的雙官能配體工程",
       "image": null,
       "image_checked": true
     },
@@ -495,7 +693,7 @@
       "source": "Small",
       "category": "general",
       "published": "2026-11-18T10:40:26+00:00",
-      "title_zh": null,
+      "title_zh": "用於雙功能埋入式介面改性的分子橋接：邁向高效且穩定的反式鈣鈦礦太陽能電池",
       "image": null,
       "image_checked": true
     },
@@ -506,7 +704,7 @@
       "source": "Small",
       "category": "general",
       "published": "2026-11-18T10:32:01+00:00",
-      "title_zh": null,
+      "title_zh": "用於高穩定性鋰金屬電池的陰離子錨定凝膠聚合物電解質",
       "image": null,
       "image_checked": true
     },
@@ -517,7 +715,7 @@
       "source": "Small",
       "category": "general",
       "published": "2026-11-18T10:22:47+00:00",
-      "title_zh": null,
+      "title_zh": "突破微孔侷限：具有路易斯酸鹼協同作用的 N、S 共摻雜碳奈米籠，用於高能量鋅離子混合電容器",
       "image": null,
       "image_checked": true
     },
@@ -528,7 +726,7 @@
       "source": "Advanced Materials",
       "category": "general",
       "published": "2026-11-18T08:49:50+00:00",
-      "title_zh": null,
+      "title_zh": "實現高效能鈣鈦礦太陽能電池的反應相轉換型 1D/3D 異質結構工程",
       "image": null,
       "image_checked": true
     },
@@ -704,7 +902,7 @@
       "source": "Advanced Materials",
       "category": "general",
       "published": "2026-11-18T08:44:26+00:00",
-      "title_zh": null,
+      "title_zh": "透過調節尖晶石鈷位點的自旋態，增強其在交變磁場下的光催化二氧化碳還原能力",
       "image": null,
       "image_checked": true
     },
@@ -715,7 +913,7 @@
       "source": "Advanced Materials",
       "category": "general",
       "published": "2026-11-18T08:43:28+00:00",
-      "title_zh": null,
+      "title_zh": "探究聲子動力學以實現富鎳單晶正極的動力學穩定性",
       "image": null,
       "image_checked": true
     },
@@ -726,7 +924,7 @@
       "source": "Advanced Materials",
       "category": "general",
       "published": "2026-11-18T08:39:21+00:00",
-      "title_zh": null,
+      "title_zh": "透過微針介導的基因轉染對裝甲型 CAR-巨噬細胞進行原位程式設計，用於黑色素瘤免疫療法",
       "image": null,
       "image_checked": true
     },
@@ -737,7 +935,7 @@
       "source": "Advanced Materials",
       "category": "general",
       "published": "2026-11-18T08:38:39+00:00",
-      "title_zh": null,
+      "title_zh": "用於治療過敏性鼻炎的仿生亞細胞化學機械奈米調節劑",
       "image": null,
       "image_checked": true
     },
@@ -2458,358 +2656,6 @@
       "image_checked": true
     },
     {
-      "title": "Biomimetic Optically Encoded Hydrogel Fiber Enables Simultaneous Olfactory‐Mechanosensory Perception for Robotic Plume Tracing",
-      "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.75739?af=R",
-      "summary": "Advanced Materials, EarlyView.",
-      "source": "Advanced Materials",
-      "category": "general",
-      "published": "2026-11-14T04:20:00+00:00",
-      "title_zh": "仿生光學編碼水凝膠纖維實現機器人氣流追蹤的嗅覺與機械感覺同步感知",
-      "image": null,
-      "image_checked": true
-    },
-    {
-      "title": "Covalently Integrated MXene–Fluorinated Polymer Electrolytes for 714 Wh Kg−1 Lithium–Metal Batteries",
-      "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.75721?af=R",
-      "summary": "Advanced Materials, EarlyView.",
-      "source": "Advanced Materials",
-      "category": "general",
-      "published": "2026-11-14T04:10:37+00:00",
-      "title_zh": "用於 714 Wh Kg−1 鋰金屬電池的共價整合 MXene–氟化聚合物電解質",
-      "image": null,
-      "image_checked": true
-    },
-    {
-      "title": "Pulsed Electrosynthesis of Conformal High‐Entropy Metallic Glass Skins for Durable Industrial Water Electrolysis",
-      "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.75714?af=R",
-      "summary": "Advanced Materials, EarlyView.",
-      "source": "Advanced Materials",
-      "category": "general",
-      "published": "2026-11-14T04:08:57+00:00",
-      "title_zh": "用於耐用工業水電解的等形高熵金屬玻璃薄膜的脈衝電合成",
-      "image": null,
-      "image_checked": true
-    },
-    {
-      "title": "Scalable Hybrid Photocatalysts for Visible‐Light Degradation of Waterborne Organic Contaminants",
-      "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.75719?af=R",
-      "summary": "Advanced Materials, EarlyView.",
-      "source": "Advanced Materials",
-      "category": "general",
-      "published": "2026-11-14T04:08:00+00:00",
-      "title_zh": "用於水性有機污染物可見光降解的可擴展混合型光觸媒",
-      "image": null,
-      "image_checked": true
-    },
-    {
-      "title": "Molecular Bridging Flexibility Enables Closed‐Pore Engineering in Hard Carbon for Enhanced Plateau Sodium Storage",
-      "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.75718?af=R",
-      "summary": "Advanced Materials, EarlyView.",
-      "source": "Advanced Materials",
-      "category": "general",
-      "published": "2026-11-14T03:13:31+00:00",
-      "title_zh": "分子橋接的靈活性實現了硬碳中的閉孔工程，以增強平穩的鈉儲存",
-      "image": null,
-      "image_checked": true
-    },
-    {
-      "title": "Li–B–Mg Composite Foils With a LiB0.88 Microrod Array Enable Ultrathin Self‐Supporting Lithium Metal Anodes",
-      "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.75747?af=R",
-      "summary": "Advanced Materials, EarlyView.",
-      "source": "Advanced Materials",
-      "category": "general",
-      "published": "2026-11-14T03:09:49+00:00",
-      "title_zh": "具有 LiB0.88 微棒陣列的 Li–B–Mg 複合箔材實現超薄自支撐鋰金屬負極",
-      "image": null,
-      "image_checked": true
-    },
-    {
-      "title": "Three‐Dimensional Topological Spin Textures Above Room Temperature in NdCo3 Magnet",
-      "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.75644?af=R",
-      "summary": "Advanced Materials, EarlyView.",
-      "source": "Advanced Materials",
-      "category": "general",
-      "published": "2026-11-14T03:08:02+00:00",
-      "title_zh": "NdCo3 磁體中高於室溫的三維拓撲自旋結構",
-      "image": null,
-      "image_checked": true
-    },
-    {
-      "title": "Spin Transport in Epitaxial Magnon Junctions With Pt‐Nanoparticle‐Decorated Y3Fe5O12/Gd3Ga5O12/Y3Fe5O12",
-      "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.75707?af=R",
-      "summary": "Advanced Materials, EarlyView.",
-      "source": "Advanced Materials",
-      "category": "general",
-      "published": "2026-11-14T03:07:10+00:00",
-      "title_zh": "在具有 Pt 奈米顆粒修飾的 Y3Fe5O12/Gd3Ga5O12/Y3Fe5O12 的磊晶磁振子接面中的自旋傳輸",
-      "image": null,
-      "image_checked": true
-    },
-    {
-      "title": "Colloidal Photonic Crystals Toward Scalable Manufacturing and Reliable Functions",
-      "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202505302?af=R",
-      "summary": "Advanced Materials, EarlyView.",
-      "source": "Advanced Materials",
-      "category": "general",
-      "published": "2026-11-14T02:34:14+00:00",
-      "title_zh": "邁向可擴展製造與可靠功能的膠體光子晶體",
-      "image": null,
-      "image_checked": true
-    },
-    {
-      "title": "4D‐Printed Intelligent Electromagnetic Materials for Adaptive Microwave Stealth and Multispectral Camouflage",
-      "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.75627?af=R",
-      "summary": "Advanced Materials, EarlyView.",
-      "source": "Advanced Materials",
-      "category": "general",
-      "published": "2026-11-14T02:32:00+00:00",
-      "title_zh": "用於自適應微波隱身與多光譜偽裝的 4D 列印智慧電磁材料",
-      "image": null,
-      "image_checked": true
-    },
-    {
-      "title": "Dynamic Interfacial S–O Bonding Stabilizes Oxygen Redox Through Reversible Electron Confinement",
-      "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.75712?af=R",
-      "summary": "Advanced Materials, EarlyView.",
-      "source": "Advanced Materials",
-      "category": "general",
-      "published": "2026-11-14T02:29:50+00:00",
-      "title_zh": "動態介面 S–O 鍵結透過可逆電子束縛穩定氧的氧化還原反應",
-      "image": null,
-      "image_checked": true
-    },
-    {
-      "title": "Chain‐Regulated Degradation of Polyvinyl Chloride in UiO‐Type Metal–Organic Frameworks",
-      "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.75642?af=R",
-      "summary": "Advanced Materials, EarlyView.",
-      "source": "Advanced Materials",
-      "category": "general",
-      "published": "2026-11-14T02:27:40+00:00",
-      "title_zh": "聚氯乙烯在 UiO 型金屬有機骨架中的鏈調節降解",
-      "image": null,
-      "image_checked": true
-    },
-    {
-      "title": "Reconstructing Colloidal NiOx Contacts for Efficient and Lamination‐Resilient Perovskite Photovoltaics",
-      "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.75703?af=R",
-      "summary": "Advanced Materials, EarlyView.",
-      "source": "Advanced Materials",
-      "category": "general",
-      "published": "2026-11-14T02:25:33+00:00",
-      "title_zh": "重建膠體氧化鎳觸點，以實現高效且耐層壓的鈣鈦礦太陽能電池",
-      "image": null,
-      "image_checked": true
-    },
-    {
-      "title": "A Scalable Protrusion‐Targeted Electrolyte Enables 500 Wh Kg−1 Lithium Metal Batteries With 500‐Cycle Stability",
-      "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.75687?af=R",
-      "summary": "Advanced Materials, EarlyView.",
-      "source": "Advanced Materials",
-      "category": "general",
-      "published": "2026-11-14T02:22:08+00:00",
-      "title_zh": "一種可擴展的突起靶向電解質實現了具有 500 次循環穩定性的 500 Wh Kg−1 鋰金屬電池",
-      "image": null,
-      "image_checked": true
-    },
-    {
-      "title": "High‐Efficiency Perovskite‐Organic Tandem Solar Cells Enabled by Perovskite Crystallization Optimization and Metal‐Free Interconnecting Layer",
-      "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.75735?af=R",
-      "summary": "Advanced Materials, EarlyView.",
-      "source": "Advanced Materials",
-      "category": "general",
-      "published": "2026-11-14T02:20:14+00:00",
-      "title_zh": "透過鈣鈦礦結晶最佳化與無金屬互連層實現的高效鈣鈦礦有機串聯太陽能電池",
-      "image": null,
-      "image_checked": true
-    },
-    {
-      "title": "Simultaneous Reduction of Silver and Indium in Silicon Heterojunction Solar Cells via Contact Transport Engineering",
-      "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adfm.79518?af=R",
-      "summary": "Advanced Functional Materials, EarlyView.",
-      "source": "Advanced Functional Materials",
-      "category": "general",
-      "published": "2026-11-13T19:07:15+00:00",
-      "title_zh": "透過接觸傳輸工程在矽異質接面太陽能電池中同時減少銀和銦的用量",
-      "image": null,
-      "image_checked": true
-    },
-    {
-      "title": "Prussian Blue Analogue Cathode Materials for Sodium‐Ion Batteries: A Comprehensive Review",
-      "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adfm.79608?af=R",
-      "summary": "Advanced Functional Materials, EarlyView.",
-      "source": "Advanced Functional Materials",
-      "category": "general",
-      "published": "2026-11-13T19:03:40+00:00",
-      "title_zh": "用於鈉離子電池的普魯士藍類似物陰極材料：綜合回顧",
-      "image": null,
-      "image_checked": true
-    },
-    {
-      "title": "Targeted MBene‐Based Photothermal Therapy With Active Host Thermoprotection for MRSA Keratitis",
-      "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adfm.79624?af=R",
-      "summary": "Advanced Functional Materials, EarlyView.",
-      "source": "Advanced Functional Materials",
-      "category": "general",
-      "published": "2026-11-13T18:59:39+00:00",
-      "title_zh": "針對 MRSA 角膜炎的 MBene 基標靶光熱療法，結合主動宿主熱防護",
-      "image": null,
-      "image_checked": true
-    },
-    {
-      "title": "A Bio‐Inspired Binary Micro‐Structured Transparent Meta‐Film for Thermal Signature Control and Multispectral Camouflage",
-      "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adfm.79577?af=R",
-      "summary": "Advanced Functional Materials, EarlyView.",
-      "source": "Advanced Functional Materials",
-      "category": "general",
-      "published": "2026-11-13T18:53:05+00:00",
-      "title_zh": "一種仿生二元微結構透明超薄膜，用於熱特徵控制與多光譜偽裝",
-      "image": null,
-      "image_checked": true
-    },
-    {
-      "title": "Ether‐Oxygen‐Functionalized Ionic Liquid Electrolytes Enabling Intrinsically Safe 535 Wh Kg−1 Lithium Metal Batteries",
-      "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adfm.79644?af=R",
-      "summary": "Advanced Functional Materials, EarlyView.",
-      "source": "Advanced Functional Materials",
-      "category": "general",
-      "published": "2026-11-13T18:49:51+00:00",
-      "title_zh": "醚氧官能化離子液體電解質實現本質安全的 535 Wh Kg−1 鋰金屬電池",
-      "image": null,
-      "image_checked": true
-    },
-    {
-      "title": "Sabatier Principle‐Guided Co‐Solvent Selection for Highly Reversible Aqueous Zinc Batteries",
-      "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71839?af=R",
-      "summary": "Advanced Energy Materials, EarlyView.",
-      "source": "Advanced Energy Materials",
-      "category": "general",
-      "published": "2026-11-13T17:13:14+00:00",
-      "title_zh": "基於薩巴捷原理的共溶劑選擇，用於高度可逆的水性鋅電池",
-      "image": null,
-      "image_checked": true
-    },
-    {
-      "title": "Fabrication of Tri‐Phase Lithium Alloy in Seconds via an Implosion‐Popcorn Reaction Toward Stable Lithium Metal Batteries",
-      "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71820?af=R",
-      "summary": "Advanced Energy Materials, EarlyView.",
-      "source": "Advanced Energy Materials",
-      "category": "general",
-      "published": "2026-11-13T17:10:59+00:00",
-      "title_zh": "透過內爆爆米花反應在幾秒鐘內製備三相鋰合金，以實現穩定的鋰金屬電池",
-      "image": null,
-      "image_checked": true
-    },
-    {
-      "title": "Multifunctional Thermo‐Electronic Smart Fabrics Integrating Radiative Cooling and Energy Harvesting for Self‐Powered Intelligent Perception",
-      "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71835?af=R",
-      "summary": "Advanced Energy Materials, EarlyView.",
-      "source": "Advanced Energy Materials",
-      "category": "general",
-      "published": "2026-11-13T17:09:12+00:00",
-      "title_zh": "整合輻射冷卻與能量收集的多功能熱電智慧織物，用於自供電智慧感知",
-      "image": null,
-      "image_checked": true
-    },
-    {
-      "title": "Light‐Assisted Anion Exchange Membrane Water and Seawater Electrolysis on a Core–Shell Co‐P@Cu2O Catalyst",
-      "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71807?af=R",
-      "summary": "Advanced Energy Materials, EarlyView.",
-      "source": "Advanced Energy Materials",
-      "category": "general",
-      "published": "2026-11-13T17:07:12+00:00",
-      "title_zh": "基於核殼結構 Co-P@Cu2O 催化劑的輕輔助陰離子交換膜水電解與海水電解",
-      "image": null,
-      "image_checked": true
-    },
-    {
-      "title": "Breaking the Thermal Limits: Solvation Chemistry of Hydrogel Electrolytes for Extreme‐Temperature Stable Zinc‐Ion Batteries",
-      "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71795?af=R",
-      "summary": "Advanced Energy Materials, EarlyView.",
-      "source": "Advanced Energy Materials",
-      "category": "general",
-      "published": "2026-11-13T17:06:23+00:00",
-      "title_zh": "突破溫度極限：用於極端溫度下穩定的鋅離子電池的水凝膠電解質溶劑化化學",
-      "image": null,
-      "image_checked": true
-    },
-    {
-      "title": "Quinone Carbonyl‐Functionalized Carbon Dots Enable Selective 2e− Oxygen Reduction for Benzyl Alcohol‐Assisted Photocatalytic H2O2 Production",
-      "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71801?af=R",
-      "summary": "Advanced Energy Materials, EarlyView.",
-      "source": "Advanced Energy Materials",
-      "category": "general",
-      "published": "2026-11-13T17:04:21+00:00",
-      "title_zh": "醌羰基官能化碳點實現苯甲醇輔助光催化 H2O2 生成的選擇性 2e− 氧還原",
-      "image": null,
-      "image_checked": true
-    },
-    {
-      "title": "Gradient‐Driven Spatial Relay in Titanium Oxynitride for Photocatalytic CO2‐to‐C2H4 Conversion",
-      "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71833?af=R",
-      "summary": "Advanced Energy Materials, EarlyView.",
-      "source": "Advanced Energy Materials",
-      "category": "general",
-      "published": "2026-11-13T17:03:23+00:00",
-      "title_zh": "鈦氧氮化物中梯度驅動的空間轉移，用於光催化二氧化碳轉化為乙烯",
-      "image": null,
-      "image_checked": true
-    },
-    {
-      "title": "Proton Competition Induced Stabilization in TEMPO‐Based Redox‐Targeting Flow Batteries",
-      "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71832?af=R",
-      "summary": "Advanced Energy Materials, EarlyView.",
-      "source": "Advanced Energy Materials",
-      "category": "general",
-      "published": "2026-11-13T16:59:52+00:00",
-      "title_zh": "基於 TEMPO 的氧化還原靶向流電池中質子競爭誘導的穩定性",
-      "image": null,
-      "image_checked": true
-    },
-    {
-      "title": "Ductile Polycrystalline AgCuSe With Preferred Orientation for High Power Density Flexible Thermoelectric Device",
-      "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71815?af=R",
-      "summary": "Advanced Energy Materials, EarlyView.",
-      "source": "Advanced Energy Materials",
-      "category": "general",
-      "published": "2026-11-13T16:57:22+00:00",
-      "title_zh": "具有優選取向的延性多晶 AgCuSe，適用於高功率密度柔性熱電器件",
-      "image": null,
-      "image_checked": true
-    },
-    {
-      "title": "Machine‐Learning‐Guided Structural Design of Interlayer‐Confined PEI‐Based Composites for Superior Dielectric Energy Storage",
-      "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71828?af=R",
-      "summary": "Advanced Energy Materials, EarlyView.",
-      "source": "Advanced Energy Materials",
-      "category": "general",
-      "published": "2026-11-13T16:56:00+00:00",
-      "title_zh": "基於機器學習的介層約束 PEI 基複合材料結構設計，以實現卓越的介電儲能",
-      "image": null,
-      "image_checked": true
-    },
-    {
-      "title": "Biomimetic Multifunctional Surfaces: Engineering Intelligent Multifunctionality Through Bioinspired Structures",
-      "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adfm.79606?af=R",
-      "summary": "Advanced Functional Materials, EarlyView.",
-      "source": "Advanced Functional Materials",
-      "category": "general",
-      "published": "2026-11-13T16:36:35+00:00",
-      "title_zh": "仿生多功能表面：透過仿生結構實現智慧多功能性",
-      "image": null,
-      "image_checked": true
-    },
-    {
-      "title": "Dynamic Physicochemical Gradients for Tendon–Bone Regeneration",
-      "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adfm.79351?af=R",
-      "summary": "Advanced Functional Materials, EarlyView.",
-      "source": "Advanced Functional Materials",
-      "category": "general",
-      "published": "2026-11-13T16:33:01+00:00",
-      "title_zh": "用於肌腱–骨骼再生的動態物理化學梯度",
-      "image": null,
-      "image_checked": true
-    },
-    {
       "title": "Conventional Sintering for Unconventional Performance: Robust Amorphous Carbon/Diamond Composites",
       "link": "https://www.sciencedirect.com/science/article/pii/S1369702126003603?dgcid=rss_sd_all",
       "summary": "Publication date: November 2026Source: Materials Today, Volume 100, Part AAuthor(s): Zitai Liang, Song Zhao, Penghui Li, Weiyao Zhang, Yefei Zhou, Bing Liu, Ke Tong, Baozhong Li, Mengdong Ma, Shuai Chen, Yingju Wu,…",
@@ -4401,6 +4247,160 @@
       "category": "general",
       "published": null,
       "title_zh": "超快極紫外光子學：從發射到操縱",
+      "image": null,
+      "image_checked": true
+    },
+    {
+      "title": "Self-assembled DNA nanomaterials for advanced therapies",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1369702126004177?dgcid=rss_sd_all",
+      "summary": "Publication date: December 2026Source: Materials Today, Volume 101Author(s): Zhimei He, Bing Liu, Zixiao Yang, Lei Gao, Qifeng Zhu, Lei Wang, Yao Ma, Jie Chao",
+      "source": "Materials Today",
+      "category": "general",
+      "published": null,
+      "title_zh": "用於先進療法的自組裝 DNA 奈米材料",
+      "image": null,
+      "image_checked": true
+    },
+    {
+      "title": "Evolution of size-regulated microstructure enabling non-monotonic mechanical deformation transition in pyrolyzed carbon",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1369702126004141?dgcid=rss_sd_all",
+      "summary": "Publication date: December 2026Source: Materials Today, Volume 101Author(s): Shuo Yang, Pedro Guerra Demingos, Peter Serles, Ehsan Nikbin, Dian Yu, Boran Kumral, Lizhong Lang, Nima Barri, Tianjie Feng, Charles Jia, Jane…",
+      "source": "Materials Today",
+      "category": "general",
+      "published": null,
+      "title_zh": "尺寸受控微結構的演變實現了熱解碳的非單調機械變形轉變",
+      "image": null,
+      "image_checked": true
+    },
+    {
+      "title": "Self-assembling platinum nanotherapeutics reconfigure immunochemotherapy through palmitoylation-directed checkpoint destabilization",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1369702126004207?dgcid=rss_sd_all",
+      "summary": "Publication date: December 2026Source: Materials Today, Volume 101Author(s): Shaolong Qi, Xiangyi Kong, Xueyan Zhang, Yuan Yu, Wenjie Zhang, Mengyao Li, Lin Chen, Wei Jiang, Xianling Cong, Yunxuan Feng, Jiaqi Lei, Jiayi…",
+      "source": "Materials Today",
+      "category": "general",
+      "published": null,
+      "title_zh": "自組裝鉑奈米治療藥物透過棕櫚醯化導向的檢查點破壞來重構免疫化療",
+      "image": null,
+      "image_checked": true
+    },
+    {
+      "title": "Charge-polarized tellurium nanoclusters promote four-electron oxygen reduction",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1369702126004219?dgcid=rss_sd_all",
+      "summary": "Publication date: December 2026Source: Materials Today, Volume 101Author(s): Yong Li, Kai Huang, Yao Wu, Zeming Wang, Kang Wang, Huazhang Guo, Jiye Zhang, Cheng Lian, Zheng Liu, Liang Wang",
+      "source": "Materials Today",
+      "category": "general",
+      "published": null,
+      "title_zh": "電荷極化碲奈米叢集促進四電子氧還原",
+      "image": null,
+      "image_checked": true
+    },
+    {
+      "title": "Innovative metallic and metal-composite materials for the first wall of thermonuclear reactors: perspectives and critical overview",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1369702126003901?dgcid=rss_sd_all",
+      "summary": "Publication date: December 2026Source: Materials Today, Volume 101Author(s): Igor Levchenko, Claudia Riccardi, Hector Eduardo Roman, Oleg Baranov, Uros Cvelbar, Shuyan Xu, Michael Keidar, Katia Alexander",
+      "source": "Materials Today",
+      "category": "general",
+      "published": null,
+      "title_zh": "用於熱核反應爐第一壁的創新金屬和金屬複合材料：展望與關鍵概述",
+      "image": null,
+      "image_checked": true
+    },
+    {
+      "title": "Dual-interface redox engineering via phenolic molecules for high-performance tin-based perovskite solar cells",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1369702126004116?dgcid=rss_sd_all",
+      "summary": "Publication date: December 2026Source: Materials Today, Volume 101Author(s): Chuan Luo, Hengqi Huang, Rongxing Li, Xiaoxue Wang, Jiamin Meng, Junyu Qu, Lihong Bai, Pengxiang Bao, Yujian Han, Xingxing Wang, Chunyang Yin,…",
+      "source": "Materials Today",
+      "category": "general",
+      "published": null,
+      "title_zh": "透過酚類分子實現雙介面氧化還原工程，用於高效能錫基鈣鈦礦太陽能電池",
+      "image": null,
+      "image_checked": true
+    },
+    {
+      "title": "Decoupling lattice stabilization and interfacial kinetics through asymmetric heterointerfaces for high-voltage LiCoO<sub>2</sub> cathode",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1369702126004190?dgcid=rss_sd_all",
+      "summary": "Publication date: December 2026Source: Materials Today, Volume 101Author(s): Xuan Zhou, Yongbiao Mu, Yingsheng Liao, Lujie Cao, Zhenjie Xi, Jun Cheng, Yu Wang, Xiangyu Wen, Rui Wang, Ziwei Chen, Jingyu Lu, Lin Zeng,…",
+      "source": "Materials Today",
+      "category": "general",
+      "published": null,
+      "title_zh": "透過非對稱異質界面實現高電壓 LiCoO<sub> 2</sub>陰極的晶格穩定化與界面動力學解耦",
+      "image": null,
+      "image_checked": true
+    },
+    {
+      "title": "Laser-guided ion dynamics in a dual-mode memristor for bioinspired neuronal and synaptic integration",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1369702126003986?dgcid=rss_sd_all",
+      "summary": "Publication date: December 2026Source: Materials Today, Volume 101Author(s): Yu Jin Jeong, Gangmin Lee, Kyung Hwan Kim, Young Bin Kim, Hyera Shin, Jung Won Oh, Sang Hyeon Sung, Jaehun An, Kanghyun Kim, Keon Jae Lee",
+      "source": "Materials Today",
+      "category": "general",
+      "published": null,
+      "title_zh": "雙模態電阻記憶體中雷射引導的離子動力學，用於仿生神經元與突觸整合",
+      "image": null,
+      "image_checked": true
+    },
+    {
+      "title": "Achieving superior strength-ductility synergy and enhanced high-temperature properties in hierarchical oriented lamellar TiAl alloys",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1369702126004128?dgcid=rss_sd_all",
+      "summary": "Publication date: December 2026Source: Materials Today, Volume 101Author(s): Yuede Cao, Yang Chen, Fengrui Chen, Hanzheng Xing, Zhixiang Qi, Gong Zheng, Henggao Xiang, Yonghao Zhao, Xiaoyan Li, Guang Chen",
+      "source": "Materials Today",
+      "category": "general",
+      "published": null,
+      "title_zh": "在分層定向層狀 TiAl 合金中實現卓越的強度-延展性協同效應和強化的高溫性能",
+      "image": null,
+      "image_checked": true
+    },
+    {
+      "title": "Soft fibrous networks overcome mechanical constraints to suppress stem cell aging and promote bone repair",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1369702126003779?dgcid=rss_sd_all",
+      "summary": "Publication date: December 2026Source: Materials Today, Volume 101Author(s): Qingqing Liang, Xiangyu Dong, Dongwei Wu, Jiacheng Lei, Lei Liu, Xiaojing Liu",
+      "source": "Materials Today",
+      "category": "general",
+      "published": null,
+      "title_zh": "柔軟的纖維網路克服機械性限制，以抑制幹細胞老化並促進骨骼修復",
+      "image": null,
+      "image_checked": true
+    },
+    {
+      "title": "Nucleic acid therapeutic strategies for reprogramming immune tolerance",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1369702126004189?dgcid=rss_sd_all",
+      "summary": "Publication date: December 2026Source: Materials Today, Volume 101Author(s): Ziran Zhou, Haomiao Dun, Yiyun Zhang, Yaru Jia, Yuanyu Huang, Xueyun Gao, Jinchao Zhang, Mengliang Zhu, Xing-Jie Liang",
+      "source": "Materials Today",
+      "category": "general",
+      "published": null,
+      "title_zh": "用於重塑免疫耐受的核酸治療策略",
+      "image": null,
+      "image_checked": true
+    },
+    {
+      "title": "Visions for hydrogen-based materials for energy applications",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1369702126003792?dgcid=rss_sd_all",
+      "summary": "Publication date: December 2026Source: Materials Today, Volume 101Author(s): Torben R. Jensen, Craig E. Buckley, Stefano Deledda, Martin Dornheim, Yaroslav Filinchuk, Björgvin Hjörvarsson, Shin-ichi Orimo, Gunnar Karl…",
+      "source": "Materials Today",
+      "category": "general",
+      "published": null,
+      "title_zh": "氫基材料在能源應用方面的願景",
+      "image": null,
+      "image_checked": true
+    },
+    {
+      "title": "Role of local lattice distortion in the defect evolution of NbTiZr-based refractory high entropy alloys under heavy ion irradiation",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1359645426010360?dgcid=rss_sd_all",
+      "summary": "Publication date: 15 January 2027Source: Acta Materialia, Volume 323Author(s): Zhuocheng Xie, Zhaoying Ding, Soumya S. Dash, Huicong Chen, Hao Chen, Tianyi Lyu, Xuemei Wang, Yinyin Hong, Lin Shao, Penghao Xiao, Yanwen…",
+      "source": "Acta Materialia",
+      "category": "general",
+      "published": null,
+      "title_zh": "局部晶格畸變在 NbTiZr 基耐高溫高熵合金受重離子照射下缺陷演變過程中的作用",
+      "image": null,
+      "image_checked": true
+    },
+    {
+      "title": "Dislocation-rich Mn-doped Ni catalysts activate magnesium hydrogen storage through strained Mg<sub>2</sub>Ni/Mg<sub>2</sub>NiH<sub>4</sub> interfaces",
+      "link": "https://www.sciencedirect.com/science/article/pii/S135964542601044X?dgcid=rss_sd_all",
+      "summary": "Publication date: 15 January 2027Source: Acta Materialia, Volume 323Author(s): Haotian Sun, Wanqiang Liu, Yufei Liu, Wenfeng Qiao, Yao Liang, Lele Liu, Ying Wang, Chunli Wang, Jianguang Yuan, Han Zhu, Limin Wang, Yong…",
+      "source": "Acta Materialia",
+      "category": "general",
+      "published": null,
+      "title_zh": "富含位錯的摻雜錳鎳催化劑透過應變的 Mg<sub> 2</sub> Ni/Mg<sub> 2</sub> NiH<sub> 4</sub>界面活化鎂氫儲存",
       "image": null,
       "image_checked": true
     }
