@@ -1,9 +1,75 @@
 {
-  "updated_at": "2026-11-22T04:29:22.435016+00:00",
+  "updated_at": "2026-11-23T05:08:55.493431+00:00",
   "sources_total": 35,
   "sources_ok": 31,
   "sources_failed": 4,
   "items": [
+    {
+      "title": "High-Quality Cu Metallization of Ceramics via Cold Spray Enabled by Ti or Cu-Ti Buffer Layer",
+      "link": "https://link.springer.com/article/10.1007/s11666-026-02355-7",
+      "summary": "Metallized ceramics have been widely used as the electronic packaging substrate; however, the present metallization processes suffer from high energy consumption and/or toxic emission. As a clean process, cold spray is…",
+      "source": "Journal of Thermal Spray Technology",
+      "category": "coating",
+      "published": "2026-11-23T00:00:00+00:00",
+      "title_zh": "透過鈦或銅-鈦緩衝層實現的陶瓷冷噴塗高品質銅金屬化",
+      "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1007%2Fs11666-026-02355-7/MediaObjects/11666_2026_2355_Fig1_HTML.png",
+      "image_checked": true
+    },
+    {
+      "title": "Synergistic Effect of HVOF-Sprayed WC-Co/NiCr and PVD-Deposited AlCrN/ZrN/ZrCN Layers on High-Temperature Tribological Performance",
+      "link": "https://link.springer.com/article/10.1007/s11666-026-02371-7",
+      "summary": "AlCrN coatings deposited by PVD often suffer from brittleness and limited load-bearing capacity, leading to premature failure under severe loading conditions. To address these challenges, a WC-Co/NiCr interlayer was…",
+      "source": "Journal of Thermal Spray Technology",
+      "category": "coating",
+      "published": "2026-11-22T00:00:00+00:00",
+      "title_zh": "HVOF 噴塗 WC-Co/NiCr 與 PVD 沉積 AlCrN/ZrN/ZrCN 塗層對高溫摩擦學性能的協同效應",
+      "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1007%2Fs11666-026-02371-7/MediaObjects/11666_2026_2371_Fig1_HTML.png",
+      "image_checked": true
+    },
+    {
+      "title": "Liquid Flame Sprayed TiO<sub>2</sub>-Phosphate Composite Coatings with Tailored Micro-Nano Porous Structures for Durable Photocatalytic Activities",
+      "link": "https://link.springer.com/article/10.1007/s11666-026-02370-8",
+      "summary": "With the increasing discharge of refractory organic pollutants and pathogenic microorganisms into aquatic environments, the development of durable photocatalytic coatings for efficient wastewater purification and…",
+      "source": "Journal of Thermal Spray Technology",
+      "category": "coating",
+      "published": "2026-11-22T00:00:00+00:00",
+      "title_zh": "具有專門設計的微納米多孔結構的液體火焰噴塗<sub>二氧化</sub>鈦-磷酸鹽複合塗層，具有持久的光催化活性",
+      "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1007%2Fs11666-026-02370-8/MediaObjects/11666_2026_2370_Fig1_HTML.png",
+      "image_checked": true
+    },
+    {
+      "title": "Al/F Co‐Doped Sulfide Electrolyte for Durable All‐Solid‐State Lithium‐Organic Batteries",
+      "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71853?af=R",
+      "summary": "Advanced Energy Materials, EarlyView.",
+      "source": "Advanced Energy Materials",
+      "category": "general",
+      "published": "2026-11-21T15:29:06+00:00",
+      "title_zh": "用於耐用全固態有機鋰電池的 Al/F 共摻雜硫化物電解質",
+      "image": null,
+      "image_checked": true
+    },
+    {
+      "title": "Cd Vacancy‐Mediated Orbital Hybridization and Ultrafast Charge Separation in Pt Single‐Atom Photocatalysts",
+      "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71849?af=R",
+      "summary": "Advanced Energy Materials, EarlyView.",
+      "source": "Advanced Energy Materials",
+      "category": "general",
+      "published": "2026-11-21T15:22:50+00:00",
+      "title_zh": "鉑單原子光催化劑中的鎘空位介導的軌域雜化與超快電荷分離",
+      "image": null,
+      "image_checked": true
+    },
+    {
+      "title": "N‐Doped Coral Carbon for Synergistic Iodine Anchoring in High‐Capacity and Long‐Life Aqueous Zinc‐Iodine Batteries",
+      "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71862?af=R",
+      "summary": "Advanced Energy Materials, EarlyView.",
+      "source": "Advanced Energy Materials",
+      "category": "general",
+      "published": "2026-11-21T15:21:11+00:00",
+      "title_zh": "用於高容量和長壽命水性鋅碘電池中碘協同錨定的氮摻雜珊瑚碳",
+      "image": null,
+      "image_checked": true
+    },
     {
       "title": "Synergistic Salt‐Bridge and Hydrophobic Interaction‐Driven Supramolecular Adhesives Enable Ultrastrong Dry/Underwater Bonding and Broad Harsh‐Condition Adaptability: Polyelectrolyte‐Templated Multi‐Promoting Effects",
       "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.75820?af=R",
@@ -2612,50 +2678,6 @@
       "image_checked": true
     },
     {
-      "title": "Two-dimensional material membranes with precisely tunable interlayer spacing from nanometre to submillimetre",
-      "link": "https://www.nature.com/articles/s41563-026-02799-w",
-      "summary": "Nature Materials, Published online: 16 November 2026; doi:10.1038/s41563-026-02799-wA deprotonation–ion coordination strategy is developed for microstructural engineering of layered material membranes, enabling the…",
-      "source": "Nature Materials",
-      "category": "general",
-      "published": "2026-11-16T00:00:00+00:00",
-      "title_zh": "具有從奈米到亞毫米精準可調層間間距的二維材料膜",
-      "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41563-026-02799-w/MediaObjects/41563_2026_2799_Fig1_HTML.png",
-      "image_checked": true
-    },
-    {
-      "title": "Controlling the flow of information in optical metrology",
-      "link": "https://www.nature.com/articles/s41563-026-02789-y",
-      "summary": "Nature Materials, Published online: 16 November 2026; doi:10.1038/s41563-026-02789-yBy treating Fisher information as a conserved wave quantity, nanophotonic systems can be designed to control information generation and…",
-      "source": "Nature Materials",
-      "category": "general",
-      "published": "2026-11-16T00:00:00+00:00",
-      "title_zh": "控制光學計量中的資訊流",
-      "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41563-026-02789-y/MediaObjects/41563_2026_2789_Fig1_HTML.png",
-      "image_checked": true
-    },
-    {
-      "title": "Cold-Sprayed Cu-TiO<sub>2</sub> Composite Coatings: Microstructural, Wettability, Corrosion Resistance, and Mechanical Performance for Maritime Applications",
-      "link": "https://link.springer.com/article/10.1007/s11666-026-02368-2",
-      "summary": "Marine infrastructure is constantly exposed to harsh, salt-laden environments, which accelerate corrosion and lead to rapid material degradation. Cu-TiO2 composite coatings have been successfully deposited via cold…",
-      "source": "Journal of Thermal Spray Technology",
-      "category": "coating",
-      "published": "2026-11-16T00:00:00+00:00",
-      "title_zh": "冷噴塗銅-二氧化鈦<sub>複</sub>合塗層：用於海洋應用的微結構、潤濕性、耐腐蝕性和機械性能",
-      "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1007%2Fs11666-026-02368-2/MediaObjects/11666_2026_2368_Fig1_HTML.png",
-      "image_checked": true
-    },
-    {
-      "title": "Quicklime Slaking‐Mediated Exothermic Reactions in Polidocanol‐Integrated Ablators with Inhibited Heat Diffusion Enable Cancer Thermal Ablation",
-      "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.75736?af=R",
-      "summary": "Advanced Materials, EarlyView.",
-      "source": "Advanced Materials",
-      "category": "general",
-      "published": "2026-11-15T04:06:24+00:00",
-      "title_zh": "在含有抑制熱擴散功能的聚多卡醇整合消融器中，透過生石灰消解介導的放熱反應實現癌症熱消融",
-      "image": null,
-      "image_checked": true
-    },
-    {
       "title": "Conventional Sintering for Unconventional Performance: Robust Amorphous Carbon/Diamond Composites",
       "link": "https://www.sciencedirect.com/science/article/pii/S1369702126003603?dgcid=rss_sd_all",
       "summary": "Publication date: November 2026Source: Materials Today, Volume 100, Part AAuthor(s): Zitai Liang, Song Zhao, Penghui Li, Weiyao Zhang, Yefei Zhou, Bing Liu, Ke Tong, Baozhong Li, Mengdong Ma, Shuai Chen, Yingju Wu,…",
@@ -4379,28 +4401,6 @@
       "category": "general",
       "published": null,
       "title_zh": "氫基材料在能源應用方面的願景",
-      "image": null,
-      "image_checked": true
-    },
-    {
-      "title": "Role of local lattice distortion in the defect evolution of NbTiZr-based refractory high entropy alloys under heavy ion irradiation",
-      "link": "https://www.sciencedirect.com/science/article/pii/S1359645426010360?dgcid=rss_sd_all",
-      "summary": "Publication date: 15 January 2027Source: Acta Materialia, Volume 323Author(s): Zhuocheng Xie, Zhaoying Ding, Soumya S. Dash, Huicong Chen, Hao Chen, Tianyi Lyu, Xuemei Wang, Yinyin Hong, Lin Shao, Penghao Xiao, Yanwen…",
-      "source": "Acta Materialia",
-      "category": "general",
-      "published": null,
-      "title_zh": "局部晶格畸變在 NbTiZr 基耐高溫高熵合金受重離子照射下缺陷演變過程中的作用",
-      "image": null,
-      "image_checked": true
-    },
-    {
-      "title": "Dislocation-rich Mn-doped Ni catalysts activate magnesium hydrogen storage through strained Mg<sub>2</sub>Ni/Mg<sub>2</sub>NiH<sub>4</sub> interfaces",
-      "link": "https://www.sciencedirect.com/science/article/pii/S135964542601044X?dgcid=rss_sd_all",
-      "summary": "Publication date: 15 January 2027Source: Acta Materialia, Volume 323Author(s): Haotian Sun, Wanqiang Liu, Yufei Liu, Wenfeng Qiao, Yao Liang, Lele Liu, Ying Wang, Chunli Wang, Jianguang Yuan, Han Zhu, Limin Wang, Yong…",
-      "source": "Acta Materialia",
-      "category": "general",
-      "published": null,
-      "title_zh": "富含位錯的摻雜錳鎳催化劑透過應變的 Mg<sub> 2</sub> Ni/Mg<sub> 2</sub> NiH<sub> 4</sub>界面活化鎂氫儲存",
       "image": null,
       "image_checked": true
     }
